@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+
+<!-- Street lights -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukStreetLightBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukStreetLightBaseB</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Wall lights -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukWallLightBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukWallLightBaseB</defName>
+	</DesignatorDropdownGroupDef>
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukWallLightBaseC</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- lights -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukLightBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukLightBaseB</defName>
+	</DesignatorDropdownGroupDef>
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukLightBaseC</defName>
+	</DesignatorDropdownGroupDef>
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukLightBaseD</defName>
+	</DesignatorDropdownGroupDef>
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukLightBaseE</defName>
+	</DesignatorDropdownGroupDef>
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukLightBaseF</defName>
+	</DesignatorDropdownGroupDef>
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukLightBaseG</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Table A (1X1) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukTableBaseA</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Table B (2X1) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukTableBaseB</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Table C (3X1) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukTableBaseC</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Table D (2X2) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukTableBaseD</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Table E (3X2) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukTableBaseE</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Table G (1X1) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukTableBaseG</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Table F (3X1) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukTableBaseF</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Chair A (Dining Chair) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukChairBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Chair B (Stool) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukChairBaseB</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Chair C (Office Chair) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukChairBaseC</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Bed A (1 Pawn) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukBedBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Bed B (2 Pawn) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukBedBaseB</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Furniture A (End Table) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukFurnitureBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Furniture B (Dresser) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukFurnitureBaseB</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Carpet  A (2X1) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukCarpetBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Carpet  B (2X2) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukCarpetBaseB</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Carpet  C (3X3) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukCarpetBaseC</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Surgery A (Medical Equipement) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukSurgeryBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Surgery B (Medical Beds) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukSurgeryBaseB</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Research A (Research Bench) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukResearchBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Research B (Research Equipment) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukResearchBaseB</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Heaters A -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukHeaterBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Cooler A -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukCoolerBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Vent A -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukVentBaseA</defName>
+	</DesignatorDropdownGroupDef>
+	
+<!-- Banner A (High Banners) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukBannerBaseA</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Banner B (High Flags) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukBannerBaseB</defName>
+	</DesignatorDropdownGroupDef>
+
+<!-- Banner C (Warning Sign) -->
+	<DesignatorDropdownGroupDef>
+		<defName>SadjuukBannerBaseC</defName>
+	</DesignatorDropdownGroupDef>
+  
+</Defs>
