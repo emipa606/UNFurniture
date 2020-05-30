@@ -1,10 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-
-
-<!-- UN-Furniture -->
-    <DesignationCategoryDef>
+  <!-- UN-Furniture -->
+  <DesignationCategoryDef>
     <defName>SadjuukUN-Furniture</defName>
     <label>UN-Furniture</label>
     <description>Available technologies from UN and UNSC colonization program</description>
@@ -14,5 +11,4 @@
       <li>Designator_Deconstruct</li>
     </specialDesignatorClasses>
   </DesignationCategoryDef>
-  
 </Defs>

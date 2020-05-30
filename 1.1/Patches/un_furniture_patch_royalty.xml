@@ -1,22 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Patch>
-
- <!--================================ patches for royalty ======================================-->
- 
-	
-	<!--========================= adding double beds =============================-->
-	<Operation Class="PatchOperationFindMod">
-		<mods>
-		  <li>Royalty</li>
-		</mods>
-		<match Class="PatchOperationAdd">
-			<xpath>*/RoyalTitleDef[defName = "Esquire" or defName = "Knight" or defName = "Praetor"]/bedroomRequirements/li[@Class = "RoomRequirement_ThingAnyOf"]/things</xpath>
-			<value>
-				<li>SadjuukBedBA</li>
-				<li>SadjuukBedBB</li>
-				<li>SadjuukBedBC</li>
-			</value>
-		</match>
-	</Operation>
-	
+  <!--================================ patches for royalty ======================================-->
+  <!--========================= adding double beds =============================-->
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Royalty</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>*/RoyalTitleDef[defName = "Esquire" or defName = "Knight" or defName = "Praetor"]/bedroomRequirements/li[@Class = "RoomRequirement_ThingAnyOf"]/things</xpath>
+      <value>
+        <li>SadjuukBedBA</li>
+        <li>SadjuukBedBB</li>
+        <li>SadjuukBedBC</li>
+      </value>
+    </match>
+  </Operation>
 </Patch>
