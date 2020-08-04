@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============================================================================= -->
+  <!-- #4 Lighting -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukLightA</defName>
+    <label>LED Lighting</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Efficient lighting based on LED technology.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukColonization</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukLightB</defName>
+    <label>Street Lighting</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Industrial outdoor Lighting.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukLightA</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukLightC</defName>
+    <label>Advanced Lighting</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Advanced and armored lighting.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukLightB</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>4</researchViewY>
+  </ResearchProjectDef>
+  <!-- ============================================================================= -->
+  <!-- #4.5 Surgery -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukSurgeryA</defName>
+    <label>Medical Equipement</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Medical bed and equipment to practice correctly surgery.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukColonization</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>4.5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukSurgeryB</defName>
+    <label>Surgery Equipement</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Operating Table and Surgery Lighting to improve the surgery quality.</description>
+    <baseCost>2400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukSurgeryA</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>4.5</researchViewY>
+  </ResearchProjectDef>
+  <!--
+    <ResearchProjectDef>
+    <defName>SadjuukSurgeryC</defName>
+    <label>Advanced Surgery</label>
+	<tab>SadjuukColonizationTab</tab>
+    <description>Advanced equipment for advanced patient support and emergency intervention.</description>
+    <baseCost>4800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukSurgeryB</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>4.5</researchViewY>
+    </ResearchProjectDef>  
+-->
+  <!-- ============================================================================= -->
+  <!-- #5 Furnitures -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukFurnitureA</defName>
+    <label>Steel Furniture</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Furniture mainly using steel.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukColonization</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukFurnitureB</defName>
+    <label>Glass Furniture</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Furniture using hard-to-use materials like glass or ceramic plate.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukFurnitureA</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukFurnitureC</defName>
+    <label>Advanced Furniture</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Furniture using advanced design and advanced materials.</description>
+    <baseCost>2400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukFurnitureB</li>
+    </prerequisites>
+    <researchViewX>3</researchViewX>
+    <researchViewY>5</researchViewY>
+  </ResearchProjectDef>
+  <!-- ============================================================================= -->
+  <!-- #5.5 Temperature -->
+  <!-- ============================================================================= -->
+  <ResearchProjectDef>
+    <defName>SadjuukTemperatureA</defName>
+    <label>Temperature Devices</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Temperature Regulation based on ceramic technology.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukColonization</li>
+    </prerequisites>
+    <researchViewX>1</researchViewX>
+    <researchViewY>5.5</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>SadjuukTemperatureB</defName>
+    <label>Advanced Regulation</label>
+    <tab>SadjuukColonizationTab</tab>
+    <description>Advanced Temperature Regulation.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>SadjuukTemperatureA</li>
+    </prerequisites>
+    <researchViewX>2</researchViewX>
+    <researchViewY>5.5</researchViewY>
+  </ResearchProjectDef>
+</Defs>
