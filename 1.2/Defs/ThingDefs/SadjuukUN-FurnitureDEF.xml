@@ -5511,6 +5511,17 @@ Ceramic Air Cooler with good performance. Have to be placed on a wall.</descript
     </graphicData>
     <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAGIcon</uiIconPath>
   </ThingDef>
+  <!-- Banner AT -->
+  <ThingDef ParentName="SadjuukBannerBaseA">
+    <defName>SadjuukHighBannerAT</defName>
+    <label>Green Banner</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerAT</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerA/SadjuukHighBannerATIcon</uiIconPath>
+  </ThingDef>
   <!-- Banner AH -->
   <ThingDef ParentName="SadjuukBannerBaseA">
     <defName>SadjuukHighBannerAH</defName>
@@ -5741,6 +5752,17 @@ Ceramic Air Cooler with good performance. Have to be placed on a wall.</descript
       <drawSize>(5,5)</drawSize>
     </graphicData>
     <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBGIcon</uiIconPath>
+  </ThingDef>
+  <!-- Banner BT -->
+  <ThingDef ParentName="SadjuukBannerBaseB">
+    <defName>SadjuukHighBannerBT</defName>
+    <label>Green Flag</label>
+    <graphicData>
+      <texPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBT</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(5,5)</drawSize>
+    </graphicData>
+    <uiIconPath>SadjuukUN-Furniture/SadjuukHighBannerB/SadjuukHighBannerBTIcon</uiIconPath>
   </ThingDef>
   <!-- Banner BH -->
   <ThingDef ParentName="SadjuukBannerBaseB">
