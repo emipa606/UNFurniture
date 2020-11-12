@@ -20,22 +20,31 @@
   <loadAfter>
     <li>Mlie.UNColony</li>
   </loadAfter>
-  <description>Update of Sadjuuks mod
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Sadjuuks mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1547681343
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+Version that uses vanilla resources, by OutboundLegend:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2086216872
 
-Support-chat:
-https://discord.gg/SuhwVpM
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Non-steam version:
-https://github.com/emipa606/UNFurniture
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/UNFurniture][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+This mod adds more furniture to UN-Colony mod. 
+[h1]Needs UN-Colony as core :[/h1] https://steamcommunity.com/sharedfiles/filedetails/?id=1542036108
+
+
 For the moment this mod adds :
 
-3 complete sets of furniture
-(Wood log for tribes, wood planks looking and steel. Glass furniture and advanced one are not complete yet, you will find only the tables for the moment) :
+[h1]3 complete sets of furniture[/h1] (Wood log for tribes, wood planks looking and steel. Glass furniture and advanced one are not complete yet, you will find only the tables for the moment) :
 -&gt; 1X1, 2X1, 2X2, 3X1 and 3X2 Tables,
 -&gt; A 1X1 small bedroom table,
 -&gt; A office desk or meeting table (good if you use the mod psychology)
@@ -43,32 +52,31 @@ For the moment this mod adds :
 -&gt; Beds and double beds,
 -&gt; End tables (or Chest) and Dressers (or lockers).
 
-3 complete sets of surgery
-(The same, advanced stuff will come later) :
+[h1]3 complete sets of surgery[/h1] (The same, advanced stuff will come later) :
 -&gt; Medical beds,
 -&gt; Surgery tools (use them as vitals monitor),
 -&gt; Surgery light,
 -&gt; Surgery table.
 
-3 complete sets of research furniture :
+[h1]3 complete sets of research furniture :[/h1]
 -&gt; Research bench (0,5 speed for tribes, 0,6 in wood, 0,7 in steel),
 -&gt; Research upgrades (10% speed bonus for each : Tribal calendar, wooden library, files lockers and blueprint table).
 
-12 Lights :
+[h1]12 Lights :[/h1]
 -&gt; Electric torch lights or spots,
 -&gt; Wall lights,
 -&gt; Street lights.
 
-9 temperature devices :
--&gt; 3 vents of a new kind : you place them directly on the existing walls, without to remove it,
+[h1]9 temperature devices :[/h1]
+-&gt; 3 vents of a new kind  : you place them directly on the existing walls, without to remove it,
 -&gt; 1 electric fan (use it as an electric passive cooler)
--&gt; 2 coolers of a new kind : To place directly on the existing walls,
+-&gt; 2 coolers of a new kind  : To place directly on the existing walls,
 -&gt; 2 wall heaters (Place them as the wall lights),
 -&gt; 1 central heating to warm large space.
 
-And some decorations :
+[h1]And some decorations :[/h1]
 -&gt; 9 Carpets 2X1 sized, 9 2X2 and 9 3X3 sized, from Hay, Cloth or Synthread.
--&gt; Flags,
+-&gt; Flags, 
 -&gt; Banners,
 -&gt; Warning signs.
 
@@ -76,6 +84,5 @@ The mod is not complete yet and your proposal are welcome !
 Coming Soon : Glass set of furniture, advanced set of furniture, advanced surgery equipment, carpets, fire pits...
 
 
-Hope you will enjoy !
-	</description>
+Hope you will enjoy !</description>
 </ModMetaData>

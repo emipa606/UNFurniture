@@ -1,1941 +1,1305 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- White Street Light AW -->
-
-  <SadjuukStreetLightAW.label>White Street Light</SadjuukStreetLightAW.label>
-  <SadjuukStreetLightAW.description>P : 40W, L : 16
-An industrial outdoor Street Light</SadjuukStreetLightAW.description>
-  <SadjuukStreetLightAW_Blueprint.label>White Street Light (blueprint)</SadjuukStreetLightAW_Blueprint.label>
-  <SadjuukStreetLightAW_Blueprint_Install.label>White Street Light (blueprint)</SadjuukStreetLightAW_Blueprint_Install.label>
-  <SadjuukStreetLightAW_Frame.label>White Street Light (building)</SadjuukStreetLightAW_Frame.label>
-  <SadjuukStreetLightAW_Frame.description>P : 40W, L : 16
-An industrial outdoor Street Light</SadjuukStreetLightAW_Frame.description>
-
-
+  <!--<SadjuukStreetLightAW.label>White Street Light</SadjuukStreetLightAW.label>-->
+  <!--<SadjuukStreetLightAW.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightAW.description>-->
+  <!--<SadjuukStreetLightAW_Blueprint.label>White Street Light (blueprint)</SadjuukStreetLightAW_Blueprint.label>-->
+  <!--<SadjuukStreetLightAW_Blueprint_Install.label>White Street Light (blueprint)</SadjuukStreetLightAW_Blueprint_Install.label>-->
+  <!--<SadjuukStreetLightAW_Frame.label>White Street Light (building)</SadjuukStreetLightAW_Frame.label>-->
+  <!--<SadjuukStreetLightAW_Frame.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightAW_Frame.description>-->
   <!-- Yellow Street Light AY -->
-
-  <SadjuukStreetLightAY.label>Yellow Street Light</SadjuukStreetLightAY.label>
-  <SadjuukStreetLightAY.description>P : 40W, L : 16
-An industrial outdoor Street Light</SadjuukStreetLightAY.description>
-  <SadjuukStreetLightAY_Blueprint.label>Yellow Street Light (blueprint)</SadjuukStreetLightAY_Blueprint.label>
-  <SadjuukStreetLightAY_Blueprint_Install.label>Yellow Street Light (blueprint)</SadjuukStreetLightAY_Blueprint_Install.label>
-  <SadjuukStreetLightAY_Frame.label>Yellow Street Light (building)</SadjuukStreetLightAY_Frame.label>
-  <SadjuukStreetLightAY_Frame.description>P : 40W, L : 16
-An industrial outdoor Street Light</SadjuukStreetLightAY_Frame.description>
-
-
+  <!--<SadjuukStreetLightAY.label>Yellow Street Light</SadjuukStreetLightAY.label>-->
+  <!--<SadjuukStreetLightAY.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightAY.description>-->
+  <!--<SadjuukStreetLightAY_Blueprint.label>Yellow Street Light (blueprint)</SadjuukStreetLightAY_Blueprint.label>-->
+  <!--<SadjuukStreetLightAY_Blueprint_Install.label>Yellow Street Light (blueprint)</SadjuukStreetLightAY_Blueprint_Install.label>-->
+  <!--<SadjuukStreetLightAY_Frame.label>Yellow Street Light (building)</SadjuukStreetLightAY_Frame.label>-->
+  <!--<SadjuukStreetLightAY_Frame.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightAY_Frame.description>-->
   <!-- White Street Light BW -->
-
-  <SadjuukStreetLightBW.label>White Street Light</SadjuukStreetLightBW.label>
-  <SadjuukStreetLightBW.description>P : 40W, L : 16
-An industrial outdoor Street Light</SadjuukStreetLightBW.description>
-  <SadjuukStreetLightBW_Blueprint.label>White Street Light (blueprint)</SadjuukStreetLightBW_Blueprint.label>
-  <SadjuukStreetLightBW_Blueprint_Install.label>White Street Light (blueprint)</SadjuukStreetLightBW_Blueprint_Install.label>
-  <SadjuukStreetLightBW_Frame.label>White Street Light (building)</SadjuukStreetLightBW_Frame.label>
-  <SadjuukStreetLightBW_Frame.description>P : 40W, L : 16
-An industrial outdoor Street Light</SadjuukStreetLightBW_Frame.description>
-
-
+  <!--<SadjuukStreetLightBW.label>White Street Light</SadjuukStreetLightBW.label>-->
+  <!--<SadjuukStreetLightBW.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightBW.description>-->
+  <!--<SadjuukStreetLightBW_Blueprint.label>White Street Light (blueprint)</SadjuukStreetLightBW_Blueprint.label>-->
+  <!--<SadjuukStreetLightBW_Blueprint_Install.label>White Street Light (blueprint)</SadjuukStreetLightBW_Blueprint_Install.label>-->
+  <!--<SadjuukStreetLightBW_Frame.label>White Street Light (building)</SadjuukStreetLightBW_Frame.label>-->
+  <!--<SadjuukStreetLightBW_Frame.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightBW_Frame.description>-->
   <!-- Yellow Street Light B -->
-
-  <SadjuukStreetLightBY.label>Yellow Street Light</SadjuukStreetLightBY.label>
-  <SadjuukStreetLightBY.description>P : 40W, L : 16
-An industrial outdoor Street Light</SadjuukStreetLightBY.description>
-  <SadjuukStreetLightBY_Blueprint.label>Yellow Street Light (blueprint)</SadjuukStreetLightBY_Blueprint.label>
-  <SadjuukStreetLightBY_Blueprint_Install.label>Yellow Street Light (blueprint)</SadjuukStreetLightBY_Blueprint_Install.label>
-  <SadjuukStreetLightBY_Frame.label>Yellow Street Light (building)</SadjuukStreetLightBY_Frame.label>
-  <SadjuukStreetLightBY_Frame.description>P : 40W, L : 16
-An industrial outdoor Street Light</SadjuukStreetLightBY_Frame.description>
-
-
+  <!--<SadjuukStreetLightBY.label>Yellow Street Light</SadjuukStreetLightBY.label>-->
+  <!--<SadjuukStreetLightBY.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightBY.description>-->
+  <!--<SadjuukStreetLightBY_Blueprint.label>Yellow Street Light (blueprint)</SadjuukStreetLightBY_Blueprint.label>-->
+  <!--<SadjuukStreetLightBY_Blueprint_Install.label>Yellow Street Light (blueprint)</SadjuukStreetLightBY_Blueprint_Install.label>-->
+  <!--<SadjuukStreetLightBY_Frame.label>Yellow Street Light (building)</SadjuukStreetLightBY_Frame.label>-->
+  <!--<SadjuukStreetLightBY_Frame.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightBY_Frame.description>-->
   <!-- White Wall Light AW -->
-
-  <SadjuukWallLightAW.label>White Wall Light</SadjuukWallLightAW.label>
-  <SadjuukWallLightAW.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAW.description>
-  <SadjuukWallLightAW_Blueprint.label>White Wall Light (blueprint)</SadjuukWallLightAW_Blueprint.label>
-  <SadjuukWallLightAW_Blueprint_Install.label>White Wall Light (blueprint)</SadjuukWallLightAW_Blueprint_Install.label>
-  <SadjuukWallLightAW_Frame.label>White Wall Light (building)</SadjuukWallLightAW_Frame.label>
-  <SadjuukWallLightAW_Frame.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAW_Frame.description>
-
-
+  <!--<SadjuukWallLightAW.label>White Wall Light</SadjuukWallLightAW.label>-->
+  <!--<SadjuukWallLightAW.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAW.description>-->
+  <!--<SadjuukWallLightAW_Blueprint.label>White Wall Light (blueprint)</SadjuukWallLightAW_Blueprint.label>-->
+  <!--<SadjuukWallLightAW_Blueprint_Install.label>White Wall Light (blueprint)</SadjuukWallLightAW_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightAW_Frame.label>White Wall Light (building)</SadjuukWallLightAW_Frame.label>-->
+  <!--<SadjuukWallLightAW_Frame.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAW_Frame.description>-->
   <!-- Yellow Wall Light AY -->
-
-  <SadjuukWallLightAY.label>Yellow Wall Light</SadjuukWallLightAY.label>
-  <SadjuukWallLightAY.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAY.description>
-  <SadjuukWallLightAY_Blueprint.label>Yellow Wall Light (blueprint)</SadjuukWallLightAY_Blueprint.label>
-  <SadjuukWallLightAY_Blueprint_Install.label>Yellow Wall Light (blueprint)</SadjuukWallLightAY_Blueprint_Install.label>
-  <SadjuukWallLightAY_Frame.label>Yellow Wall Light (building)</SadjuukWallLightAY_Frame.label>
-  <SadjuukWallLightAY_Frame.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAY_Frame.description>
-
-
+  <!--<SadjuukWallLightAY.label>Yellow Wall Light</SadjuukWallLightAY.label>-->
+  <!--<SadjuukWallLightAY.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAY.description>-->
+  <!--<SadjuukWallLightAY_Blueprint.label>Yellow Wall Light (blueprint)</SadjuukWallLightAY_Blueprint.label>-->
+  <!--<SadjuukWallLightAY_Blueprint_Install.label>Yellow Wall Light (blueprint)</SadjuukWallLightAY_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightAY_Frame.label>Yellow Wall Light (building)</SadjuukWallLightAY_Frame.label>-->
+  <!--<SadjuukWallLightAY_Frame.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAY_Frame.description>-->
   <!-- Red Wall Light AR -->
-
-  <SadjuukWallLightAR.label>Red Wall Light</SadjuukWallLightAR.label>
-  <SadjuukWallLightAR.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAR.description>
-  <SadjuukWallLightAR_Blueprint.label>Red Wall Light (blueprint)</SadjuukWallLightAR_Blueprint.label>
-  <SadjuukWallLightAR_Blueprint_Install.label>Red Wall Light (blueprint)</SadjuukWallLightAR_Blueprint_Install.label>
-  <SadjuukWallLightAR_Frame.label>Red Wall Light (building)</SadjuukWallLightAR_Frame.label>
-  <SadjuukWallLightAR_Frame.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAR_Frame.description>
-
-
+  <!--<SadjuukWallLightAR.label>Red Wall Light</SadjuukWallLightAR.label>-->
+  <!--<SadjuukWallLightAR.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAR.description>-->
+  <!--<SadjuukWallLightAR_Blueprint.label>Red Wall Light (blueprint)</SadjuukWallLightAR_Blueprint.label>-->
+  <!--<SadjuukWallLightAR_Blueprint_Install.label>Red Wall Light (blueprint)</SadjuukWallLightAR_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightAR_Frame.label>Red Wall Light (building)</SadjuukWallLightAR_Frame.label>-->
+  <!--<SadjuukWallLightAR_Frame.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAR_Frame.description>-->
   <!-- Green Wall Light AG -->
-
-  <SadjuukWallLightAG.label>Green Wall Light</SadjuukWallLightAG.label>
-  <SadjuukWallLightAG.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAG.description>
-  <SadjuukWallLightAG_Blueprint.label>Green Wall Light (blueprint)</SadjuukWallLightAG_Blueprint.label>
-  <SadjuukWallLightAG_Blueprint_Install.label>Green Wall Light (blueprint)</SadjuukWallLightAG_Blueprint_Install.label>
-  <SadjuukWallLightAG_Frame.label>Green Wall Light (building)</SadjuukWallLightAG_Frame.label>
-  <SadjuukWallLightAG_Frame.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAG_Frame.description>
-
-
+  <!--<SadjuukWallLightAG.label>Green Wall Light</SadjuukWallLightAG.label>-->
+  <!--<SadjuukWallLightAG.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAG.description>-->
+  <!--<SadjuukWallLightAG_Blueprint.label>Green Wall Light (blueprint)</SadjuukWallLightAG_Blueprint.label>-->
+  <!--<SadjuukWallLightAG_Blueprint_Install.label>Green Wall Light (blueprint)</SadjuukWallLightAG_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightAG_Frame.label>Green Wall Light (building)</SadjuukWallLightAG_Frame.label>-->
+  <!--<SadjuukWallLightAG_Frame.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAG_Frame.description>-->
   <!-- Blue Wall Light AB -->
-
-  <SadjuukWallLightAB.label>Blue Wall Light</SadjuukWallLightAB.label>
-  <SadjuukWallLightAB.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAB.description>
-  <SadjuukWallLightAB_Blueprint.label>Blue Wall Light (blueprint)</SadjuukWallLightAB_Blueprint.label>
-  <SadjuukWallLightAB_Blueprint_Install.label>Blue Wall Light (blueprint)</SadjuukWallLightAB_Blueprint_Install.label>
-  <SadjuukWallLightAB_Frame.label>Blue Wall Light (building)</SadjuukWallLightAB_Frame.label>
-  <SadjuukWallLightAB_Frame.description>P : 20W, L : 8
-A basic Wall Light.</SadjuukWallLightAB_Frame.description>
-
-
+  <!--<SadjuukWallLightAB.label>Blue Wall Light</SadjuukWallLightAB.label>-->
+  <!--<SadjuukWallLightAB.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAB.description>-->
+  <!--<SadjuukWallLightAB_Blueprint.label>Blue Wall Light (blueprint)</SadjuukWallLightAB_Blueprint.label>-->
+  <!--<SadjuukWallLightAB_Blueprint_Install.label>Blue Wall Light (blueprint)</SadjuukWallLightAB_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightAB_Frame.label>Blue Wall Light (building)</SadjuukWallLightAB_Frame.label>-->
+  <!--<SadjuukWallLightAB_Frame.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAB_Frame.description>-->
   <!-- White Wall Light BW -->
-
-  <SadjuukWallLightBW.label>White Wall Light</SadjuukWallLightBW.label>
-  <SadjuukWallLightBW.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBW.description>
-  <SadjuukWallLightBW_Blueprint.label>White Wall Light (blueprint)</SadjuukWallLightBW_Blueprint.label>
-  <SadjuukWallLightBW_Blueprint_Install.label>White Wall Light (blueprint)</SadjuukWallLightBW_Blueprint_Install.label>
-  <SadjuukWallLightBW_Frame.label>White Wall Light (building)</SadjuukWallLightBW_Frame.label>
-  <SadjuukWallLightBW_Frame.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBW_Frame.description>
-
-
+  <!--<SadjuukWallLightBW.label>White Wall Light</SadjuukWallLightBW.label>-->
+  <!--<SadjuukWallLightBW.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBW.description>-->
+  <!--<SadjuukWallLightBW_Blueprint.label>White Wall Light (blueprint)</SadjuukWallLightBW_Blueprint.label>-->
+  <!--<SadjuukWallLightBW_Blueprint_Install.label>White Wall Light (blueprint)</SadjuukWallLightBW_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightBW_Frame.label>White Wall Light (building)</SadjuukWallLightBW_Frame.label>-->
+  <!--<SadjuukWallLightBW_Frame.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBW_Frame.description>-->
   <!-- Yellow Wall Light BY -->
-
-  <SadjuukWallLightBY.label>Yellow Wall Light</SadjuukWallLightBY.label>
-  <SadjuukWallLightBY.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBY.description>
-  <SadjuukWallLightBY_Blueprint.label>Yellow Wall Light (blueprint)</SadjuukWallLightBY_Blueprint.label>
-  <SadjuukWallLightBY_Blueprint_Install.label>Yellow Wall Light (blueprint)</SadjuukWallLightBY_Blueprint_Install.label>
-  <SadjuukWallLightBY_Frame.label>Yellow Wall Light (building)</SadjuukWallLightBY_Frame.label>
-  <SadjuukWallLightBY_Frame.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBY_Frame.description>
-
-
+  <!--<SadjuukWallLightBY.label>Yellow Wall Light</SadjuukWallLightBY.label>-->
+  <!--<SadjuukWallLightBY.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBY.description>-->
+  <!--<SadjuukWallLightBY_Blueprint.label>Yellow Wall Light (blueprint)</SadjuukWallLightBY_Blueprint.label>-->
+  <!--<SadjuukWallLightBY_Blueprint_Install.label>Yellow Wall Light (blueprint)</SadjuukWallLightBY_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightBY_Frame.label>Yellow Wall Light (building)</SadjuukWallLightBY_Frame.label>-->
+  <!--<SadjuukWallLightBY_Frame.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBY_Frame.description>-->
   <!-- Red Wall Light BR -->
-
-  <SadjuukWallLightBR.label>Red Wall Light</SadjuukWallLightBR.label>
-  <SadjuukWallLightBR.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBR.description>
-  <SadjuukWallLightBR_Blueprint.label>Red Wall Light (blueprint)</SadjuukWallLightBR_Blueprint.label>
-  <SadjuukWallLightBR_Blueprint_Install.label>Red Wall Light (blueprint)</SadjuukWallLightBR_Blueprint_Install.label>
-  <SadjuukWallLightBR_Frame.label>Red Wall Light (building)</SadjuukWallLightBR_Frame.label>
-  <SadjuukWallLightBR_Frame.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBR_Frame.description>
-
-
+  <!--<SadjuukWallLightBR.label>Red Wall Light</SadjuukWallLightBR.label>-->
+  <!--<SadjuukWallLightBR.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBR.description>-->
+  <!--<SadjuukWallLightBR_Blueprint.label>Red Wall Light (blueprint)</SadjuukWallLightBR_Blueprint.label>-->
+  <!--<SadjuukWallLightBR_Blueprint_Install.label>Red Wall Light (blueprint)</SadjuukWallLightBR_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightBR_Frame.label>Red Wall Light (building)</SadjuukWallLightBR_Frame.label>-->
+  <!--<SadjuukWallLightBR_Frame.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBR_Frame.description>-->
   <!-- Green Wall Light BG -->
-
-  <SadjuukWallLightBG.label>Green Wall Light</SadjuukWallLightBG.label>
-  <SadjuukWallLightBG.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBG.description>
-  <SadjuukWallLightBG_Blueprint.label>Green Wall Light (blueprint)</SadjuukWallLightBG_Blueprint.label>
-  <SadjuukWallLightBG_Blueprint_Install.label>Green Wall Light (blueprint)</SadjuukWallLightBG_Blueprint_Install.label>
-  <SadjuukWallLightBG_Frame.label>Green Wall Light (building)</SadjuukWallLightBG_Frame.label>
-  <SadjuukWallLightBG_Frame.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBG_Frame.description>
-
-
+  <!--<SadjuukWallLightBG.label>Green Wall Light</SadjuukWallLightBG.label>-->
+  <!--<SadjuukWallLightBG.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBG.description>-->
+  <!--<SadjuukWallLightBG_Blueprint.label>Green Wall Light (blueprint)</SadjuukWallLightBG_Blueprint.label>-->
+  <!--<SadjuukWallLightBG_Blueprint_Install.label>Green Wall Light (blueprint)</SadjuukWallLightBG_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightBG_Frame.label>Green Wall Light (building)</SadjuukWallLightBG_Frame.label>-->
+  <!--<SadjuukWallLightBG_Frame.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBG_Frame.description>-->
   <!-- Blue Wall Light BB -->
-
-  <SadjuukWallLightBB.label>Blue Wall Light</SadjuukWallLightBB.label>
-  <SadjuukWallLightBB.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBB.description>
-  <SadjuukWallLightBB_Blueprint.label>Blue Wall Light (blueprint)</SadjuukWallLightBB_Blueprint.label>
-  <SadjuukWallLightBB_Blueprint_Install.label>Blue Wall Light (blueprint)</SadjuukWallLightBB_Blueprint_Install.label>
-  <SadjuukWallLightBB_Frame.label>Blue Wall Light (building)</SadjuukWallLightBB_Frame.label>
-  <SadjuukWallLightBB_Frame.description>P : 10W, L : 8
-LED Wall Light.</SadjuukWallLightBB_Frame.description>
-
-
+  <!--<SadjuukWallLightBB.label>Blue Wall Light</SadjuukWallLightBB.label>-->
+  <!--<SadjuukWallLightBB.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBB.description>-->
+  <!--<SadjuukWallLightBB_Blueprint.label>Blue Wall Light (blueprint)</SadjuukWallLightBB_Blueprint.label>-->
+  <!--<SadjuukWallLightBB_Blueprint_Install.label>Blue Wall Light (blueprint)</SadjuukWallLightBB_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightBB_Frame.label>Blue Wall Light (building)</SadjuukWallLightBB_Frame.label>-->
+  <!--<SadjuukWallLightBB_Frame.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBB_Frame.description>-->
   <!-- White Wall Light CW -->
-
-  <SadjuukWallLightCW.label>White Wall Light</SadjuukWallLightCW.label>
-  <SadjuukWallLightCW.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCW.description>
-  <SadjuukWallLightCW_Blueprint.label>White Wall Light (blueprint)</SadjuukWallLightCW_Blueprint.label>
-  <SadjuukWallLightCW_Blueprint_Install.label>White Wall Light (blueprint)</SadjuukWallLightCW_Blueprint_Install.label>
-  <SadjuukWallLightCW_Frame.label>White Wall Light (building)</SadjuukWallLightCW_Frame.label>
-  <SadjuukWallLightCW_Frame.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCW_Frame.description>
-
-
+  <!--<SadjuukWallLightCW.label>White Wall Light</SadjuukWallLightCW.label>-->
+  <!--<SadjuukWallLightCW.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCW.description>-->
+  <!--<SadjuukWallLightCW_Blueprint.label>White Wall Light (blueprint)</SadjuukWallLightCW_Blueprint.label>-->
+  <!--<SadjuukWallLightCW_Blueprint_Install.label>White Wall Light (blueprint)</SadjuukWallLightCW_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightCW_Frame.label>White Wall Light (building)</SadjuukWallLightCW_Frame.label>-->
+  <!--<SadjuukWallLightCW_Frame.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCW_Frame.description>-->
   <!-- Yellow Wall Light CY -->
-
-  <SadjuukWallLightCY.label>Yellow Wall Light</SadjuukWallLightCY.label>
-  <SadjuukWallLightCY.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCY.description>
-  <SadjuukWallLightCY_Blueprint.label>Yellow Wall Light (blueprint)</SadjuukWallLightCY_Blueprint.label>
-  <SadjuukWallLightCY_Blueprint_Install.label>Yellow Wall Light (blueprint)</SadjuukWallLightCY_Blueprint_Install.label>
-  <SadjuukWallLightCY_Frame.label>Yellow Wall Light (building)</SadjuukWallLightCY_Frame.label>
-  <SadjuukWallLightCY_Frame.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCY_Frame.description>
-
-
+  <!--<SadjuukWallLightCY.label>Yellow Wall Light</SadjuukWallLightCY.label>-->
+  <!--<SadjuukWallLightCY.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCY.description>-->
+  <!--<SadjuukWallLightCY_Blueprint.label>Yellow Wall Light (blueprint)</SadjuukWallLightCY_Blueprint.label>-->
+  <!--<SadjuukWallLightCY_Blueprint_Install.label>Yellow Wall Light (blueprint)</SadjuukWallLightCY_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightCY_Frame.label>Yellow Wall Light (building)</SadjuukWallLightCY_Frame.label>-->
+  <!--<SadjuukWallLightCY_Frame.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCY_Frame.description>-->
   <!-- Red Wall Light CR -->
-
-  <SadjuukWallLightCR.label>Red Wall Light</SadjuukWallLightCR.label>
-  <SadjuukWallLightCR.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCR.description>
-  <SadjuukWallLightCR_Blueprint.label>Red Wall Light (blueprint)</SadjuukWallLightCR_Blueprint.label>
-  <SadjuukWallLightCR_Blueprint_Install.label>Red Wall Light (blueprint)</SadjuukWallLightCR_Blueprint_Install.label>
-  <SadjuukWallLightCR_Frame.label>Red Wall Light (building)</SadjuukWallLightCR_Frame.label>
-  <SadjuukWallLightCR_Frame.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCR_Frame.description>
-
-
+  <!--<SadjuukWallLightCR.label>Red Wall Light</SadjuukWallLightCR.label>-->
+  <!--<SadjuukWallLightCR.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCR.description>-->
+  <!--<SadjuukWallLightCR_Blueprint.label>Red Wall Light (blueprint)</SadjuukWallLightCR_Blueprint.label>-->
+  <!--<SadjuukWallLightCR_Blueprint_Install.label>Red Wall Light (blueprint)</SadjuukWallLightCR_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightCR_Frame.label>Red Wall Light (building)</SadjuukWallLightCR_Frame.label>-->
+  <!--<SadjuukWallLightCR_Frame.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCR_Frame.description>-->
   <!-- Green Wall Light CG -->
-
-  <SadjuukWallLightCG.label>Green Wall Light</SadjuukWallLightCG.label>
-  <SadjuukWallLightCG.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCG.description>
-  <SadjuukWallLightCG_Blueprint.label>Green Wall Light (blueprint)</SadjuukWallLightCG_Blueprint.label>
-  <SadjuukWallLightCG_Blueprint_Install.label>Green Wall Light (blueprint)</SadjuukWallLightCG_Blueprint_Install.label>
-  <SadjuukWallLightCG_Frame.label>Green Wall Light (building)</SadjuukWallLightCG_Frame.label>
-  <SadjuukWallLightCG_Frame.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCG_Frame.description>
-
-
+  <!--<SadjuukWallLightCG.label>Green Wall Light</SadjuukWallLightCG.label>-->
+  <!--<SadjuukWallLightCG.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCG.description>-->
+  <!--<SadjuukWallLightCG_Blueprint.label>Green Wall Light (blueprint)</SadjuukWallLightCG_Blueprint.label>-->
+  <!--<SadjuukWallLightCG_Blueprint_Install.label>Green Wall Light (blueprint)</SadjuukWallLightCG_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightCG_Frame.label>Green Wall Light (building)</SadjuukWallLightCG_Frame.label>-->
+  <!--<SadjuukWallLightCG_Frame.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCG_Frame.description>-->
   <!-- Blue Wall Light CB -->
-
-  <SadjuukWallLightCB.label>Blue Wall Light</SadjuukWallLightCB.label>
-  <SadjuukWallLightCB.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCB.description>
-  <SadjuukWallLightCB_Blueprint.label>Blue Wall Light (blueprint)</SadjuukWallLightCB_Blueprint.label>
-  <SadjuukWallLightCB_Blueprint_Install.label>Blue Wall Light (blueprint)</SadjuukWallLightCB_Blueprint_Install.label>
-  <SadjuukWallLightCB_Frame.label>Blue Wall Light (building)</SadjuukWallLightCB_Frame.label>
-  <SadjuukWallLightCB_Frame.description>P : 20W, L : 12
-A Heavy industrial LED Wall Light.</SadjuukWallLightCB_Frame.description>
-
-
+  <!--<SadjuukWallLightCB.label>Blue Wall Light</SadjuukWallLightCB.label>-->
+  <!--<SadjuukWallLightCB.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCB.description>-->
+  <!--<SadjuukWallLightCB_Blueprint.label>Blue Wall Light (blueprint)</SadjuukWallLightCB_Blueprint.label>-->
+  <!--<SadjuukWallLightCB_Blueprint_Install.label>Blue Wall Light (blueprint)</SadjuukWallLightCB_Blueprint_Install.label>-->
+  <!--<SadjuukWallLightCB_Frame.label>Blue Wall Light (building)</SadjuukWallLightCB_Frame.label>-->
+  <!--<SadjuukWallLightCB_Frame.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCB_Frame.description>-->
   <!-- White Light AW -->
-
-  <SadjuukLightAW.label>White Torch</SadjuukLightAW.label>
-  <SadjuukLightAW.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAW.description>
-  <SadjuukLightAW_Blueprint.label>White Torch (blueprint)</SadjuukLightAW_Blueprint.label>
-  <SadjuukLightAW_Blueprint_Install.label>White Torch (blueprint)</SadjuukLightAW_Blueprint_Install.label>
-  <SadjuukLightAW_Frame.label>White Torch (building)</SadjuukLightAW_Frame.label>
-  <SadjuukLightAW_Frame.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAW_Frame.description>
-
-
+  <!--<SadjuukLightAW.label>White Torch</SadjuukLightAW.label>-->
+  <!--<SadjuukLightAW.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAW.description>-->
+  <!--<SadjuukLightAW_Blueprint.label>White Torch (blueprint)</SadjuukLightAW_Blueprint.label>-->
+  <!--<SadjuukLightAW_Blueprint_Install.label>White Torch (blueprint)</SadjuukLightAW_Blueprint_Install.label>-->
+  <!--<SadjuukLightAW_Frame.label>White Torch (building)</SadjuukLightAW_Frame.label>-->
+  <!--<SadjuukLightAW_Frame.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAW_Frame.description>-->
   <!-- Yellow Light AY -->
-
-  <SadjuukLightAY.label>Yellow Torch</SadjuukLightAY.label>
-  <SadjuukLightAY.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAY.description>
-  <SadjuukLightAY_Blueprint.label>Yellow Torch (blueprint)</SadjuukLightAY_Blueprint.label>
-  <SadjuukLightAY_Blueprint_Install.label>Yellow Torch (blueprint)</SadjuukLightAY_Blueprint_Install.label>
-  <SadjuukLightAY_Frame.label>Yellow Torch (building)</SadjuukLightAY_Frame.label>
-  <SadjuukLightAY_Frame.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAY_Frame.description>
-
-
+  <!--<SadjuukLightAY.label>Yellow Torch</SadjuukLightAY.label>-->
+  <!--<SadjuukLightAY.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAY.description>-->
+  <!--<SadjuukLightAY_Blueprint.label>Yellow Torch (blueprint)</SadjuukLightAY_Blueprint.label>-->
+  <!--<SadjuukLightAY_Blueprint_Install.label>Yellow Torch (blueprint)</SadjuukLightAY_Blueprint_Install.label>-->
+  <!--<SadjuukLightAY_Frame.label>Yellow Torch (building)</SadjuukLightAY_Frame.label>-->
+  <!--<SadjuukLightAY_Frame.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAY_Frame.description>-->
   <!-- Red Light AR -->
-
-  <SadjuukLightAR.label>Red Torch</SadjuukLightAR.label>
-  <SadjuukLightAR.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAR.description>
-  <SadjuukLightAR_Blueprint.label>Red Torch (blueprint)</SadjuukLightAR_Blueprint.label>
-  <SadjuukLightAR_Blueprint_Install.label>Red Torch (blueprint)</SadjuukLightAR_Blueprint_Install.label>
-  <SadjuukLightAR_Frame.label>Red Torch (building)</SadjuukLightAR_Frame.label>
-  <SadjuukLightAR_Frame.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAR_Frame.description>
-
-
+  <!--<SadjuukLightAR.label>Red Torch</SadjuukLightAR.label>-->
+  <!--<SadjuukLightAR.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAR.description>-->
+  <!--<SadjuukLightAR_Blueprint.label>Red Torch (blueprint)</SadjuukLightAR_Blueprint.label>-->
+  <!--<SadjuukLightAR_Blueprint_Install.label>Red Torch (blueprint)</SadjuukLightAR_Blueprint_Install.label>-->
+  <!--<SadjuukLightAR_Frame.label>Red Torch (building)</SadjuukLightAR_Frame.label>-->
+  <!--<SadjuukLightAR_Frame.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAR_Frame.description>-->
   <!-- Green Light AG -->
-
-  <SadjuukLightAG.label>Green Torch</SadjuukLightAG.label>
-  <SadjuukLightAG.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAG.description>
-  <SadjuukLightAG_Blueprint.label>Green Torch (blueprint)</SadjuukLightAG_Blueprint.label>
-  <SadjuukLightAG_Blueprint_Install.label>Green Torch (blueprint)</SadjuukLightAG_Blueprint_Install.label>
-  <SadjuukLightAG_Frame.label>Green Torch (building)</SadjuukLightAG_Frame.label>
-  <SadjuukLightAG_Frame.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAG_Frame.description>
-
-
+  <!--<SadjuukLightAG.label>Green Torch</SadjuukLightAG.label>-->
+  <!--<SadjuukLightAG.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAG.description>-->
+  <!--<SadjuukLightAG_Blueprint.label>Green Torch (blueprint)</SadjuukLightAG_Blueprint.label>-->
+  <!--<SadjuukLightAG_Blueprint_Install.label>Green Torch (blueprint)</SadjuukLightAG_Blueprint_Install.label>-->
+  <!--<SadjuukLightAG_Frame.label>Green Torch (building)</SadjuukLightAG_Frame.label>-->
+  <!--<SadjuukLightAG_Frame.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAG_Frame.description>-->
   <!-- Blue Light AB -->
-
-  <SadjuukLightAB.label>Blue Torch</SadjuukLightAB.label>
-  <SadjuukLightAB.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAB.description>
-  <SadjuukLightAB_Blueprint.label>Blue Torch (blueprint)</SadjuukLightAB_Blueprint.label>
-  <SadjuukLightAB_Blueprint_Install.label>Blue Torch (blueprint)</SadjuukLightAB_Blueprint_Install.label>
-  <SadjuukLightAB_Frame.label>Blue Torch (building)</SadjuukLightAB_Frame.label>
-  <SadjuukLightAB_Frame.description>P : 30W, L : 12
-A basic Torch Light</SadjuukLightAB_Frame.description>
-
-
+  <!--<SadjuukLightAB.label>Blue Torch</SadjuukLightAB.label>-->
+  <!--<SadjuukLightAB.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAB.description>-->
+  <!--<SadjuukLightAB_Blueprint.label>Blue Torch (blueprint)</SadjuukLightAB_Blueprint.label>-->
+  <!--<SadjuukLightAB_Blueprint_Install.label>Blue Torch (blueprint)</SadjuukLightAB_Blueprint_Install.label>-->
+  <!--<SadjuukLightAB_Frame.label>Blue Torch (building)</SadjuukLightAB_Frame.label>-->
+  <!--<SadjuukLightAB_Frame.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAB_Frame.description>-->
   <!-- White Light BW -->
-
-  <SadjuukLightBW.label>White Light</SadjuukLightBW.label>
-  <SadjuukLightBW.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBW.description>
-  <SadjuukLightBW_Blueprint.label>White Light (blueprint)</SadjuukLightBW_Blueprint.label>
-  <SadjuukLightBW_Blueprint_Install.label>White Light (blueprint)</SadjuukLightBW_Blueprint_Install.label>
-  <SadjuukLightBW_Frame.label>White Light (building)</SadjuukLightBW_Frame.label>
-  <SadjuukLightBW_Frame.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBW_Frame.description>
-
-
+  <!--<SadjuukLightBW.label>White Light</SadjuukLightBW.label>-->
+  <!--<SadjuukLightBW.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBW.description>-->
+  <!--<SadjuukLightBW_Blueprint.label>White Light (blueprint)</SadjuukLightBW_Blueprint.label>-->
+  <!--<SadjuukLightBW_Blueprint_Install.label>White Light (blueprint)</SadjuukLightBW_Blueprint_Install.label>-->
+  <!--<SadjuukLightBW_Frame.label>White Light (building)</SadjuukLightBW_Frame.label>-->
+  <!--<SadjuukLightBW_Frame.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBW_Frame.description>-->
   <!-- Yellow Light BY -->
-
-  <SadjuukLightBY.label>Yellow Light</SadjuukLightBY.label>
-  <SadjuukLightBY.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBY.description>
-  <SadjuukLightBY_Blueprint.label>Yellow Light (blueprint)</SadjuukLightBY_Blueprint.label>
-  <SadjuukLightBY_Blueprint_Install.label>Yellow Light (blueprint)</SadjuukLightBY_Blueprint_Install.label>
-  <SadjuukLightBY_Frame.label>Yellow Light (building)</SadjuukLightBY_Frame.label>
-  <SadjuukLightBY_Frame.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBY_Frame.description>
-
-
+  <!--<SadjuukLightBY.label>Yellow Light</SadjuukLightBY.label>-->
+  <!--<SadjuukLightBY.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBY.description>-->
+  <!--<SadjuukLightBY_Blueprint.label>Yellow Light (blueprint)</SadjuukLightBY_Blueprint.label>-->
+  <!--<SadjuukLightBY_Blueprint_Install.label>Yellow Light (blueprint)</SadjuukLightBY_Blueprint_Install.label>-->
+  <!--<SadjuukLightBY_Frame.label>Yellow Light (building)</SadjuukLightBY_Frame.label>-->
+  <!--<SadjuukLightBY_Frame.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBY_Frame.description>-->
   <!-- Red Light BR -->
-
-  <SadjuukLightBR.label>Red Light</SadjuukLightBR.label>
-  <SadjuukLightBR.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBR.description>
-  <SadjuukLightBR_Blueprint.label>Red Light (blueprint)</SadjuukLightBR_Blueprint.label>
-  <SadjuukLightBR_Blueprint_Install.label>Red Light (blueprint)</SadjuukLightBR_Blueprint_Install.label>
-  <SadjuukLightBR_Frame.label>Red Light (building)</SadjuukLightBR_Frame.label>
-  <SadjuukLightBR_Frame.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBR_Frame.description>
-
-
+  <!--<SadjuukLightBR.label>Red Light</SadjuukLightBR.label>-->
+  <!--<SadjuukLightBR.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBR.description>-->
+  <!--<SadjuukLightBR_Blueprint.label>Red Light (blueprint)</SadjuukLightBR_Blueprint.label>-->
+  <!--<SadjuukLightBR_Blueprint_Install.label>Red Light (blueprint)</SadjuukLightBR_Blueprint_Install.label>-->
+  <!--<SadjuukLightBR_Frame.label>Red Light (building)</SadjuukLightBR_Frame.label>-->
+  <!--<SadjuukLightBR_Frame.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBR_Frame.description>-->
   <!-- Green Light BG -->
-
-  <SadjuukLightBG.label>Green Light</SadjuukLightBG.label>
-  <SadjuukLightBG.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBG.description>
-  <SadjuukLightBG_Blueprint.label>Green Light (blueprint)</SadjuukLightBG_Blueprint.label>
-  <SadjuukLightBG_Blueprint_Install.label>Green Light (blueprint)</SadjuukLightBG_Blueprint_Install.label>
-  <SadjuukLightBG_Frame.label>Green Light (building)</SadjuukLightBG_Frame.label>
-  <SadjuukLightBG_Frame.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBG_Frame.description>
-
-
+  <!--<SadjuukLightBG.label>Green Light</SadjuukLightBG.label>-->
+  <!--<SadjuukLightBG.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBG.description>-->
+  <!--<SadjuukLightBG_Blueprint.label>Green Light (blueprint)</SadjuukLightBG_Blueprint.label>-->
+  <!--<SadjuukLightBG_Blueprint_Install.label>Green Light (blueprint)</SadjuukLightBG_Blueprint_Install.label>-->
+  <!--<SadjuukLightBG_Frame.label>Green Light (building)</SadjuukLightBG_Frame.label>-->
+  <!--<SadjuukLightBG_Frame.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBG_Frame.description>-->
   <!-- Blue Light BB -->
-
-  <SadjuukLightBB.label>Blue Light</SadjuukLightBB.label>
-  <SadjuukLightBB.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBB.description>
-  <SadjuukLightBB_Blueprint.label>Blue Light (blueprint)</SadjuukLightBB_Blueprint.label>
-  <SadjuukLightBB_Blueprint_Install.label>Blue Light (blueprint)</SadjuukLightBB_Blueprint_Install.label>
-  <SadjuukLightBB_Frame.label>Blue Light (building)</SadjuukLightBB_Frame.label>
-  <SadjuukLightBB_Frame.description>P : 10W, L : 8
-An industrial LED Light</SadjuukLightBB_Frame.description>
-
-
+  <!--<SadjuukLightBB.label>Blue Light</SadjuukLightBB.label>-->
+  <!--<SadjuukLightBB.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBB.description>-->
+  <!--<SadjuukLightBB_Blueprint.label>Blue Light (blueprint)</SadjuukLightBB_Blueprint.label>-->
+  <!--<SadjuukLightBB_Blueprint_Install.label>Blue Light (blueprint)</SadjuukLightBB_Blueprint_Install.label>-->
+  <!--<SadjuukLightBB_Frame.label>Blue Light (building)</SadjuukLightBB_Frame.label>-->
+  <!--<SadjuukLightBB_Frame.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBB_Frame.description>-->
   <!-- White Light CW -->
-
-  <SadjuukLightCW.label>White Light</SadjuukLightCW.label>
-  <SadjuukLightCW.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCW.description>
-  <SadjuukLightCW_Blueprint.label>White Light (blueprint)</SadjuukLightCW_Blueprint.label>
-  <SadjuukLightCW_Blueprint_Install.label>White Light (blueprint)</SadjuukLightCW_Blueprint_Install.label>
-  <SadjuukLightCW_Frame.label>White Light (building)</SadjuukLightCW_Frame.label>
-  <SadjuukLightCW_Frame.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCW_Frame.description>
-
-
+  <!--<SadjuukLightCW.label>White Light</SadjuukLightCW.label>-->
+  <!--<SadjuukLightCW.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCW.description>-->
+  <!--<SadjuukLightCW_Blueprint.label>White Light (blueprint)</SadjuukLightCW_Blueprint.label>-->
+  <!--<SadjuukLightCW_Blueprint_Install.label>White Light (blueprint)</SadjuukLightCW_Blueprint_Install.label>-->
+  <!--<SadjuukLightCW_Frame.label>White Light (building)</SadjuukLightCW_Frame.label>-->
+  <!--<SadjuukLightCW_Frame.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCW_Frame.description>-->
   <!-- Yellow Light CY -->
-
-  <SadjuukLightCY.label>Yellow Light</SadjuukLightCY.label>
-  <SadjuukLightCY.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCY.description>
-  <SadjuukLightCY_Blueprint.label>Yellow Light (blueprint)</SadjuukLightCY_Blueprint.label>
-  <SadjuukLightCY_Blueprint_Install.label>Yellow Light (blueprint)</SadjuukLightCY_Blueprint_Install.label>
-  <SadjuukLightCY_Frame.label>Yellow Light (building)</SadjuukLightCY_Frame.label>
-  <SadjuukLightCY_Frame.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCY_Frame.description>
-
-
+  <!--<SadjuukLightCY.label>Yellow Light</SadjuukLightCY.label>-->
+  <!--<SadjuukLightCY.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCY.description>-->
+  <!--<SadjuukLightCY_Blueprint.label>Yellow Light (blueprint)</SadjuukLightCY_Blueprint.label>-->
+  <!--<SadjuukLightCY_Blueprint_Install.label>Yellow Light (blueprint)</SadjuukLightCY_Blueprint_Install.label>-->
+  <!--<SadjuukLightCY_Frame.label>Yellow Light (building)</SadjuukLightCY_Frame.label>-->
+  <!--<SadjuukLightCY_Frame.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCY_Frame.description>-->
   <!-- Red Light CR -->
-
-  <SadjuukLightCR.label>Red Light</SadjuukLightCR.label>
-  <SadjuukLightCR.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCR.description>
-  <SadjuukLightCR_Blueprint.label>Red Light (blueprint)</SadjuukLightCR_Blueprint.label>
-  <SadjuukLightCR_Blueprint_Install.label>Red Light (blueprint)</SadjuukLightCR_Blueprint_Install.label>
-  <SadjuukLightCR_Frame.label>Red Light (building)</SadjuukLightCR_Frame.label>
-  <SadjuukLightCR_Frame.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCR_Frame.description>
-
-
+  <!--<SadjuukLightCR.label>Red Light</SadjuukLightCR.label>-->
+  <!--<SadjuukLightCR.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCR.description>-->
+  <!--<SadjuukLightCR_Blueprint.label>Red Light (blueprint)</SadjuukLightCR_Blueprint.label>-->
+  <!--<SadjuukLightCR_Blueprint_Install.label>Red Light (blueprint)</SadjuukLightCR_Blueprint_Install.label>-->
+  <!--<SadjuukLightCR_Frame.label>Red Light (building)</SadjuukLightCR_Frame.label>-->
+  <!--<SadjuukLightCR_Frame.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCR_Frame.description>-->
   <!-- Green Light CG -->
-
-  <SadjuukLightCG.label>Green Light</SadjuukLightCG.label>
-  <SadjuukLightCG.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCG.description>
-  <SadjuukLightCG_Blueprint.label>Green Light (blueprint)</SadjuukLightCG_Blueprint.label>
-  <SadjuukLightCG_Blueprint_Install.label>Green Light (blueprint)</SadjuukLightCG_Blueprint_Install.label>
-  <SadjuukLightCG_Frame.label>Green Light (building)</SadjuukLightCG_Frame.label>
-  <SadjuukLightCG_Frame.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCG_Frame.description>
-
-
+  <!--<SadjuukLightCG.label>Green Light</SadjuukLightCG.label>-->
+  <!--<SadjuukLightCG.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCG.description>-->
+  <!--<SadjuukLightCG_Blueprint.label>Green Light (blueprint)</SadjuukLightCG_Blueprint.label>-->
+  <!--<SadjuukLightCG_Blueprint_Install.label>Green Light (blueprint)</SadjuukLightCG_Blueprint_Install.label>-->
+  <!--<SadjuukLightCG_Frame.label>Green Light (building)</SadjuukLightCG_Frame.label>-->
+  <!--<SadjuukLightCG_Frame.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCG_Frame.description>-->
   <!-- Blue Light CB -->
-
-  <SadjuukLightCB.label>Blue Light</SadjuukLightCB.label>
-  <SadjuukLightCB.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCB.description>
-  <SadjuukLightCB_Blueprint.label>Blue Light (blueprint)</SadjuukLightCB_Blueprint.label>
-  <SadjuukLightCB_Blueprint_Install.label>Blue Light (blueprint)</SadjuukLightCB_Blueprint_Install.label>
-  <SadjuukLightCB_Frame.label>Blue Light (building)</SadjuukLightCB_Frame.label>
-  <SadjuukLightCB_Frame.description>P : 15W, L : 12
-A powerful but very efficient industrial LED Light</SadjuukLightCB_Frame.description>
-
-
+  <!--<SadjuukLightCB.label>Blue Light</SadjuukLightCB.label>-->
+  <!--<SadjuukLightCB.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCB.description>-->
+  <!--<SadjuukLightCB_Blueprint.label>Blue Light (blueprint)</SadjuukLightCB_Blueprint.label>-->
+  <!--<SadjuukLightCB_Blueprint_Install.label>Blue Light (blueprint)</SadjuukLightCB_Blueprint_Install.label>-->
+  <!--<SadjuukLightCB_Frame.label>Blue Light (building)</SadjuukLightCB_Frame.label>-->
+  <!--<SadjuukLightCB_Frame.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCB_Frame.description>-->
   <!-- White Light DW -->
-
-  <SadjuukLightDW.label>White Torch</SadjuukLightDW.label>
-  <SadjuukLightDW.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDW.description>
-  <SadjuukLightDW_Blueprint.label>White Torch (blueprint)</SadjuukLightDW_Blueprint.label>
-  <SadjuukLightDW_Blueprint_Install.label>White Torch (blueprint)</SadjuukLightDW_Blueprint_Install.label>
-  <SadjuukLightDW_Frame.label>White Torch (building)</SadjuukLightDW_Frame.label>
-  <SadjuukLightDW_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDW_Frame.description>
-
-
+  <!--<SadjuukLightDW.label>White Torch</SadjuukLightDW.label>-->
+  <!--<SadjuukLightDW.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDW.description>-->
+  <!--<SadjuukLightDW_Blueprint.label>White Torch (blueprint)</SadjuukLightDW_Blueprint.label>-->
+  <!--<SadjuukLightDW_Blueprint_Install.label>White Torch (blueprint)</SadjuukLightDW_Blueprint_Install.label>-->
+  <!--<SadjuukLightDW_Frame.label>White Torch (building)</SadjuukLightDW_Frame.label>-->
+  <!--<SadjuukLightDW_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDW_Frame.description>-->
   <!-- Yellow Light DY -->
-
-  <SadjuukLightDY.label>Yellow Torch</SadjuukLightDY.label>
-  <SadjuukLightDY.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDY.description>
-  <SadjuukLightDY_Blueprint.label>Yellow Torch (blueprint)</SadjuukLightDY_Blueprint.label>
-  <SadjuukLightDY_Blueprint_Install.label>Yellow Torch (blueprint)</SadjuukLightDY_Blueprint_Install.label>
-  <SadjuukLightDY_Frame.label>Yellow Torch (building)</SadjuukLightDY_Frame.label>
-  <SadjuukLightDY_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDY_Frame.description>
-
-
+  <!--<SadjuukLightDY.label>Yellow Torch</SadjuukLightDY.label>-->
+  <!--<SadjuukLightDY.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDY.description>-->
+  <!--<SadjuukLightDY_Blueprint.label>Yellow Torch (blueprint)</SadjuukLightDY_Blueprint.label>-->
+  <!--<SadjuukLightDY_Blueprint_Install.label>Yellow Torch (blueprint)</SadjuukLightDY_Blueprint_Install.label>-->
+  <!--<SadjuukLightDY_Frame.label>Yellow Torch (building)</SadjuukLightDY_Frame.label>-->
+  <!--<SadjuukLightDY_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDY_Frame.description>-->
   <!-- Red Light DR -->
-
-  <SadjuukLightDR.label>Red Torch</SadjuukLightDR.label>
-  <SadjuukLightDR.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDR.description>
-  <SadjuukLightDR_Blueprint.label>Red Torch (blueprint)</SadjuukLightDR_Blueprint.label>
-  <SadjuukLightDR_Blueprint_Install.label>Red Torch (blueprint)</SadjuukLightDR_Blueprint_Install.label>
-  <SadjuukLightDR_Frame.label>Red Torch (building)</SadjuukLightDR_Frame.label>
-  <SadjuukLightDR_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDR_Frame.description>
-
-
+  <!--<SadjuukLightDR.label>Red Torch</SadjuukLightDR.label>-->
+  <!--<SadjuukLightDR.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDR.description>-->
+  <!--<SadjuukLightDR_Blueprint.label>Red Torch (blueprint)</SadjuukLightDR_Blueprint.label>-->
+  <!--<SadjuukLightDR_Blueprint_Install.label>Red Torch (blueprint)</SadjuukLightDR_Blueprint_Install.label>-->
+  <!--<SadjuukLightDR_Frame.label>Red Torch (building)</SadjuukLightDR_Frame.label>-->
+  <!--<SadjuukLightDR_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDR_Frame.description>-->
   <!-- Green Light DG -->
-
-  <SadjuukLightDG.label>Green Torch</SadjuukLightDG.label>
-  <SadjuukLightDG.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDG.description>
-  <SadjuukLightDG_Blueprint.label>Green Torch (blueprint)</SadjuukLightDG_Blueprint.label>
-  <SadjuukLightDG_Blueprint_Install.label>Green Torch (blueprint)</SadjuukLightDG_Blueprint_Install.label>
-  <SadjuukLightDG_Frame.label>Green Torch (building)</SadjuukLightDG_Frame.label>
-  <SadjuukLightDG_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDG_Frame.description>
-
-
+  <!--<SadjuukLightDG.label>Green Torch</SadjuukLightDG.label>-->
+  <!--<SadjuukLightDG.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDG.description>-->
+  <!--<SadjuukLightDG_Blueprint.label>Green Torch (blueprint)</SadjuukLightDG_Blueprint.label>-->
+  <!--<SadjuukLightDG_Blueprint_Install.label>Green Torch (blueprint)</SadjuukLightDG_Blueprint_Install.label>-->
+  <!--<SadjuukLightDG_Frame.label>Green Torch (building)</SadjuukLightDG_Frame.label>-->
+  <!--<SadjuukLightDG_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDG_Frame.description>-->
   <!-- Blue Light DB -->
-
-  <SadjuukLightDB.label>Blue Torch</SadjuukLightDB.label>
-  <SadjuukLightDB.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDB.description>
-  <SadjuukLightDB_Blueprint.label>Blue Torch (blueprint)</SadjuukLightDB_Blueprint.label>
-  <SadjuukLightDB_Blueprint_Install.label>Blue Torch (blueprint)</SadjuukLightDB_Blueprint_Install.label>
-  <SadjuukLightDB_Frame.label>Blue Torch (building)</SadjuukLightDB_Frame.label>
-  <SadjuukLightDB_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightDB_Frame.description>
-
-
+  <!--<SadjuukLightDB.label>Blue Torch</SadjuukLightDB.label>-->
+  <!--<SadjuukLightDB.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDB.description>-->
+  <!--<SadjuukLightDB_Blueprint.label>Blue Torch (blueprint)</SadjuukLightDB_Blueprint.label>-->
+  <!--<SadjuukLightDB_Blueprint_Install.label>Blue Torch (blueprint)</SadjuukLightDB_Blueprint_Install.label>-->
+  <!--<SadjuukLightDB_Frame.label>Blue Torch (building)</SadjuukLightDB_Frame.label>-->
+  <!--<SadjuukLightDB_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDB_Frame.description>-->
   <!-- White Light EW -->
-
-  <SadjuukLightEW.label>White Torch</SadjuukLightEW.label>
-  <SadjuukLightEW.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightEW.description>
-  <SadjuukLightEW_Blueprint.label>White Torch (blueprint)</SadjuukLightEW_Blueprint.label>
-  <SadjuukLightEW_Blueprint_Install.label>White Torch (blueprint)</SadjuukLightEW_Blueprint_Install.label>
-  <SadjuukLightEW_Frame.label>White Torch (building)</SadjuukLightEW_Frame.label>
-  <SadjuukLightEW_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightEW_Frame.description>
-
-
+  <!--<SadjuukLightEW.label>White Torch</SadjuukLightEW.label>-->
+  <!--<SadjuukLightEW.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEW.description>-->
+  <!--<SadjuukLightEW_Blueprint.label>White Torch (blueprint)</SadjuukLightEW_Blueprint.label>-->
+  <!--<SadjuukLightEW_Blueprint_Install.label>White Torch (blueprint)</SadjuukLightEW_Blueprint_Install.label>-->
+  <!--<SadjuukLightEW_Frame.label>White Torch (building)</SadjuukLightEW_Frame.label>-->
+  <!--<SadjuukLightEW_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEW_Frame.description>-->
   <!-- Yellow Light EY -->
-
-  <SadjuukLightEY.label>Yellow Torch</SadjuukLightEY.label>
-  <SadjuukLightEY.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightEY.description>
-  <SadjuukLightEY_Blueprint.label>Yellow Torch (blueprint)</SadjuukLightEY_Blueprint.label>
-  <SadjuukLightEY_Blueprint_Install.label>Yellow Torch (blueprint)</SadjuukLightEY_Blueprint_Install.label>
-  <SadjuukLightEY_Frame.label>Yellow Torch (building)</SadjuukLightEY_Frame.label>
-  <SadjuukLightEY_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightEY_Frame.description>
-
-
+  <!--<SadjuukLightEY.label>Yellow Torch</SadjuukLightEY.label>-->
+  <!--<SadjuukLightEY.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEY.description>-->
+  <!--<SadjuukLightEY_Blueprint.label>Yellow Torch (blueprint)</SadjuukLightEY_Blueprint.label>-->
+  <!--<SadjuukLightEY_Blueprint_Install.label>Yellow Torch (blueprint)</SadjuukLightEY_Blueprint_Install.label>-->
+  <!--<SadjuukLightEY_Frame.label>Yellow Torch (building)</SadjuukLightEY_Frame.label>-->
+  <!--<SadjuukLightEY_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEY_Frame.description>-->
   <!-- Red Light ER -->
-
-  <SadjuukLightER.label>Red Torch</SadjuukLightER.label>
-  <SadjuukLightER.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightER.description>
-  <SadjuukLightER_Blueprint.label>Red Torch (blueprint)</SadjuukLightER_Blueprint.label>
-  <SadjuukLightER_Blueprint_Install.label>Red Torch (blueprint)</SadjuukLightER_Blueprint_Install.label>
-  <SadjuukLightER_Frame.label>Red Torch (building)</SadjuukLightER_Frame.label>
-  <SadjuukLightER_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightER_Frame.description>
-
-
+  <!--<SadjuukLightER.label>Red Torch</SadjuukLightER.label>-->
+  <!--<SadjuukLightER.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightER.description>-->
+  <!--<SadjuukLightER_Blueprint.label>Red Torch (blueprint)</SadjuukLightER_Blueprint.label>-->
+  <!--<SadjuukLightER_Blueprint_Install.label>Red Torch (blueprint)</SadjuukLightER_Blueprint_Install.label>-->
+  <!--<SadjuukLightER_Frame.label>Red Torch (building)</SadjuukLightER_Frame.label>-->
+  <!--<SadjuukLightER_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightER_Frame.description>-->
   <!-- Green Light EG -->
-
-  <SadjuukLightEG.label>Green Torch</SadjuukLightEG.label>
-  <SadjuukLightEG.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightEG.description>
-  <SadjuukLightEG_Blueprint.label>Green Torch (blueprint)</SadjuukLightEG_Blueprint.label>
-  <SadjuukLightEG_Blueprint_Install.label>Green Torch (blueprint)</SadjuukLightEG_Blueprint_Install.label>
-  <SadjuukLightEG_Frame.label>Green Torch (building)</SadjuukLightEG_Frame.label>
-  <SadjuukLightEG_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightEG_Frame.description>
-
-
+  <!--<SadjuukLightEG.label>Green Torch</SadjuukLightEG.label>-->
+  <!--<SadjuukLightEG.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEG.description>-->
+  <!--<SadjuukLightEG_Blueprint.label>Green Torch (blueprint)</SadjuukLightEG_Blueprint.label>-->
+  <!--<SadjuukLightEG_Blueprint_Install.label>Green Torch (blueprint)</SadjuukLightEG_Blueprint_Install.label>-->
+  <!--<SadjuukLightEG_Frame.label>Green Torch (building)</SadjuukLightEG_Frame.label>-->
+  <!--<SadjuukLightEG_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEG_Frame.description>-->
   <!-- Blue Light EB -->
-
-  <SadjuukLightEB.label>Blue Torch</SadjuukLightEB.label>
-  <SadjuukLightEB.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightEB.description>
-  <SadjuukLightEB_Blueprint.label>Blue Torch (blueprint)</SadjuukLightEB_Blueprint.label>
-  <SadjuukLightEB_Blueprint_Install.label>Blue Torch (blueprint)</SadjuukLightEB_Blueprint_Install.label>
-  <SadjuukLightEB_Frame.label>Blue Torch (building)</SadjuukLightEB_Frame.label>
-  <SadjuukLightEB_Frame.description>P : 20W, L : 16
-A powerful advanced Torch Light.</SadjuukLightEB_Frame.description>
-
-
+  <!--<SadjuukLightEB.label>Blue Torch</SadjuukLightEB.label>-->
+  <!--<SadjuukLightEB.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEB.description>-->
+  <!--<SadjuukLightEB_Blueprint.label>Blue Torch (blueprint)</SadjuukLightEB_Blueprint.label>-->
+  <!--<SadjuukLightEB_Blueprint_Install.label>Blue Torch (blueprint)</SadjuukLightEB_Blueprint_Install.label>-->
+  <!--<SadjuukLightEB_Frame.label>Blue Torch (building)</SadjuukLightEB_Frame.label>-->
+  <!--<SadjuukLightEB_Frame.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEB_Frame.description>-->
   <!-- White Light FW -->
-
-  <SadjuukLightFW.label>White Light</SadjuukLightFW.label>
-  <SadjuukLightFW.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFW.description>
-  <SadjuukLightFW_Blueprint.label>White Light (blueprint)</SadjuukLightFW_Blueprint.label>
-  <SadjuukLightFW_Blueprint_Install.label>White Light (blueprint)</SadjuukLightFW_Blueprint_Install.label>
-  <SadjuukLightFW_Frame.label>White Light (building)</SadjuukLightFW_Frame.label>
-  <SadjuukLightFW_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFW_Frame.description>
-
-
+  <!--<SadjuukLightFW.label>White Light</SadjuukLightFW.label>-->
+  <!--<SadjuukLightFW.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFW.description>-->
+  <!--<SadjuukLightFW_Blueprint.label>White Light (blueprint)</SadjuukLightFW_Blueprint.label>-->
+  <!--<SadjuukLightFW_Blueprint_Install.label>White Light (blueprint)</SadjuukLightFW_Blueprint_Install.label>-->
+  <!--<SadjuukLightFW_Frame.label>White Light (building)</SadjuukLightFW_Frame.label>-->
+  <!--<SadjuukLightFW_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFW_Frame.description>-->
   <!-- Yellow Light FY -->
-
-  <SadjuukLightFY.label>Yellow Light</SadjuukLightFY.label>
-  <SadjuukLightFY.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFY.description>
-  <SadjuukLightFY_Blueprint.label>Yellow Light (blueprint)</SadjuukLightFY_Blueprint.label>
-  <SadjuukLightFY_Blueprint_Install.label>Yellow Light (blueprint)</SadjuukLightFY_Blueprint_Install.label>
-  <SadjuukLightFY_Frame.label>Yellow Light (building)</SadjuukLightFY_Frame.label>
-  <SadjuukLightFY_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFY_Frame.description>
-
-
+  <!--<SadjuukLightFY.label>Yellow Light</SadjuukLightFY.label>-->
+  <!--<SadjuukLightFY.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFY.description>-->
+  <!--<SadjuukLightFY_Blueprint.label>Yellow Light (blueprint)</SadjuukLightFY_Blueprint.label>-->
+  <!--<SadjuukLightFY_Blueprint_Install.label>Yellow Light (blueprint)</SadjuukLightFY_Blueprint_Install.label>-->
+  <!--<SadjuukLightFY_Frame.label>Yellow Light (building)</SadjuukLightFY_Frame.label>-->
+  <!--<SadjuukLightFY_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFY_Frame.description>-->
   <!-- Red Light FR -->
-
-  <SadjuukLightFR.label>Red Light</SadjuukLightFR.label>
-  <SadjuukLightFR.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFR.description>
-  <SadjuukLightFR_Blueprint.label>Red Light (blueprint)</SadjuukLightFR_Blueprint.label>
-  <SadjuukLightFR_Blueprint_Install.label>Red Light (blueprint)</SadjuukLightFR_Blueprint_Install.label>
-  <SadjuukLightFR_Frame.label>Red Light (building)</SadjuukLightFR_Frame.label>
-  <SadjuukLightFR_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFR_Frame.description>
-
-
+  <!--<SadjuukLightFR.label>Red Light</SadjuukLightFR.label>-->
+  <!--<SadjuukLightFR.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFR.description>-->
+  <!--<SadjuukLightFR_Blueprint.label>Red Light (blueprint)</SadjuukLightFR_Blueprint.label>-->
+  <!--<SadjuukLightFR_Blueprint_Install.label>Red Light (blueprint)</SadjuukLightFR_Blueprint_Install.label>-->
+  <!--<SadjuukLightFR_Frame.label>Red Light (building)</SadjuukLightFR_Frame.label>-->
+  <!--<SadjuukLightFR_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFR_Frame.description>-->
   <!-- Green Light FG -->
-
-  <SadjuukLightFG.label>Green Light</SadjuukLightFG.label>
-  <SadjuukLightFG.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFG.description>
-  <SadjuukLightFG_Blueprint.label>Green Light (blueprint)</SadjuukLightFG_Blueprint.label>
-  <SadjuukLightFG_Blueprint_Install.label>Green Light (blueprint)</SadjuukLightFG_Blueprint_Install.label>
-  <SadjuukLightFG_Frame.label>Green Light (building)</SadjuukLightFG_Frame.label>
-  <SadjuukLightFG_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFG_Frame.description>
-
-
+  <!--<SadjuukLightFG.label>Green Light</SadjuukLightFG.label>-->
+  <!--<SadjuukLightFG.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFG.description>-->
+  <!--<SadjuukLightFG_Blueprint.label>Green Light (blueprint)</SadjuukLightFG_Blueprint.label>-->
+  <!--<SadjuukLightFG_Blueprint_Install.label>Green Light (blueprint)</SadjuukLightFG_Blueprint_Install.label>-->
+  <!--<SadjuukLightFG_Frame.label>Green Light (building)</SadjuukLightFG_Frame.label>-->
+  <!--<SadjuukLightFG_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFG_Frame.description>-->
   <!-- Blue Light FB -->
-
-  <SadjuukLightFB.label>Blue Light</SadjuukLightFB.label>
-  <SadjuukLightFB.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFB.description>
-  <SadjuukLightFB_Blueprint.label>Blue Light (blueprint)</SadjuukLightFB_Blueprint.label>
-  <SadjuukLightFB_Blueprint_Install.label>Blue Light (blueprint)</SadjuukLightFB_Blueprint_Install.label>
-  <SadjuukLightFB_Frame.label>Blue Light (building)</SadjuukLightFB_Frame.label>
-  <SadjuukLightFB_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightFB_Frame.description>
-
-
+  <!--<SadjuukLightFB.label>Blue Light</SadjuukLightFB.label>-->
+  <!--<SadjuukLightFB.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFB.description>-->
+  <!--<SadjuukLightFB_Blueprint.label>Blue Light (blueprint)</SadjuukLightFB_Blueprint.label>-->
+  <!--<SadjuukLightFB_Blueprint_Install.label>Blue Light (blueprint)</SadjuukLightFB_Blueprint_Install.label>-->
+  <!--<SadjuukLightFB_Frame.label>Blue Light (building)</SadjuukLightFB_Frame.label>-->
+  <!--<SadjuukLightFB_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFB_Frame.description>-->
   <!-- White Light GW -->
-
-  <SadjuukLightGW.label>White Light</SadjuukLightGW.label>
-  <SadjuukLightGW.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGW.description>
-  <SadjuukLightGW_Blueprint.label>White Light (blueprint)</SadjuukLightGW_Blueprint.label>
-  <SadjuukLightGW_Blueprint_Install.label>White Light (blueprint)</SadjuukLightGW_Blueprint_Install.label>
-  <SadjuukLightGW_Frame.label>White Light (building)</SadjuukLightGW_Frame.label>
-  <SadjuukLightGW_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGW_Frame.description>
-
-
+  <!--<SadjuukLightGW.label>White Light</SadjuukLightGW.label>-->
+  <!--<SadjuukLightGW.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGW.description>-->
+  <!--<SadjuukLightGW_Blueprint.label>White Light (blueprint)</SadjuukLightGW_Blueprint.label>-->
+  <!--<SadjuukLightGW_Blueprint_Install.label>White Light (blueprint)</SadjuukLightGW_Blueprint_Install.label>-->
+  <!--<SadjuukLightGW_Frame.label>White Light (building)</SadjuukLightGW_Frame.label>-->
+  <!--<SadjuukLightGW_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGW_Frame.description>-->
   <!-- Yellow Light GY -->
-
-  <SadjuukLightGY.label>Yellow Light</SadjuukLightGY.label>
-  <SadjuukLightGY.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGY.description>
-  <SadjuukLightGY_Blueprint.label>Yellow Light (blueprint)</SadjuukLightGY_Blueprint.label>
-  <SadjuukLightGY_Blueprint_Install.label>Yellow Light (blueprint)</SadjuukLightGY_Blueprint_Install.label>
-  <SadjuukLightGY_Frame.label>Yellow Light (building)</SadjuukLightGY_Frame.label>
-  <SadjuukLightGY_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGY_Frame.description>
-
-
+  <!--<SadjuukLightGY.label>Yellow Light</SadjuukLightGY.label>-->
+  <!--<SadjuukLightGY.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGY.description>-->
+  <!--<SadjuukLightGY_Blueprint.label>Yellow Light (blueprint)</SadjuukLightGY_Blueprint.label>-->
+  <!--<SadjuukLightGY_Blueprint_Install.label>Yellow Light (blueprint)</SadjuukLightGY_Blueprint_Install.label>-->
+  <!--<SadjuukLightGY_Frame.label>Yellow Light (building)</SadjuukLightGY_Frame.label>-->
+  <!--<SadjuukLightGY_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGY_Frame.description>-->
   <!-- Red Light GR -->
-
-  <SadjuukLightGR.label>Red Light</SadjuukLightGR.label>
-  <SadjuukLightGR.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGR.description>
-  <SadjuukLightGR_Blueprint.label>Red Light (blueprint)</SadjuukLightGR_Blueprint.label>
-  <SadjuukLightGR_Blueprint_Install.label>Red Light (blueprint)</SadjuukLightGR_Blueprint_Install.label>
-  <SadjuukLightGR_Frame.label>Red Light (building)</SadjuukLightGR_Frame.label>
-  <SadjuukLightGR_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGR_Frame.description>
-
-
+  <!--<SadjuukLightGR.label>Red Light</SadjuukLightGR.label>-->
+  <!--<SadjuukLightGR.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGR.description>-->
+  <!--<SadjuukLightGR_Blueprint.label>Red Light (blueprint)</SadjuukLightGR_Blueprint.label>-->
+  <!--<SadjuukLightGR_Blueprint_Install.label>Red Light (blueprint)</SadjuukLightGR_Blueprint_Install.label>-->
+  <!--<SadjuukLightGR_Frame.label>Red Light (building)</SadjuukLightGR_Frame.label>-->
+  <!--<SadjuukLightGR_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGR_Frame.description>-->
   <!-- Green Light GG -->
-
-  <SadjuukLightGG.label>Green Light</SadjuukLightGG.label>
-  <SadjuukLightGG.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGG.description>
-  <SadjuukLightGG_Blueprint.label>Green Light (blueprint)</SadjuukLightGG_Blueprint.label>
-  <SadjuukLightGG_Blueprint_Install.label>Green Light (blueprint)</SadjuukLightGG_Blueprint_Install.label>
-  <SadjuukLightGG_Frame.label>Green Light (building)</SadjuukLightGG_Frame.label>
-  <SadjuukLightGG_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGG_Frame.description>
-
-
+  <!--<SadjuukLightGG.label>Green Light</SadjuukLightGG.label>-->
+  <!--<SadjuukLightGG.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGG.description>-->
+  <!--<SadjuukLightGG_Blueprint.label>Green Light (blueprint)</SadjuukLightGG_Blueprint.label>-->
+  <!--<SadjuukLightGG_Blueprint_Install.label>Green Light (blueprint)</SadjuukLightGG_Blueprint_Install.label>-->
+  <!--<SadjuukLightGG_Frame.label>Green Light (building)</SadjuukLightGG_Frame.label>-->
+  <!--<SadjuukLightGG_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGG_Frame.description>-->
   <!-- Blue Light GB -->
-
-  <SadjuukLightGB.label>Blue Light</SadjuukLightGB.label>
-  <SadjuukLightGB.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGB.description>
-  <SadjuukLightGB_Blueprint.label>Blue Light (blueprint)</SadjuukLightGB_Blueprint.label>
-  <SadjuukLightGB_Blueprint_Install.label>Blue Light (blueprint)</SadjuukLightGB_Blueprint_Install.label>
-  <SadjuukLightGB_Frame.label>Blue Light (building)</SadjuukLightGB_Frame.label>
-  <SadjuukLightGB_Frame.description>P : 15W, L : 12
-An aesthetic advanced Light.</SadjuukLightGB_Frame.description>
-
-
+  <!--<SadjuukLightGB.label>Blue Light</SadjuukLightGB.label>-->
+  <!--<SadjuukLightGB.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGB.description>-->
+  <!--<SadjuukLightGB_Blueprint.label>Blue Light (blueprint)</SadjuukLightGB_Blueprint.label>-->
+  <!--<SadjuukLightGB_Blueprint_Install.label>Blue Light (blueprint)</SadjuukLightGB_Blueprint_Install.label>-->
+  <!--<SadjuukLightGB_Frame.label>Blue Light (building)</SadjuukLightGB_Frame.label>-->
+  <!--<SadjuukLightGB_Frame.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGB_Frame.description>-->
   <!-- Table AA -->
-
-  <SadjuukTableAA.label>Wood Logs Table</SadjuukTableAA.label>
-  <SadjuukTableAA.description>Size : 1X1
-A small table for social or work organization.</SadjuukTableAA.description>
-
-
+  <!--<SadjuukTableAA.label>Wood Logs Table</SadjuukTableAA.label>-->
+  <!--<SadjuukTableAA.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAA.description>-->
   <!-- Table AB -->
-
-  <SadjuukTableAB.label>Wood Plank Table</SadjuukTableAB.label>
-  <SadjuukTableAB.description>Size : 1X1
-A small table for social or work organization.</SadjuukTableAB.description>
-
-
+  <!--<SadjuukTableAB.label>Wood Plank Table</SadjuukTableAB.label>-->
+  <!--<SadjuukTableAB.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAB.description>-->
   <!-- Table AC -->
-
-  <SadjuukTableAC.label>Steel Table</SadjuukTableAC.label>
-  <SadjuukTableAC.description>Size : 1X1
-A small table for social or work organization.</SadjuukTableAC.description>
-
-
+  <!--<SadjuukTableAC.label>Steel Table</SadjuukTableAC.label>-->
+  <!--<SadjuukTableAC.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAC.description>-->
   <!-- Table AD -->
-
-  <SadjuukTableAD.label>Glass Table</SadjuukTableAD.label>
-  <SadjuukTableAD.description>Size : 1X1
-A small table for social or work organization.</SadjuukTableAD.description>
-
-
+  <!--<SadjuukTableAD.label>Glass Table</SadjuukTableAD.label>-->
+  <!--<SadjuukTableAD.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAD.description>-->
   <!-- Table AE -->
-
-  <SadjuukTableAE.label>Plasteel Table</SadjuukTableAE.label>
-  <SadjuukTableAE.description>Size : 1X1
-A small table for social or work organization.</SadjuukTableAE.description>
-
-
+  <!--<SadjuukTableAE.label>Plasteel Table</SadjuukTableAE.label>-->
+  <!--<SadjuukTableAE.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAE.description>-->
   <!-- Table AF -->
-
-  <SadjuukTableAF.label>Plasteel Table</SadjuukTableAF.label>
-  <SadjuukTableAF.description>Size : 1X1
-A small table for social or work organization.</SadjuukTableAF.description>
-
-
+  <!--<SadjuukTableAF.label>Plasteel Table</SadjuukTableAF.label>-->
+  <!--<SadjuukTableAF.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAF.description>-->
   <!-- Table BA -->
-
-  <SadjuukTableBA.label>Wood Logs Table</SadjuukTableBA.label>
-  <SadjuukTableBA.description>Size : 2X1
-A table for social or work organization.</SadjuukTableBA.description>
-
-
+  <!--<SadjuukTableBA.label>Wood Logs Table</SadjuukTableBA.label>-->
+  <!--<SadjuukTableBA.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBA.description>-->
   <!-- Table BB -->
-
-  <SadjuukTableBB.label>Wood Plank Table</SadjuukTableBB.label>
-  <SadjuukTableBB.description>Size : 2X1
-A table for social or work organization.</SadjuukTableBB.description>
-
-
+  <!--<SadjuukTableBB.label>Wood Plank Table</SadjuukTableBB.label>-->
+  <!--<SadjuukTableBB.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBB.description>-->
   <!-- Table BC -->
-
-  <SadjuukTableBC.label>Steel Table</SadjuukTableBC.label>
-  <SadjuukTableBC.description>Size : 2X1
-A table for social or work organization.</SadjuukTableBC.description>
-
-
+  <!--<SadjuukTableBC.label>Steel Table</SadjuukTableBC.label>-->
+  <!--<SadjuukTableBC.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBC.description>-->
   <!-- Table BD -->
-
-  <SadjuukTableBD.label>Glass Table</SadjuukTableBD.label>
-  <SadjuukTableBD.description>Size : 2X1
-A table for social or work organization.</SadjuukTableBD.description>
-
-
+  <!--<SadjuukTableBD.label>Glass Table</SadjuukTableBD.label>-->
+  <!--<SadjuukTableBD.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBD.description>-->
   <!-- Table BE -->
-
-  <SadjuukTableBE.label>Plasteel Table</SadjuukTableBE.label>
-  <SadjuukTableBE.description>Size : 2X1
-A table for social or work organization.</SadjuukTableBE.description>
-
-
+  <!--<SadjuukTableBE.label>Plasteel Table</SadjuukTableBE.label>-->
+  <!--<SadjuukTableBE.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBE.description>-->
   <!-- Table BF -->
-
-  <SadjuukTableBF.label>Plasteel Table</SadjuukTableBF.label>
-  <SadjuukTableBF.description>Size : 2X1
-A table for social or work organization.</SadjuukTableBF.description>
-
-
+  <!--<SadjuukTableBF.label>Plasteel Table</SadjuukTableBF.label>-->
+  <!--<SadjuukTableBF.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBF.description>-->
   <!-- Table CA -->
-
-  <SadjuukTableCA.label>Wood Logs Table</SadjuukTableCA.label>
-  <SadjuukTableCA.description>Size : 3X1
-A long table for social or work organization.</SadjuukTableCA.description>
-
-
+  <!--<SadjuukTableCA.label>Wood Logs Table</SadjuukTableCA.label>-->
+  <!--<SadjuukTableCA.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCA.description>-->
   <!-- Table CB -->
-
-  <SadjuukTableCB.label>Wood Plank Table</SadjuukTableCB.label>
-  <SadjuukTableCB.description>Size : 3X1
-A long table for social or work organization.</SadjuukTableCB.description>
-
-
+  <!--<SadjuukTableCB.label>Wood Plank Table</SadjuukTableCB.label>-->
+  <!--<SadjuukTableCB.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCB.description>-->
   <!-- Table CC -->
-
-  <SadjuukTableCC.label>Steel Table</SadjuukTableCC.label>
-  <SadjuukTableCC.description>Size : 3X1
-A long table for social or work organization.</SadjuukTableCC.description>
-
-
+  <!--<SadjuukTableCC.label>Steel Table</SadjuukTableCC.label>-->
+  <!--<SadjuukTableCC.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCC.description>-->
   <!-- Table CD -->
-
-  <SadjuukTableCD.label>Glass Table</SadjuukTableCD.label>
-  <SadjuukTableCD.description>Size : 3X1
-A long table for social or work organization.</SadjuukTableCD.description>
-
-
+  <!--<SadjuukTableCD.label>Glass Table</SadjuukTableCD.label>-->
+  <!--<SadjuukTableCD.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCD.description>-->
   <!-- Table CE -->
-
-  <SadjuukTableCE.label>Plasteel Table</SadjuukTableCE.label>
-  <SadjuukTableCE.description>Size : 3X1
-A long table for social or work organization.</SadjuukTableCE.description>
-
-
+  <!--<SadjuukTableCE.label>Plasteel Table</SadjuukTableCE.label>-->
+  <!--<SadjuukTableCE.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCE.description>-->
   <!-- Table CF -->
-
-  <SadjuukTableCF.label>Plasteel Table</SadjuukTableCF.label>
-  <SadjuukTableCF.description>Size : 3X1
-A long table for social or work organization.</SadjuukTableCF.description>
-
-
+  <!--<SadjuukTableCF.label>Plasteel Table</SadjuukTableCF.label>-->
+  <!--<SadjuukTableCF.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCF.description>-->
   <!-- Table DA -->
-
-  <SadjuukTableDA.label>Wood Logs Table</SadjuukTableDA.label>
-  <SadjuukTableDA.description>Size : 2X2
-A large square table for social or work organization.</SadjuukTableDA.description>
-
-
+  <!--<SadjuukTableDA.label>Wood Logs Table</SadjuukTableDA.label>-->
+  <!--<SadjuukTableDA.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDA.description>-->
   <!-- Table DB -->
-
-  <SadjuukTableDB.label>Wood Plank Table</SadjuukTableDB.label>
-  <SadjuukTableDB.description>Size : 2X2
-A large square table for social or work organization.</SadjuukTableDB.description>
-
-
+  <!--<SadjuukTableDB.label>Wood Plank Table</SadjuukTableDB.label>-->
+  <!--<SadjuukTableDB.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDB.description>-->
   <!-- Table DC -->
-
-  <SadjuukTableDC.label>Steel Table</SadjuukTableDC.label>
-  <SadjuukTableDC.description>Size : 2X2
-A large square table for social or work organization.</SadjuukTableDC.description>
-
-
+  <!--<SadjuukTableDC.label>Steel Table</SadjuukTableDC.label>-->
+  <!--<SadjuukTableDC.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDC.description>-->
   <!-- Table DD -->
-
-  <SadjuukTableDD.label>Glass Table</SadjuukTableDD.label>
-  <SadjuukTableDD.description>Size : 2X2
-A large square table for social or work organization.</SadjuukTableDD.description>
-
-
+  <!--<SadjuukTableDD.label>Glass Table</SadjuukTableDD.label>-->
+  <!--<SadjuukTableDD.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDD.description>-->
   <!-- Table DE -->
-
-  <SadjuukTableDE.label>Plasteel Table</SadjuukTableDE.label>
-  <SadjuukTableDE.description>Size : 2X2
-A large square table for social or work organization.</SadjuukTableDE.description>
-
-
+  <!--<SadjuukTableDE.label>Plasteel Table</SadjuukTableDE.label>-->
+  <!--<SadjuukTableDE.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDE.description>-->
   <!-- Table DF -->
-
-  <SadjuukTableDF.label>Plasteel Table</SadjuukTableDF.label>
-  <SadjuukTableDF.description>Size : 2X2
-A large square table for social or work organization.</SadjuukTableDF.description>
-
-
+  <!--<SadjuukTableDF.label>Plasteel Table</SadjuukTableDF.label>-->
+  <!--<SadjuukTableDF.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDF.description>-->
   <!-- Table EA -->
-
-  <SadjuukTableEA.label>Wood Logs Table</SadjuukTableEA.label>
-  <SadjuukTableEA.description>Size : 3X2
-A large table for social or work organization.</SadjuukTableEA.description>
-
-
+  <!--<SadjuukTableEA.label>Wood Logs Table</SadjuukTableEA.label>-->
+  <!--<SadjuukTableEA.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEA.description>-->
   <!-- Table EB -->
-
-  <SadjuukTableEB.label>Wood Plank Table</SadjuukTableEB.label>
-  <SadjuukTableEB.description>Size : 3X2
-A large table for social or work organization.</SadjuukTableEB.description>
-
-
+  <!--<SadjuukTableEB.label>Wood Plank Table</SadjuukTableEB.label>-->
+  <!--<SadjuukTableEB.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEB.description>-->
   <!-- Table EC -->
-
-  <SadjuukTableEC.label>Steel Table</SadjuukTableEC.label>
-  <SadjuukTableEC.description>Size : 3X2
-A large table for social or work organization.</SadjuukTableEC.description>
-
-
+  <!--<SadjuukTableEC.label>Steel Table</SadjuukTableEC.label>-->
+  <!--<SadjuukTableEC.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEC.description>-->
   <!-- Table ED -->
-
-  <SadjuukTableED.label>Glass Table</SadjuukTableED.label>
-  <SadjuukTableED.description>Size : 3X2
-A large table for social or work organization.</SadjuukTableED.description>
-
-
+  <!--<SadjuukTableED.label>Glass Table</SadjuukTableED.label>-->
+  <!--<SadjuukTableED.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableED.description>-->
   <!-- Table EE -->
-
-  <SadjuukTableEE.label>Plasteel Table</SadjuukTableEE.label>
-  <SadjuukTableEE.description>Size : 3X2
-A large table for social or work organization.</SadjuukTableEE.description>
-
-
+  <!--<SadjuukTableEE.label>Plasteel Table</SadjuukTableEE.label>-->
+  <!--<SadjuukTableEE.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEE.description>-->
   <!-- Table EF -->
-
-  <SadjuukTableEF.label>Plasteel Table</SadjuukTableEF.label>
-  <SadjuukTableEF.description>Size : 3X2
-A large table for social or work organization.</SadjuukTableEF.description>
-
-
+  <!--<SadjuukTableEF.label>Plasteel Table</SadjuukTableEF.label>-->
+  <!--<SadjuukTableEF.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEF.description>-->
   <!-- Table GA -->
-
-  <SadjuukTableGA.label>Small Table</SadjuukTableGA.label>
-  <SadjuukTableGA.description>Size : 1X1
-A small table for bedroom furniture.</SadjuukTableGA.description>
-
-
+  <!--<SadjuukTableGA.label>Small Table</SadjuukTableGA.label>-->
+  <!--<SadjuukTableGA.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGA.description>-->
   <!-- Table GB -->
-
-  <SadjuukTableGB.label>Small Plank Table</SadjuukTableGB.label>
-  <SadjuukTableGB.description>Size : 1X1
-A small table for bedroom furniture.</SadjuukTableGB.description>
-
-
+  <!--<SadjuukTableGB.label>Small Plank Table</SadjuukTableGB.label>-->
+  <!--<SadjuukTableGB.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGB.description>-->
   <!-- Table GC -->
-
-  <SadjuukTableGC.label>Small Steel Table</SadjuukTableGC.label>
-  <SadjuukTableGC.description>Size : 1X1
-A small table for bedroom furniture.</SadjuukTableGC.description>
-
-
+  <!--<SadjuukTableGC.label>Small Steel Table</SadjuukTableGC.label>-->
+  <!--<SadjuukTableGC.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGC.description>-->
   <!-- Table GD -->
-
-  <SadjuukTableGD.label>Small Glass Table</SadjuukTableGD.label>
-  <SadjuukTableGD.description>Size : 1X1
-A small table for bedroom furniture.</SadjuukTableGD.description>
-
-
+  <!--<SadjuukTableGD.label>Small Glass Table</SadjuukTableGD.label>-->
+  <!--<SadjuukTableGD.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGD.description>-->
   <!-- Table GE -->
-
-  <SadjuukTableGE.label>Small Plasteel Table</SadjuukTableGE.label>
-  <SadjuukTableGE.description>Size : 1X1
-A small table for bedroom furniture.</SadjuukTableGE.description>
-
-
+  <!--<SadjuukTableGE.label>Small Plasteel Table</SadjuukTableGE.label>-->
+  <!--<SadjuukTableGE.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGE.description>-->
   <!-- Table GF -->
-
-  <SadjuukTableGF.label>Small Plasteel Table</SadjuukTableGF.label>
-  <SadjuukTableGF.description>Size : 1X1
-A small table for bedroom furniture.</SadjuukTableGF.description>
-
-
+  <!--<SadjuukTableGF.label>Small Plasteel Table</SadjuukTableGF.label>-->
+  <!--<SadjuukTableGF.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGF.description>-->
   <!-- Table FA -->
-
-  <SadjuukTableFA.label>Wood Logs Meeting Table</SadjuukTableFA.label>
-  <SadjuukTableFA.description>Size : 3X1
-A Meeting Table for social or diplomatic meetings.</SadjuukTableFA.description>
-
-
+  <!--<SadjuukTableFA.label>Wood Logs Meeting Table</SadjuukTableFA.label>-->
+  <!--<SadjuukTableFA.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFA.description>-->
   <!-- Table FB -->
-
-  <SadjuukTableFB.label>Wood Plank Meeting Table</SadjuukTableFB.label>
-  <SadjuukTableFB.description>Size : 3X1
-A Meeting Table for social or diplomatic meetings.</SadjuukTableFB.description>
-
-
+  <!--<SadjuukTableFB.label>Wood Plank Meeting Table</SadjuukTableFB.label>-->
+  <!--<SadjuukTableFB.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFB.description>-->
   <!-- Table FC -->
-
-  <SadjuukTableFC.label>Steel Meeting Table</SadjuukTableFC.label>
-  <SadjuukTableFC.description>Size : 3X1
-A Meeting Table for social or diplomatic meetings.</SadjuukTableFC.description>
-
-
+  <!--<SadjuukTableFC.label>Steel Meeting Table</SadjuukTableFC.label>-->
+  <!--<SadjuukTableFC.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFC.description>-->
   <!-- Table FD -->
-
-  <SadjuukTableFD.label>Glass Meeting Table</SadjuukTableFD.label>
-  <SadjuukTableFD.description>Size : 3X1
-A Meeting Table for social or diplomatic meetings.</SadjuukTableFD.description>
-
-
+  <!--<SadjuukTableFD.label>Glass Meeting Table</SadjuukTableFD.label>-->
+  <!--<SadjuukTableFD.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFD.description>-->
   <!-- Table FE -->
-
-  <SadjuukTableFE.label>Plasteel Meeting Table</SadjuukTableFE.label>
-  <SadjuukTableFE.description>Size : 3X1
-A Meeting Table for social or diplomatic meetings.</SadjuukTableFE.description>
-
-
+  <!--<SadjuukTableFE.label>Plasteel Meeting Table</SadjuukTableFE.label>-->
+  <!--<SadjuukTableFE.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFE.description>-->
   <!-- Table FF -->
-
-  <SadjuukTableFF.label>Plasteel Meeting Table</SadjuukTableFF.label>
-  <SadjuukTableFF.description>Size : 3X1
-A Meeting Table for social or diplomatic meetings.</SadjuukTableFF.description>
-
-
+  <!--<SadjuukTableFF.label>Plasteel Meeting Table</SadjuukTableFF.label>-->
+  <!--<SadjuukTableFF.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFF.description>-->
   <!-- Chair AA -->
-
-  <SadjuukChairAA.label>Wood Logs Chair</SadjuukChairAA.label>
-  <SadjuukChairAA.description>A chair, an essential element for creating a living space.</SadjuukChairAA.description>
-
-
+  <!--<SadjuukChairAA.label>Wood Logs Chair</SadjuukChairAA.label>-->
+  <!--<SadjuukChairAA.description>A chair, an essential element for creating a living space.</SadjuukChairAA.description>-->
   <!-- Chair AB -->
-
-  <SadjuukChairAB.label>Wood Plank Chair</SadjuukChairAB.label>
-  <SadjuukChairAB.description>A chair, an essential element for creating a living space.</SadjuukChairAB.description>
-
-
+  <!--<SadjuukChairAB.label>Wood Plank Chair</SadjuukChairAB.label>-->
+  <!--<SadjuukChairAB.description>A chair, an essential element for creating a living space.</SadjuukChairAB.description>-->
   <!-- Chair AC -->
-
-  <SadjuukChairAC.label>Steel Chair</SadjuukChairAC.label>
-  <SadjuukChairAC.description>A chair, an essential element for creating a living space.</SadjuukChairAC.description>
-
-
+  <!--<SadjuukChairAC.label>Steel Chair</SadjuukChairAC.label>-->
+  <!--<SadjuukChairAC.description>A chair, an essential element for creating a living space.</SadjuukChairAC.description>-->
   <!-- Chair BA -->
-
-  <SadjuukChairBA.label>Wood Logs Stool</SadjuukChairBA.label>
-  <SadjuukChairBA.description>A stool, ideal for a workstation.</SadjuukChairBA.description>
-
-
+  <!--<SadjuukChairBA.label>Wood Logs Stool</SadjuukChairBA.label>-->
+  <!--<SadjuukChairBA.description>A stool, ideal for a workstation.</SadjuukChairBA.description>-->
   <!-- Chair BB -->
-
-  <SadjuukChairBB.label>Wood Plank Stool</SadjuukChairBB.label>
-  <SadjuukChairBB.description>A stool, ideal for a workstation.</SadjuukChairBB.description>
-
-
+  <!--<SadjuukChairBB.label>Wood Plank Stool</SadjuukChairBB.label>-->
+  <!--<SadjuukChairBB.description>A stool, ideal for a workstation.</SadjuukChairBB.description>-->
   <!-- Chair BC -->
-
-  <SadjuukChairBC.label>Steel Work Stool</SadjuukChairBC.label>
-  <SadjuukChairBC.description>A stool, ideal for a workstation.</SadjuukChairBC.description>
-
-
+  <!--<SadjuukChairBC.label>Steel Work Stool</SadjuukChairBC.label>-->
+  <!--<SadjuukChairBC.description>A stool, ideal for a workstation.</SadjuukChairBC.description>-->
   <!-- Chair CA -->
-
-  <SadjuukChairCA.label>Wood Logs Armchair</SadjuukChairCA.label>
-  <SadjuukChairCA.description>A chair of good design to create a space for reflection or discussion.</SadjuukChairCA.description>
-
-
+  <!--<SadjuukChairCA.label>Wood Logs Armchair</SadjuukChairCA.label>-->
+  <!--<SadjuukChairCA.description>A chair of good design to create a space for reflection or discussion.</SadjuukChairCA.description>-->
   <!-- Chair CB -->
-
-  <SadjuukChairCB.label>Wood Plank Armchair</SadjuukChairCB.label>
-  <SadjuukChairCB.description>A chair of good design to create a space for reflection or discussion.</SadjuukChairCB.description>
-
-
+  <!--<SadjuukChairCB.label>Wood Plank Armchair</SadjuukChairCB.label>-->
+  <!--<SadjuukChairCB.description>A chair of good design to create a space for reflection or discussion.</SadjuukChairCB.description>-->
   <!-- Chair CC -->
-
-  <SadjuukChairCC.label>Steel Office Chair</SadjuukChairCC.label>
-  <SadjuukChairCC.description>A chair of good design to create a space for reflection or discussion.</SadjuukChairCC.description>
-
-
+  <!--<SadjuukChairCC.label>Steel Office Chair</SadjuukChairCC.label>-->
+  <!--<SadjuukChairCC.description>A chair of good design to create a space for reflection or discussion.</SadjuukChairCC.description>-->
   <!-- Bed AA -->
-
-  <SadjuukBedAA.label>Wood Logs bed</SadjuukBedAA.label>
-  <SadjuukBedAA.description>A very rustic wooden table to sleep on it.</SadjuukBedAA.description>
-
-
+  <!--<SadjuukBedAA.label>Wood Logs bed</SadjuukBedAA.label>-->
+  <!--<SadjuukBedAA.description>A very rustic wooden table to sleep on it.</SadjuukBedAA.description>-->
   <!-- Bed AB -->
-
-  <SadjuukBedAB.label>Wooden Bed</SadjuukBedAB.label>
-  <SadjuukBedAB.description>A confortable wooden bed.</SadjuukBedAB.description>
-
-
+  <!--<SadjuukBedAB.label>Wooden Bed</SadjuukBedAB.label>-->
+  <!--<SadjuukBedAB.description>A confortable wooden bed.</SadjuukBedAB.description>-->
   <!-- Bed AC -->
-
-  <SadjuukBedAC.label>Steel Bed</SadjuukBedAC.label>
-  <SadjuukBedAC.description>A Standard steel bed.</SadjuukBedAC.description>
-
-
+  <!--<SadjuukBedAC.label>Steel Bed</SadjuukBedAC.label>-->
+  <!--<SadjuukBedAC.description>A Standard steel bed.</SadjuukBedAC.description>-->
   <!-- Bed BA -->
-
-  <SadjuukBedBA.label>Double Logs bed</SadjuukBedBA.label>
-  <SadjuukBedBA.description>A very rustic wooden table to sleep on it.</SadjuukBedBA.description>
-
-
+  <!--<SadjuukBedBA.label>Double Logs bed</SadjuukBedBA.label>-->
+  <!--<SadjuukBedBA.description>A very rustic wooden table to sleep on it.</SadjuukBedBA.description>-->
   <!-- Bed BB -->
-
-  <SadjuukBedBB.label>Double Wooden Bed</SadjuukBedBB.label>
-  <SadjuukBedBB.description>A confortable wooden double bed.</SadjuukBedBB.description>
-
-
+  <!--<SadjuukBedBB.label>Double Wooden Bed</SadjuukBedBB.label>-->
+  <!--<SadjuukBedBB.description>A confortable wooden double bed.</SadjuukBedBB.description>-->
   <!-- Bed BC -->
-
-  <SadjuukBedBC.label>Double Steel Bed</SadjuukBedBC.label>
-  <SadjuukBedBC.description>A Standard steel bed.</SadjuukBedBC.description>
-
-
+  <!--<SadjuukBedBC.label>Double Steel Bed</SadjuukBedBC.label>-->
+  <!--<SadjuukBedBC.description>A Standard steel bed.</SadjuukBedBC.description>-->
   <!-- Furniture AA -->
-
-  <SadjuukFurnitureAA.label>Wooden Chest</SadjuukFurnitureAA.label>
-  <SadjuukFurnitureAA.description>A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed.</SadjuukFurnitureAA.description>
-
-
+  <!--<SadjuukFurnitureAA.label>Wooden Chest</SadjuukFurnitureAA.label>-->
+  <!--<SadjuukFurnitureAA.description>A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed.</SadjuukFurnitureAA.description>-->
   <!-- Furniture AB -->
-
-  <SadjuukFurnitureAB.label>Wooden Nightstand</SadjuukFurnitureAB.label>
-  <SadjuukFurnitureAB.description>A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed.</SadjuukFurnitureAB.description>
-
-
+  <!--<SadjuukFurnitureAB.label>Wooden Nightstand</SadjuukFurnitureAB.label>-->
+  <!--<SadjuukFurnitureAB.description>A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed.</SadjuukFurnitureAB.description>-->
   <!-- Furniture AC -->
-
-  <SadjuukFurnitureAC.label>Steel Chest</SadjuukFurnitureAC.label>
-  <SadjuukFurnitureAC.description>A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed.</SadjuukFurnitureAC.description>
-
-
+  <!--<SadjuukFurnitureAC.label>Steel Chest</SadjuukFurnitureAC.label>-->
+  <!--<SadjuukFurnitureAC.description>A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed.</SadjuukFurnitureAC.description>-->
   <!-- Furniture BA -->
-
-  <SadjuukFurnitureBA.label>Wooden Storage</SadjuukFurnitureBA.label>
-  <SadjuukFurnitureBA.description>A medium-sized furniture improving the comfort of a bedroom or a barrack.</SadjuukFurnitureBA.description>
-
-
+  <!--<SadjuukFurnitureBA.label>Wooden Storage</SadjuukFurnitureBA.label>-->
+  <!--<SadjuukFurnitureBA.description>A medium-sized furniture improving the comfort of a bedroom or a barrack.</SadjuukFurnitureBA.description>-->
   <!-- Furniture BB -->
-
-  <SadjuukFurnitureBB.label>Wooden Wardrobe</SadjuukFurnitureBB.label>
-  <SadjuukFurnitureBB.description>A medium-sized furniture improving the comfort of a bedroom or a barrack.</SadjuukFurnitureBB.description>
-
-
+  <!--<SadjuukFurnitureBB.label>Wooden Wardrobe</SadjuukFurnitureBB.label>-->
+  <!--<SadjuukFurnitureBB.description>A medium-sized furniture improving the comfort of a bedroom or a barrack.</SadjuukFurnitureBB.description>-->
   <!-- Furniture BC -->
-
-  <SadjuukFurnitureBC.label>Steel Lockers</SadjuukFurnitureBC.label>
-  <SadjuukFurnitureBC.description>A medium-sized furniture improving the comfort of a bedroom or a barrack.</SadjuukFurnitureBC.description>
-
-
+  <!--<SadjuukFurnitureBC.label>Steel Lockers</SadjuukFurnitureBC.label>-->
+  <!--<SadjuukFurnitureBC.description>A medium-sized furniture improving the comfort of a bedroom or a barrack.</SadjuukFurnitureBC.description>-->
   <!-- Carpet AA -->
-
-  <SadjuukCarpetAA.label>Hay Carpet 2X1</SadjuukCarpetAA.label>
-  <SadjuukCarpetAA.description>A very simple carpet made of braided straw.</SadjuukCarpetAA.description>
-  <SadjuukCarpetAA_Blueprint.label>Hay Carpet 2X1 (blueprint)</SadjuukCarpetAA_Blueprint.label>
-  <SadjuukCarpetAA_Blueprint_Install.label>Hay Carpet 2X1 (blueprint)</SadjuukCarpetAA_Blueprint_Install.label>
-  <SadjuukCarpetAA_Frame.label>Hay Carpet 2X1 (building)</SadjuukCarpetAA_Frame.label>
-  <SadjuukCarpetAA_Frame.description>A very simple carpet made of braided straw.</SadjuukCarpetAA_Frame.description>
-
-
+  <!--<SadjuukCarpetAA.label>Hay Carpet 2X1</SadjuukCarpetAA.label>-->
+  <!--<SadjuukCarpetAA.description>A very simple carpet made of braided straw.</SadjuukCarpetAA.description>-->
+  <!--<SadjuukCarpetAA_Blueprint.label>Hay Carpet 2X1 (blueprint)</SadjuukCarpetAA_Blueprint.label>-->
+  <!--<SadjuukCarpetAA_Blueprint_Install.label>Hay Carpet 2X1 (blueprint)</SadjuukCarpetAA_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetAA_Frame.label>Hay Carpet 2X1 (building)</SadjuukCarpetAA_Frame.label>-->
+  <!--<SadjuukCarpetAA_Frame.description>A very simple carpet made of braided straw.</SadjuukCarpetAA_Frame.description>-->
   <!-- Carpet AB -->
-
-  <SadjuukCarpetAB.label>Tribal Carpet 2X1</SadjuukCarpetAB.label>
-  <SadjuukCarpetAB.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAB.description>
-  <SadjuukCarpetAB_Blueprint.label>Tribal Carpet 2X1 (blueprint)</SadjuukCarpetAB_Blueprint.label>
-  <SadjuukCarpetAB_Blueprint_Install.label>Tribal Carpet 2X1 (blueprint)</SadjuukCarpetAB_Blueprint_Install.label>
-  <SadjuukCarpetAB_Frame.label>Tribal Carpet 2X1 (building)</SadjuukCarpetAB_Frame.label>
-  <SadjuukCarpetAB_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAB_Frame.description>
-
-
+  <!--<SadjuukCarpetAB.label>Tribal Carpet 2X1</SadjuukCarpetAB.label>-->
+  <!--<SadjuukCarpetAB.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAB.description>-->
+  <!--<SadjuukCarpetAB_Blueprint.label>Tribal Carpet 2X1 (blueprint)</SadjuukCarpetAB_Blueprint.label>-->
+  <!--<SadjuukCarpetAB_Blueprint_Install.label>Tribal Carpet 2X1 (blueprint)</SadjuukCarpetAB_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetAB_Frame.label>Tribal Carpet 2X1 (building)</SadjuukCarpetAB_Frame.label>-->
+  <!--<SadjuukCarpetAB_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAB_Frame.description>-->
   <!-- Carpet AC -->
-
-  <SadjuukCarpetAC.label>Tribal Carpet 2X1</SadjuukCarpetAC.label>
-  <SadjuukCarpetAC.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAC.description>
-  <SadjuukCarpetAC_Blueprint.label>Tribal Carpet 2X1 (blueprint)</SadjuukCarpetAC_Blueprint.label>
-  <SadjuukCarpetAC_Blueprint_Install.label>Tribal Carpet 2X1 (blueprint)</SadjuukCarpetAC_Blueprint_Install.label>
-  <SadjuukCarpetAC_Frame.label>Tribal Carpet 2X1 (building)</SadjuukCarpetAC_Frame.label>
-  <SadjuukCarpetAC_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAC_Frame.description>
-
-
+  <!--<SadjuukCarpetAC.label>Tribal Carpet 2X1</SadjuukCarpetAC.label>-->
+  <!--<SadjuukCarpetAC.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAC.description>-->
+  <!--<SadjuukCarpetAC_Blueprint.label>Tribal Carpet 2X1 (blueprint)</SadjuukCarpetAC_Blueprint.label>-->
+  <!--<SadjuukCarpetAC_Blueprint_Install.label>Tribal Carpet 2X1 (blueprint)</SadjuukCarpetAC_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetAC_Frame.label>Tribal Carpet 2X1 (building)</SadjuukCarpetAC_Frame.label>-->
+  <!--<SadjuukCarpetAC_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAC_Frame.description>-->
   <!-- Carpet AD -->
-
-  <SadjuukCarpetAD.label>Ancient Carpet 2X1</SadjuukCarpetAD.label>
-  <SadjuukCarpetAD.description>A well-made artisanal carpet.</SadjuukCarpetAD.description>
-  <SadjuukCarpetAD_Blueprint.label>Ancient Carpet 2X1 (blueprint)</SadjuukCarpetAD_Blueprint.label>
-  <SadjuukCarpetAD_Blueprint_Install.label>Ancient Carpet 2X1 (blueprint)</SadjuukCarpetAD_Blueprint_Install.label>
-  <SadjuukCarpetAD_Frame.label>Ancient Carpet 2X1 (building)</SadjuukCarpetAD_Frame.label>
-  <SadjuukCarpetAD_Frame.description>A well-made artisanal carpet.</SadjuukCarpetAD_Frame.description>
-
-
+  <!--<SadjuukCarpetAD.label>Ancient Carpet 2X1</SadjuukCarpetAD.label>-->
+  <!--<SadjuukCarpetAD.description>A well-made artisanal carpet.</SadjuukCarpetAD.description>-->
+  <!--<SadjuukCarpetAD_Blueprint.label>Ancient Carpet 2X1 (blueprint)</SadjuukCarpetAD_Blueprint.label>-->
+  <!--<SadjuukCarpetAD_Blueprint_Install.label>Ancient Carpet 2X1 (blueprint)</SadjuukCarpetAD_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetAD_Frame.label>Ancient Carpet 2X1 (building)</SadjuukCarpetAD_Frame.label>-->
+  <!--<SadjuukCarpetAD_Frame.description>A well-made artisanal carpet.</SadjuukCarpetAD_Frame.description>-->
   <!-- Carpet AE -->
-
-  <SadjuukCarpetAE.label>Ancient Carpet 2X1</SadjuukCarpetAE.label>
-  <SadjuukCarpetAE.description>A well-made artisanal carpet.</SadjuukCarpetAE.description>
-  <SadjuukCarpetAE_Blueprint.label>Ancient Carpet 2X1 (blueprint)</SadjuukCarpetAE_Blueprint.label>
-  <SadjuukCarpetAE_Blueprint_Install.label>Ancient Carpet 2X1 (blueprint)</SadjuukCarpetAE_Blueprint_Install.label>
-  <SadjuukCarpetAE_Frame.label>Ancient Carpet 2X1 (building)</SadjuukCarpetAE_Frame.label>
-  <SadjuukCarpetAE_Frame.description>A well-made artisanal carpet.</SadjuukCarpetAE_Frame.description>
-
-
+  <!--<SadjuukCarpetAE.label>Ancient Carpet 2X1</SadjuukCarpetAE.label>-->
+  <!--<SadjuukCarpetAE.description>A well-made artisanal carpet.</SadjuukCarpetAE.description>-->
+  <!--<SadjuukCarpetAE_Blueprint.label>Ancient Carpet 2X1 (blueprint)</SadjuukCarpetAE_Blueprint.label>-->
+  <!--<SadjuukCarpetAE_Blueprint_Install.label>Ancient Carpet 2X1 (blueprint)</SadjuukCarpetAE_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetAE_Frame.label>Ancient Carpet 2X1 (building)</SadjuukCarpetAE_Frame.label>-->
+  <!--<SadjuukCarpetAE_Frame.description>A well-made artisanal carpet.</SadjuukCarpetAE_Frame.description>-->
   <!-- Carpet AF -->
-
-  <SadjuukCarpetAF.label>Royal Carpet 2X1</SadjuukCarpetAF.label>
-  <SadjuukCarpetAF.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetAF.description>
-  <SadjuukCarpetAF_Blueprint.label>Royal Carpet 2X1 (blueprint)</SadjuukCarpetAF_Blueprint.label>
-  <SadjuukCarpetAF_Blueprint_Install.label>Royal Carpet 2X1 (blueprint)</SadjuukCarpetAF_Blueprint_Install.label>
-  <SadjuukCarpetAF_Frame.label>Royal Carpet 2X1 (building)</SadjuukCarpetAF_Frame.label>
-  <SadjuukCarpetAF_Frame.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetAF_Frame.description>
-
-
+  <!--<SadjuukCarpetAF.label>Royal Carpet 2X1</SadjuukCarpetAF.label>-->
+  <!--<SadjuukCarpetAF.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetAF.description>-->
+  <!--<SadjuukCarpetAF_Blueprint.label>Royal Carpet 2X1 (blueprint)</SadjuukCarpetAF_Blueprint.label>-->
+  <!--<SadjuukCarpetAF_Blueprint_Install.label>Royal Carpet 2X1 (blueprint)</SadjuukCarpetAF_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetAF_Frame.label>Royal Carpet 2X1 (building)</SadjuukCarpetAF_Frame.label>-->
+  <!--<SadjuukCarpetAF_Frame.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetAF_Frame.description>-->
   <!-- Carpet AG -->
-
-  <SadjuukCarpetAG.label>Modern Carpet 2X1</SadjuukCarpetAG.label>
-  <SadjuukCarpetAG.description>A modern carpet made of synthetic material.</SadjuukCarpetAG.description>
-  <SadjuukCarpetAG_Blueprint.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAG_Blueprint.label>
-  <SadjuukCarpetAG_Blueprint_Install.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAG_Blueprint_Install.label>
-  <SadjuukCarpetAG_Frame.label>Modern Carpet 2X1 (building)</SadjuukCarpetAG_Frame.label>
-  <SadjuukCarpetAG_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetAG_Frame.description>
-
-
+  <!--<SadjuukCarpetAG.label>Modern Carpet 2X1</SadjuukCarpetAG.label>-->
+  <!--<SadjuukCarpetAG.description>A modern carpet made of synthetic material.</SadjuukCarpetAG.description>-->
+  <!--<SadjuukCarpetAG_Blueprint.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAG_Blueprint.label>-->
+  <!--<SadjuukCarpetAG_Blueprint_Install.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAG_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetAG_Frame.label>Modern Carpet 2X1 (building)</SadjuukCarpetAG_Frame.label>-->
+  <!--<SadjuukCarpetAG_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetAG_Frame.description>-->
   <!-- Carpet AH -->
-
-  <SadjuukCarpetAH.label>Modern Carpet 2X1</SadjuukCarpetAH.label>
-  <SadjuukCarpetAH.description>A modern carpet made of synthetic material.</SadjuukCarpetAH.description>
-  <SadjuukCarpetAH_Blueprint.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAH_Blueprint.label>
-  <SadjuukCarpetAH_Blueprint_Install.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAH_Blueprint_Install.label>
-  <SadjuukCarpetAH_Frame.label>Modern Carpet 2X1 (building)</SadjuukCarpetAH_Frame.label>
-  <SadjuukCarpetAH_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetAH_Frame.description>
-
-
+  <!--<SadjuukCarpetAH.label>Modern Carpet 2X1</SadjuukCarpetAH.label>-->
+  <!--<SadjuukCarpetAH.description>A modern carpet made of synthetic material.</SadjuukCarpetAH.description>-->
+  <!--<SadjuukCarpetAH_Blueprint.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAH_Blueprint.label>-->
+  <!--<SadjuukCarpetAH_Blueprint_Install.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAH_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetAH_Frame.label>Modern Carpet 2X1 (building)</SadjuukCarpetAH_Frame.label>-->
+  <!--<SadjuukCarpetAH_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetAH_Frame.description>-->
   <!-- Carpet AI -->
-
-  <SadjuukCarpetAI.label>Modern Carpet 2X1</SadjuukCarpetAI.label>
-  <SadjuukCarpetAI.description>A modern carpet made of synthetic material.</SadjuukCarpetAI.description>
-  <SadjuukCarpetAI_Blueprint.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAI_Blueprint.label>
-  <SadjuukCarpetAI_Blueprint_Install.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAI_Blueprint_Install.label>
-  <SadjuukCarpetAI_Frame.label>Modern Carpet 2X1 (building)</SadjuukCarpetAI_Frame.label>
-  <SadjuukCarpetAI_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetAI_Frame.description>
-
-
+  <!--<SadjuukCarpetAI.label>Modern Carpet 2X1</SadjuukCarpetAI.label>-->
+  <!--<SadjuukCarpetAI.description>A modern carpet made of synthetic material.</SadjuukCarpetAI.description>-->
+  <!--<SadjuukCarpetAI_Blueprint.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAI_Blueprint.label>-->
+  <!--<SadjuukCarpetAI_Blueprint_Install.label>Modern Carpet 2X1 (blueprint)</SadjuukCarpetAI_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetAI_Frame.label>Modern Carpet 2X1 (building)</SadjuukCarpetAI_Frame.label>-->
+  <!--<SadjuukCarpetAI_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetAI_Frame.description>-->
   <!-- Carpet BA -->
-
-  <SadjuukCarpetBA.label>Hay Carpet 2X2</SadjuukCarpetBA.label>
-  <SadjuukCarpetBA.description>A very simple carpet made of braided straw.</SadjuukCarpetBA.description>
-  <SadjuukCarpetBA_Blueprint.label>Hay Carpet 2X2 (blueprint)</SadjuukCarpetBA_Blueprint.label>
-  <SadjuukCarpetBA_Blueprint_Install.label>Hay Carpet 2X2 (blueprint)</SadjuukCarpetBA_Blueprint_Install.label>
-  <SadjuukCarpetBA_Frame.label>Hay Carpet 2X2 (building)</SadjuukCarpetBA_Frame.label>
-  <SadjuukCarpetBA_Frame.description>A very simple carpet made of braided straw.</SadjuukCarpetBA_Frame.description>
-
-
+  <!--<SadjuukCarpetBA.label>Hay Carpet 2X2</SadjuukCarpetBA.label>-->
+  <!--<SadjuukCarpetBA.description>A very simple carpet made of braided straw.</SadjuukCarpetBA.description>-->
+  <!--<SadjuukCarpetBA_Blueprint.label>Hay Carpet 2X2 (blueprint)</SadjuukCarpetBA_Blueprint.label>-->
+  <!--<SadjuukCarpetBA_Blueprint_Install.label>Hay Carpet 2X2 (blueprint)</SadjuukCarpetBA_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetBA_Frame.label>Hay Carpet 2X2 (building)</SadjuukCarpetBA_Frame.label>-->
+  <!--<SadjuukCarpetBA_Frame.description>A very simple carpet made of braided straw.</SadjuukCarpetBA_Frame.description>-->
   <!-- Carpet BB -->
-
-  <SadjuukCarpetBB.label>Tribal Carpet 2X2</SadjuukCarpetBB.label>
-  <SadjuukCarpetBB.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBB.description>
-  <SadjuukCarpetBB_Blueprint.label>Tribal Carpet 2X2 (blueprint)</SadjuukCarpetBB_Blueprint.label>
-  <SadjuukCarpetBB_Blueprint_Install.label>Tribal Carpet 2X2 (blueprint)</SadjuukCarpetBB_Blueprint_Install.label>
-  <SadjuukCarpetBB_Frame.label>Tribal Carpet 2X2 (building)</SadjuukCarpetBB_Frame.label>
-  <SadjuukCarpetBB_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBB_Frame.description>
-
-
+  <!--<SadjuukCarpetBB.label>Tribal Carpet 2X2</SadjuukCarpetBB.label>-->
+  <!--<SadjuukCarpetBB.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBB.description>-->
+  <!--<SadjuukCarpetBB_Blueprint.label>Tribal Carpet 2X2 (blueprint)</SadjuukCarpetBB_Blueprint.label>-->
+  <!--<SadjuukCarpetBB_Blueprint_Install.label>Tribal Carpet 2X2 (blueprint)</SadjuukCarpetBB_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetBB_Frame.label>Tribal Carpet 2X2 (building)</SadjuukCarpetBB_Frame.label>-->
+  <!--<SadjuukCarpetBB_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBB_Frame.description>-->
   <!-- Carpet BC -->
-
-  <SadjuukCarpetBC.label>Tribal Carpet 2X2</SadjuukCarpetBC.label>
-  <SadjuukCarpetBC.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBC.description>
-  <SadjuukCarpetBC_Blueprint.label>Tribal Carpet 2X2 (blueprint)</SadjuukCarpetBC_Blueprint.label>
-  <SadjuukCarpetBC_Blueprint_Install.label>Tribal Carpet 2X2 (blueprint)</SadjuukCarpetBC_Blueprint_Install.label>
-  <SadjuukCarpetBC_Frame.label>Tribal Carpet 2X2 (building)</SadjuukCarpetBC_Frame.label>
-  <SadjuukCarpetBC_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBC_Frame.description>
-
-
+  <!--<SadjuukCarpetBC.label>Tribal Carpet 2X2</SadjuukCarpetBC.label>-->
+  <!--<SadjuukCarpetBC.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBC.description>-->
+  <!--<SadjuukCarpetBC_Blueprint.label>Tribal Carpet 2X2 (blueprint)</SadjuukCarpetBC_Blueprint.label>-->
+  <!--<SadjuukCarpetBC_Blueprint_Install.label>Tribal Carpet 2X2 (blueprint)</SadjuukCarpetBC_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetBC_Frame.label>Tribal Carpet 2X2 (building)</SadjuukCarpetBC_Frame.label>-->
+  <!--<SadjuukCarpetBC_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBC_Frame.description>-->
   <!-- Carpet BD -->
-
-  <SadjuukCarpetBD.label>Ancient Carpet 2X2</SadjuukCarpetBD.label>
-  <SadjuukCarpetBD.description>A well-made artisanal carpet.</SadjuukCarpetBD.description>
-  <SadjuukCarpetBD_Blueprint.label>Ancient Carpet 2X2 (blueprint)</SadjuukCarpetBD_Blueprint.label>
-  <SadjuukCarpetBD_Blueprint_Install.label>Ancient Carpet 2X2 (blueprint)</SadjuukCarpetBD_Blueprint_Install.label>
-  <SadjuukCarpetBD_Frame.label>Ancient Carpet 2X2 (building)</SadjuukCarpetBD_Frame.label>
-  <SadjuukCarpetBD_Frame.description>A well-made artisanal carpet.</SadjuukCarpetBD_Frame.description>
-
-
+  <!--<SadjuukCarpetBD.label>Ancient Carpet 2X2</SadjuukCarpetBD.label>-->
+  <!--<SadjuukCarpetBD.description>A well-made artisanal carpet.</SadjuukCarpetBD.description>-->
+  <!--<SadjuukCarpetBD_Blueprint.label>Ancient Carpet 2X2 (blueprint)</SadjuukCarpetBD_Blueprint.label>-->
+  <!--<SadjuukCarpetBD_Blueprint_Install.label>Ancient Carpet 2X2 (blueprint)</SadjuukCarpetBD_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetBD_Frame.label>Ancient Carpet 2X2 (building)</SadjuukCarpetBD_Frame.label>-->
+  <!--<SadjuukCarpetBD_Frame.description>A well-made artisanal carpet.</SadjuukCarpetBD_Frame.description>-->
   <!-- Carpet BE -->
-
-  <SadjuukCarpetBE.label>Ancient Carpet 2X2</SadjuukCarpetBE.label>
-  <SadjuukCarpetBE.description>A well-made artisanal carpet.</SadjuukCarpetBE.description>
-  <SadjuukCarpetBE_Blueprint.label>Ancient Carpet 2X2 (blueprint)</SadjuukCarpetBE_Blueprint.label>
-  <SadjuukCarpetBE_Blueprint_Install.label>Ancient Carpet 2X2 (blueprint)</SadjuukCarpetBE_Blueprint_Install.label>
-  <SadjuukCarpetBE_Frame.label>Ancient Carpet 2X2 (building)</SadjuukCarpetBE_Frame.label>
-  <SadjuukCarpetBE_Frame.description>A well-made artisanal carpet.</SadjuukCarpetBE_Frame.description>
-
-
+  <!--<SadjuukCarpetBE.label>Ancient Carpet 2X2</SadjuukCarpetBE.label>-->
+  <!--<SadjuukCarpetBE.description>A well-made artisanal carpet.</SadjuukCarpetBE.description>-->
+  <!--<SadjuukCarpetBE_Blueprint.label>Ancient Carpet 2X2 (blueprint)</SadjuukCarpetBE_Blueprint.label>-->
+  <!--<SadjuukCarpetBE_Blueprint_Install.label>Ancient Carpet 2X2 (blueprint)</SadjuukCarpetBE_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetBE_Frame.label>Ancient Carpet 2X2 (building)</SadjuukCarpetBE_Frame.label>-->
+  <!--<SadjuukCarpetBE_Frame.description>A well-made artisanal carpet.</SadjuukCarpetBE_Frame.description>-->
   <!-- Carpet BF -->
-
-  <SadjuukCarpetBF.label>Royal Carpet 2X2</SadjuukCarpetBF.label>
-  <SadjuukCarpetBF.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetBF.description>
-  <SadjuukCarpetBF_Blueprint.label>Royal Carpet 2X2 (blueprint)</SadjuukCarpetBF_Blueprint.label>
-  <SadjuukCarpetBF_Blueprint_Install.label>Royal Carpet 2X2 (blueprint)</SadjuukCarpetBF_Blueprint_Install.label>
-  <SadjuukCarpetBF_Frame.label>Royal Carpet 2X2 (building)</SadjuukCarpetBF_Frame.label>
-  <SadjuukCarpetBF_Frame.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetBF_Frame.description>
-
-
+  <!--<SadjuukCarpetBF.label>Royal Carpet 2X2</SadjuukCarpetBF.label>-->
+  <!--<SadjuukCarpetBF.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetBF.description>-->
+  <!--<SadjuukCarpetBF_Blueprint.label>Royal Carpet 2X2 (blueprint)</SadjuukCarpetBF_Blueprint.label>-->
+  <!--<SadjuukCarpetBF_Blueprint_Install.label>Royal Carpet 2X2 (blueprint)</SadjuukCarpetBF_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetBF_Frame.label>Royal Carpet 2X2 (building)</SadjuukCarpetBF_Frame.label>-->
+  <!--<SadjuukCarpetBF_Frame.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetBF_Frame.description>-->
   <!-- Carpet BG -->
-
-  <SadjuukCarpetBG.label>Modern Carpet 2X2</SadjuukCarpetBG.label>
-  <SadjuukCarpetBG.description>A modern carpet made of synthetic material.</SadjuukCarpetBG.description>
-  <SadjuukCarpetBG_Blueprint.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBG_Blueprint.label>
-  <SadjuukCarpetBG_Blueprint_Install.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBG_Blueprint_Install.label>
-  <SadjuukCarpetBG_Frame.label>Modern Carpet 2X2 (building)</SadjuukCarpetBG_Frame.label>
-  <SadjuukCarpetBG_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetBG_Frame.description>
-
-
+  <!--<SadjuukCarpetBG.label>Modern Carpet 2X2</SadjuukCarpetBG.label>-->
+  <!--<SadjuukCarpetBG.description>A modern carpet made of synthetic material.</SadjuukCarpetBG.description>-->
+  <!--<SadjuukCarpetBG_Blueprint.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBG_Blueprint.label>-->
+  <!--<SadjuukCarpetBG_Blueprint_Install.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBG_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetBG_Frame.label>Modern Carpet 2X2 (building)</SadjuukCarpetBG_Frame.label>-->
+  <!--<SadjuukCarpetBG_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetBG_Frame.description>-->
   <!-- Carpet BH -->
-
-  <SadjuukCarpetBH.label>Modern Carpet 2X2</SadjuukCarpetBH.label>
-  <SadjuukCarpetBH.description>A modern carpet made of synthetic material.</SadjuukCarpetBH.description>
-  <SadjuukCarpetBH_Blueprint.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBH_Blueprint.label>
-  <SadjuukCarpetBH_Blueprint_Install.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBH_Blueprint_Install.label>
-  <SadjuukCarpetBH_Frame.label>Modern Carpet 2X2 (building)</SadjuukCarpetBH_Frame.label>
-  <SadjuukCarpetBH_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetBH_Frame.description>
-
-
+  <!--<SadjuukCarpetBH.label>Modern Carpet 2X2</SadjuukCarpetBH.label>-->
+  <!--<SadjuukCarpetBH.description>A modern carpet made of synthetic material.</SadjuukCarpetBH.description>-->
+  <!--<SadjuukCarpetBH_Blueprint.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBH_Blueprint.label>-->
+  <!--<SadjuukCarpetBH_Blueprint_Install.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBH_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetBH_Frame.label>Modern Carpet 2X2 (building)</SadjuukCarpetBH_Frame.label>-->
+  <!--<SadjuukCarpetBH_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetBH_Frame.description>-->
   <!-- Carpet BI -->
-
-  <SadjuukCarpetBI.label>Modern Carpet 2X2</SadjuukCarpetBI.label>
-  <SadjuukCarpetBI.description>A modern carpet made of synthetic material.</SadjuukCarpetBI.description>
-  <SadjuukCarpetBI_Blueprint.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBI_Blueprint.label>
-  <SadjuukCarpetBI_Blueprint_Install.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBI_Blueprint_Install.label>
-  <SadjuukCarpetBI_Frame.label>Modern Carpet 2X2 (building)</SadjuukCarpetBI_Frame.label>
-  <SadjuukCarpetBI_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetBI_Frame.description>
-
-
+  <!--<SadjuukCarpetBI.label>Modern Carpet 2X2</SadjuukCarpetBI.label>-->
+  <!--<SadjuukCarpetBI.description>A modern carpet made of synthetic material.</SadjuukCarpetBI.description>-->
+  <!--<SadjuukCarpetBI_Blueprint.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBI_Blueprint.label>-->
+  <!--<SadjuukCarpetBI_Blueprint_Install.label>Modern Carpet 2X2 (blueprint)</SadjuukCarpetBI_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetBI_Frame.label>Modern Carpet 2X2 (building)</SadjuukCarpetBI_Frame.label>-->
+  <!--<SadjuukCarpetBI_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetBI_Frame.description>-->
   <!-- Carpet CA -->
-
-  <SadjuukCarpetCA.label>Hay Carpet 3X3</SadjuukCarpetCA.label>
-  <SadjuukCarpetCA.description>A very simple carpet made of braided straw.</SadjuukCarpetCA.description>
-  <SadjuukCarpetCA_Blueprint.label>Hay Carpet 3X3 (blueprint)</SadjuukCarpetCA_Blueprint.label>
-  <SadjuukCarpetCA_Blueprint_Install.label>Hay Carpet 3X3 (blueprint)</SadjuukCarpetCA_Blueprint_Install.label>
-  <SadjuukCarpetCA_Frame.label>Hay Carpet 3X3 (building)</SadjuukCarpetCA_Frame.label>
-  <SadjuukCarpetCA_Frame.description>A very simple carpet made of braided straw.</SadjuukCarpetCA_Frame.description>
-
-
+  <!--<SadjuukCarpetCA.label>Hay Carpet 3X3</SadjuukCarpetCA.label>-->
+  <!--<SadjuukCarpetCA.description>A very simple carpet made of braided straw.</SadjuukCarpetCA.description>-->
+  <!--<SadjuukCarpetCA_Blueprint.label>Hay Carpet 3X3 (blueprint)</SadjuukCarpetCA_Blueprint.label>-->
+  <!--<SadjuukCarpetCA_Blueprint_Install.label>Hay Carpet 3X3 (blueprint)</SadjuukCarpetCA_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetCA_Frame.label>Hay Carpet 3X3 (building)</SadjuukCarpetCA_Frame.label>-->
+  <!--<SadjuukCarpetCA_Frame.description>A very simple carpet made of braided straw.</SadjuukCarpetCA_Frame.description>-->
   <!-- Carpet CB -->
-
-  <SadjuukCarpetCB.label>Tribal Carpet 3X3</SadjuukCarpetCB.label>
-  <SadjuukCarpetCB.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCB.description>
-  <SadjuukCarpetCB_Blueprint.label>Tribal Carpet 3X3 (blueprint)</SadjuukCarpetCB_Blueprint.label>
-  <SadjuukCarpetCB_Blueprint_Install.label>Tribal Carpet 3X3 (blueprint)</SadjuukCarpetCB_Blueprint_Install.label>
-  <SadjuukCarpetCB_Frame.label>Tribal Carpet 3X3 (building)</SadjuukCarpetCB_Frame.label>
-  <SadjuukCarpetCB_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCB_Frame.description>
-
-
+  <!--<SadjuukCarpetCB.label>Tribal Carpet 3X3</SadjuukCarpetCB.label>-->
+  <!--<SadjuukCarpetCB.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCB.description>-->
+  <!--<SadjuukCarpetCB_Blueprint.label>Tribal Carpet 3X3 (blueprint)</SadjuukCarpetCB_Blueprint.label>-->
+  <!--<SadjuukCarpetCB_Blueprint_Install.label>Tribal Carpet 3X3 (blueprint)</SadjuukCarpetCB_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetCB_Frame.label>Tribal Carpet 3X3 (building)</SadjuukCarpetCB_Frame.label>-->
+  <!--<SadjuukCarpetCB_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCB_Frame.description>-->
   <!-- Carpet CC -->
-
-  <SadjuukCarpetCC.label>Tribal Carpet 3X3</SadjuukCarpetCC.label>
-  <SadjuukCarpetCC.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCC.description>
-  <SadjuukCarpetCC_Blueprint.label>Tribal Carpet 3X3 (blueprint)</SadjuukCarpetCC_Blueprint.label>
-  <SadjuukCarpetCC_Blueprint_Install.label>Tribal Carpet 3X3 (blueprint)</SadjuukCarpetCC_Blueprint_Install.label>
-  <SadjuukCarpetCC_Frame.label>Tribal Carpet 3X3 (building)</SadjuukCarpetCC_Frame.label>
-  <SadjuukCarpetCC_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCC_Frame.description>
-
-
+  <!--<SadjuukCarpetCC.label>Tribal Carpet 3X3</SadjuukCarpetCC.label>-->
+  <!--<SadjuukCarpetCC.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCC.description>-->
+  <!--<SadjuukCarpetCC_Blueprint.label>Tribal Carpet 3X3 (blueprint)</SadjuukCarpetCC_Blueprint.label>-->
+  <!--<SadjuukCarpetCC_Blueprint_Install.label>Tribal Carpet 3X3 (blueprint)</SadjuukCarpetCC_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetCC_Frame.label>Tribal Carpet 3X3 (building)</SadjuukCarpetCC_Frame.label>-->
+  <!--<SadjuukCarpetCC_Frame.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCC_Frame.description>-->
   <!-- Carpet CD -->
-
-  <SadjuukCarpetCD.label>Ancient Carpet 3X3</SadjuukCarpetCD.label>
-  <SadjuukCarpetCD.description>A well-made artisanal carpet.</SadjuukCarpetCD.description>
-  <SadjuukCarpetCD_Blueprint.label>Ancient Carpet 3X3 (blueprint)</SadjuukCarpetCD_Blueprint.label>
-  <SadjuukCarpetCD_Blueprint_Install.label>Ancient Carpet 3X3 (blueprint)</SadjuukCarpetCD_Blueprint_Install.label>
-  <SadjuukCarpetCD_Frame.label>Ancient Carpet 3X3 (building)</SadjuukCarpetCD_Frame.label>
-  <SadjuukCarpetCD_Frame.description>A well-made artisanal carpet.</SadjuukCarpetCD_Frame.description>
-
-
+  <!--<SadjuukCarpetCD.label>Ancient Carpet 3X3</SadjuukCarpetCD.label>-->
+  <!--<SadjuukCarpetCD.description>A well-made artisanal carpet.</SadjuukCarpetCD.description>-->
+  <!--<SadjuukCarpetCD_Blueprint.label>Ancient Carpet 3X3 (blueprint)</SadjuukCarpetCD_Blueprint.label>-->
+  <!--<SadjuukCarpetCD_Blueprint_Install.label>Ancient Carpet 3X3 (blueprint)</SadjuukCarpetCD_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetCD_Frame.label>Ancient Carpet 3X3 (building)</SadjuukCarpetCD_Frame.label>-->
+  <!--<SadjuukCarpetCD_Frame.description>A well-made artisanal carpet.</SadjuukCarpetCD_Frame.description>-->
   <!-- Carpet CE -->
-
-  <SadjuukCarpetCE.label>Ancient Carpet 3X3</SadjuukCarpetCE.label>
-  <SadjuukCarpetCE.description>A well-made artisanal carpet.</SadjuukCarpetCE.description>
-  <SadjuukCarpetCE_Blueprint.label>Ancient Carpet 3X3 (blueprint)</SadjuukCarpetCE_Blueprint.label>
-  <SadjuukCarpetCE_Blueprint_Install.label>Ancient Carpet 3X3 (blueprint)</SadjuukCarpetCE_Blueprint_Install.label>
-  <SadjuukCarpetCE_Frame.label>Ancient Carpet 3X3 (building)</SadjuukCarpetCE_Frame.label>
-  <SadjuukCarpetCE_Frame.description>A well-made artisanal carpet.</SadjuukCarpetCE_Frame.description>
-
-
+  <!--<SadjuukCarpetCE.label>Ancient Carpet 3X3</SadjuukCarpetCE.label>-->
+  <!--<SadjuukCarpetCE.description>A well-made artisanal carpet.</SadjuukCarpetCE.description>-->
+  <!--<SadjuukCarpetCE_Blueprint.label>Ancient Carpet 3X3 (blueprint)</SadjuukCarpetCE_Blueprint.label>-->
+  <!--<SadjuukCarpetCE_Blueprint_Install.label>Ancient Carpet 3X3 (blueprint)</SadjuukCarpetCE_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetCE_Frame.label>Ancient Carpet 3X3 (building)</SadjuukCarpetCE_Frame.label>-->
+  <!--<SadjuukCarpetCE_Frame.description>A well-made artisanal carpet.</SadjuukCarpetCE_Frame.description>-->
   <!-- Carpet CF -->
-
-  <SadjuukCarpetCF.label>Royal Carpet 3X3</SadjuukCarpetCF.label>
-  <SadjuukCarpetCF.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetCF.description>
-  <SadjuukCarpetCF_Blueprint.label>Royal Carpet 3X3 (blueprint)</SadjuukCarpetCF_Blueprint.label>
-  <SadjuukCarpetCF_Blueprint_Install.label>Royal Carpet 3X3 (blueprint)</SadjuukCarpetCF_Blueprint_Install.label>
-  <SadjuukCarpetCF_Frame.label>Royal Carpet 3X3 (building)</SadjuukCarpetCF_Frame.label>
-  <SadjuukCarpetCF_Frame.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetCF_Frame.description>
-
-
+  <!--<SadjuukCarpetCF.label>Royal Carpet 3X3</SadjuukCarpetCF.label>-->
+  <!--<SadjuukCarpetCF.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetCF.description>-->
+  <!--<SadjuukCarpetCF_Blueprint.label>Royal Carpet 3X3 (blueprint)</SadjuukCarpetCF_Blueprint.label>-->
+  <!--<SadjuukCarpetCF_Blueprint_Install.label>Royal Carpet 3X3 (blueprint)</SadjuukCarpetCF_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetCF_Frame.label>Royal Carpet 3X3 (building)</SadjuukCarpetCF_Frame.label>-->
+  <!--<SadjuukCarpetCF_Frame.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetCF_Frame.description>-->
   <!-- Carpet CG -->
-
-  <SadjuukCarpetCG.label>Modern Carpet 3X3</SadjuukCarpetCG.label>
-  <SadjuukCarpetCG.description>A modern carpet made of synthetic material.</SadjuukCarpetCG.description>
-  <SadjuukCarpetCG_Blueprint.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCG_Blueprint.label>
-  <SadjuukCarpetCG_Blueprint_Install.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCG_Blueprint_Install.label>
-  <SadjuukCarpetCG_Frame.label>Modern Carpet 3X3 (building)</SadjuukCarpetCG_Frame.label>
-  <SadjuukCarpetCG_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetCG_Frame.description>
-
-
+  <!--<SadjuukCarpetCG.label>Modern Carpet 3X3</SadjuukCarpetCG.label>-->
+  <!--<SadjuukCarpetCG.description>A modern carpet made of synthetic material.</SadjuukCarpetCG.description>-->
+  <!--<SadjuukCarpetCG_Blueprint.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCG_Blueprint.label>-->
+  <!--<SadjuukCarpetCG_Blueprint_Install.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCG_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetCG_Frame.label>Modern Carpet 3X3 (building)</SadjuukCarpetCG_Frame.label>-->
+  <!--<SadjuukCarpetCG_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetCG_Frame.description>-->
   <!-- Carpet CH -->
-
-  <SadjuukCarpetCH.label>Modern Carpet 3X3</SadjuukCarpetCH.label>
-  <SadjuukCarpetCH.description>A modern carpet made of synthetic material.</SadjuukCarpetCH.description>
-  <SadjuukCarpetCH_Blueprint.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCH_Blueprint.label>
-  <SadjuukCarpetCH_Blueprint_Install.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCH_Blueprint_Install.label>
-  <SadjuukCarpetCH_Frame.label>Modern Carpet 3X3 (building)</SadjuukCarpetCH_Frame.label>
-  <SadjuukCarpetCH_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetCH_Frame.description>
-
-
+  <!--<SadjuukCarpetCH.label>Modern Carpet 3X3</SadjuukCarpetCH.label>-->
+  <!--<SadjuukCarpetCH.description>A modern carpet made of synthetic material.</SadjuukCarpetCH.description>-->
+  <!--<SadjuukCarpetCH_Blueprint.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCH_Blueprint.label>-->
+  <!--<SadjuukCarpetCH_Blueprint_Install.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCH_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetCH_Frame.label>Modern Carpet 3X3 (building)</SadjuukCarpetCH_Frame.label>-->
+  <!--<SadjuukCarpetCH_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetCH_Frame.description>-->
   <!-- Carpet CI -->
-
-  <SadjuukCarpetCI.label>Modern Carpet 3X3</SadjuukCarpetCI.label>
-  <SadjuukCarpetCI.description>A modern carpet made of synthetic material.</SadjuukCarpetCI.description>
-  <SadjuukCarpetCI_Blueprint.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCI_Blueprint.label>
-  <SadjuukCarpetCI_Blueprint_Install.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCI_Blueprint_Install.label>
-  <SadjuukCarpetCI_Frame.label>Modern Carpet 3X3 (building)</SadjuukCarpetCI_Frame.label>
-  <SadjuukCarpetCI_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetCI_Frame.description>
-
-
+  <!--<SadjuukCarpetCI.label>Modern Carpet 3X3</SadjuukCarpetCI.label>-->
+  <!--<SadjuukCarpetCI.description>A modern carpet made of synthetic material.</SadjuukCarpetCI.description>-->
+  <!--<SadjuukCarpetCI_Blueprint.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCI_Blueprint.label>-->
+  <!--<SadjuukCarpetCI_Blueprint_Install.label>Modern Carpet 3X3 (blueprint)</SadjuukCarpetCI_Blueprint_Install.label>-->
+  <!--<SadjuukCarpetCI_Frame.label>Modern Carpet 3X3 (building)</SadjuukCarpetCI_Frame.label>-->
+  <!--<SadjuukCarpetCI_Frame.description>A modern carpet made of synthetic material.</SadjuukCarpetCI_Frame.description>-->
   <!-- Surgery AA -->
-
-  <SadjuukSurgeryAA.label>Rustic Surgery Tools</SadjuukSurgeryAA.label>
-  <SadjuukSurgeryAA.description>Very rustic surgery tools increasing medical tend quality.
-Tending : 2%, Infection : 2%, Surgery : 2%</SadjuukSurgeryAA.description>
-
-
+  <!--<SadjuukSurgeryAA.label>Rustic Surgery Tools</SadjuukSurgeryAA.label>-->
+  <!--<SadjuukSurgeryAA.description>Very rustic surgery tools increasing medical tend quality.
+Tending : 2%, Infection : 2%, Surgery : 2%</SadjuukSurgeryAA.description>-->
   <!-- Surgery AB -->
-
-  <SadjuukSurgeryAB.label>Basic Surgery Tools</SadjuukSurgeryAB.label>
-  <SadjuukSurgeryAB.description>Basic surgery tools made of silver and wood, increasing medical tend quality.
-Tending : 2%, Infection : 2%, Surgery : 2%</SadjuukSurgeryAB.description>
-
-
+  <!--<SadjuukSurgeryAB.label>Basic Surgery Tools</SadjuukSurgeryAB.label>-->
+  <!--<SadjuukSurgeryAB.description>Basic surgery tools made of silver and wood, increasing medical tend quality.
+Tending : 2%, Infection : 2%, Surgery : 2%</SadjuukSurgeryAB.description>-->
   <!-- Surgery AC -->
-
-  <SadjuukSurgeryAC.label>Steel Surgery Tools</SadjuukSurgeryAC.label>
-  <SadjuukSurgeryAC.description>Standard medical tools.
-Tending : 5%, Infection : 2%, Surgery : 5%</SadjuukSurgeryAC.description>
-
-
+  <!--<SadjuukSurgeryAC.label>Steel Surgery Tools</SadjuukSurgeryAC.label>-->
+  <!--<SadjuukSurgeryAC.description>Standard medical tools.
+Tending : 5%, Infection : 2%, Surgery : 5%</SadjuukSurgeryAC.description>-->
   <!-- Surgery AD -->
-
-  <SadjuukSurgeryAD.label>Surgery Lights.</SadjuukSurgeryAD.label>
-  <SadjuukSurgeryAD.description>A surgical lamp to help during delicate operations.
-Tending : 5%, Infection : 0%, Surgery : 5%</SadjuukSurgeryAD.description>
-
-
+  <!--<SadjuukSurgeryAD.label>Surgery Lights.</SadjuukSurgeryAD.label>-->
+  <!--<SadjuukSurgeryAD.description>A surgical lamp to help during delicate operations.
+Tending : 5%, Infection : 0%, Surgery : 5%</SadjuukSurgeryAD.description>-->
   <!-- Surgery BA -->
-
-  <SadjuukSurgeryBA.label>Medecine Table</SadjuukSurgeryBA.label>
-  <SadjuukSurgeryBA.description>A Wooden table allowing poor medical care.</SadjuukSurgeryBA.description>
-
-
+  <!--<SadjuukSurgeryBA.label>Medecine Table</SadjuukSurgeryBA.label>-->
+  <!--<SadjuukSurgeryBA.description>A Wooden table allowing poor medical care.</SadjuukSurgeryBA.description>-->
   <!-- Surgery BB -->
-
-  <SadjuukSurgeryBB.label>Wooden Medical Bed</SadjuukSurgeryBB.label>
-  <SadjuukSurgeryBB.description>A Wooden bed, good for recovery.</SadjuukSurgeryBB.description>
-
-
+  <!--<SadjuukSurgeryBB.label>Wooden Medical Bed</SadjuukSurgeryBB.label>-->
+  <!--<SadjuukSurgeryBB.description>A Wooden bed, good for recovery.</SadjuukSurgeryBB.description>-->
   <!-- Surgery BC -->
-
-  <SadjuukSurgeryBC.label>Steel Medical Bed</SadjuukSurgeryBC.label>
-  <SadjuukSurgeryBC.description>A Standard hospital bed, good for recovery.</SadjuukSurgeryBC.description>
-
-
+  <!--<SadjuukSurgeryBC.label>Steel Medical Bed</SadjuukSurgeryBC.label>-->
+  <!--<SadjuukSurgeryBC.description>A Standard hospital bed, good for recovery.</SadjuukSurgeryBC.description>-->
   <!-- Surgery BD -->
-
-  <SadjuukSurgeryBD.label>Operating Table</SadjuukSurgeryBD.label>
-  <SadjuukSurgeryBD.description>A Surgery bed allowing complex operations.</SadjuukSurgeryBD.description>
-
-
+  <!--<SadjuukSurgeryBD.label>Operating Table</SadjuukSurgeryBD.label>-->
+  <!--<SadjuukSurgeryBD.description>A Surgery bed allowing complex operations.</SadjuukSurgeryBD.description>-->
   <!-- Research AA -->
-
-  <SadjuukResearchAA.label>Research Spot</SadjuukResearchAA.label>
-  <SadjuukResearchAA.description>A place where primitive experiences can be conducted.</SadjuukResearchAA.description>
-
-
+  <!--<SadjuukResearchAA.label>Research Spot</SadjuukResearchAA.label>-->
+  <!--<SadjuukResearchAA.description>A place where primitive experiences can be conducted.</SadjuukResearchAA.description>-->
   <!-- Research AB -->
-
-  <SadjuukResearchAB.label>Research Desk</SadjuukResearchAB.label>
-  <SadjuukResearchAB.description>A wooden desk to study with serenity.</SadjuukResearchAB.description>
-
-
+  <!--<SadjuukResearchAB.label>Research Desk</SadjuukResearchAB.label>-->
+  <!--<SadjuukResearchAB.description>A wooden desk to study with serenity.</SadjuukResearchAB.description>-->
   <!-- Research AC -->
-
-  <SadjuukResearchAC.label>Research Table</SadjuukResearchAC.label>
-  <SadjuukResearchAC.description>A research table completed by measuring equipment.</SadjuukResearchAC.description>
-
-
+  <!--<SadjuukResearchAC.label>Research Table</SadjuukResearchAC.label>-->
+  <!--<SadjuukResearchAC.description>A research table completed by measuring equipment.</SadjuukResearchAC.description>-->
   <!-- Research BA -->
-
-  <SadjuukResearchBA.label>Tribal Calendar</SadjuukResearchBA.label>
-  <SadjuukResearchBA.description>A primitive calendar, giving the position of the stars and seasons.</SadjuukResearchBA.description>
-
-
+  <!--<SadjuukResearchBA.label>Tribal Calendar</SadjuukResearchBA.label>-->
+  <!--<SadjuukResearchBA.description>A primitive calendar, giving the position of the stars and seasons.</SadjuukResearchBA.description>-->
   <!-- Research BB -->
-
-  <SadjuukResearchBB.label>Research Library</SadjuukResearchBB.label>
-  <SadjuukResearchBB.description>A library keeping the researches and plans made.</SadjuukResearchBB.description>
-
-
+  <!--<SadjuukResearchBB.label>Research Library</SadjuukResearchBB.label>-->
+  <!--<SadjuukResearchBB.description>A library keeping the researches and plans made.</SadjuukResearchBB.description>-->
   <!-- Research BC -->
-
-  <SadjuukResearchBC.label>Blueprint Table</SadjuukResearchBC.label>
-  <SadjuukResearchBC.description>A plane table, to design machines with great precision.</SadjuukResearchBC.description>
-
-
+  <!--<SadjuukResearchBC.label>Blueprint Table</SadjuukResearchBC.label>-->
+  <!--<SadjuukResearchBC.description>A plane table, to design machines with great precision.</SadjuukResearchBC.description>-->
   <!-- Research BD -->
-
-  <SadjuukResearchBD.label>Archival Cabinet</SadjuukResearchBD.label>
-  <SadjuukResearchBD.description>A storage cabinet for the files and plans resulting from the research carried out.</SadjuukResearchBD.description>
-
-
+  <!--<SadjuukResearchBD.label>Archival Cabinet</SadjuukResearchBD.label>-->
+  <!--<SadjuukResearchBD.description>A storage cabinet for the files and plans resulting from the research carried out.</SadjuukResearchBD.description>-->
   <!-- Heater AA -->
-
-  <SadjuukHeaterAA.label>Electric Heater</SadjuukHeaterAA.label>
-  <SadjuukHeaterAA.description>P : 175W, T/s : 21
-Electric Heater, with a low energy efficiency.</SadjuukHeaterAA.description>
-
-
+  <!--<SadjuukHeaterAA.label>Electric Heater</SadjuukHeaterAA.label>-->
+  <!--<SadjuukHeaterAA.description>P : 175W, T/s : 21
+Electric Heater, with a low energy efficiency.</SadjuukHeaterAA.description>-->
   <!-- Heater AB -->
-
-  <SadjuukHeaterAB.label>Ceramic Heater</SadjuukHeaterAB.label>
-  <SadjuukHeaterAB.description>P : 100W, T/s : 25
-A Ceramic Heater, with a good energy efficiency.</SadjuukHeaterAB.description>
-
-
+  <!--<SadjuukHeaterAB.label>Ceramic Heater</SadjuukHeaterAB.label>-->
+  <!--<SadjuukHeaterAB.description>P : 100W, T/s : 25
+A Ceramic Heater, with a good energy efficiency.</SadjuukHeaterAB.description>-->
   <!-- Heater AC -->
-
-  <SadjuukHeaterAC.label>Central Heating</SadjuukHeaterAC.label>
-  <SadjuukHeaterAC.description>P : 1000W, T/s : 300
-A Central Heating capables of heating large volumes.</SadjuukHeaterAC.description>
-
-
+  <!--<SadjuukHeaterAC.label>Central Heating</SadjuukHeaterAC.label>-->
+  <!--<SadjuukHeaterAC.description>P : 1000W, T/s : 300
+A Central Heating capables of heating large volumes.</SadjuukHeaterAC.description>-->
   <!-- Cooler AA -->
-
-  <SadjuukCoolerAA.label>Electric Fan</SadjuukCoolerAA.label>
-  <SadjuukCoolerAA.description>P : 40W, T min : 24°C
-An Electric Fan reducing a little excess temperature in a room.</SadjuukCoolerAA.description>
-  <SadjuukCoolerAA_Blueprint.label>Electric Fan (blueprint)</SadjuukCoolerAA_Blueprint.label>
-  <SadjuukCoolerAA_Blueprint_Install.label>Electric Fan (blueprint)</SadjuukCoolerAA_Blueprint_Install.label>
-  <SadjuukCoolerAA_Frame.label>Electric Fan (building)</SadjuukCoolerAA_Frame.label>
-  <SadjuukCoolerAA_Frame.description>P : 40W, T min : 24°C
-An Electric Fan reducing a little excess temperature in a room.</SadjuukCoolerAA_Frame.description>
-
-
+  <!--<SadjuukCoolerAA.label>Electric Fan</SadjuukCoolerAA.label>-->
+  <!--<SadjuukCoolerAA.description>P : 40W, T min : 24°C
+An Electric Fan reducing a little excess temperature in a room.</SadjuukCoolerAA.description>-->
+  <!--<SadjuukCoolerAA_Blueprint.label>Electric Fan (blueprint)</SadjuukCoolerAA_Blueprint.label>-->
+  <!--<SadjuukCoolerAA_Blueprint_Install.label>Electric Fan (blueprint)</SadjuukCoolerAA_Blueprint_Install.label>-->
+  <!--<SadjuukCoolerAA_Frame.label>Electric Fan (building)</SadjuukCoolerAA_Frame.label>-->
+  <!--<SadjuukCoolerAA_Frame.description>P : 40W, T min : 24°C
+An Electric Fan reducing a little excess temperature in a room.</SadjuukCoolerAA_Frame.description>-->
   <!-- Cooler AB -->
-
-  <SadjuukCoolerAB.label>Steel Air Cooler</SadjuukCoolerAB.label>
-  <SadjuukCoolerAB.description>P : 200W, T/s : -21
-An electric Air Cooler. Have to be placed on a wall.</SadjuukCoolerAB.description>
-
-
+  <!--<SadjuukCoolerAB.label>Steel Air Cooler</SadjuukCoolerAB.label>-->
+  <!--<SadjuukCoolerAB.description>P : 200W, T/s : -21
+An electric Air Cooler. Have to be placed on a wall.</SadjuukCoolerAB.description>-->
   <!-- Cooler AC -->
-
-  <SadjuukCoolerAC.label>Ceramic Air Cooler</SadjuukCoolerAC.label>
-  <SadjuukCoolerAC.description>P : 400W, T/s : -63
-Ceramic Air Cooler with good performance. Have to be placed on a wall.</SadjuukCoolerAC.description>
-
-
+  <!--<SadjuukCoolerAC.label>Ceramic Air Cooler</SadjuukCoolerAC.label>-->
+  <!--<SadjuukCoolerAC.description>P : 400W, T/s : -63
+Ceramic Air Cooler with good performance. Have to be placed on a wall.</SadjuukCoolerAC.description>-->
   <!-- Vent AA -->
-
-  <SadjuukVentAA.label>Steel Ventilation</SadjuukVentAA.label>
-  <SadjuukVentAA.description>Very simple ventilation, giving breathable air and transmitting heat between rooms. Have to be placed on a wall.</SadjuukVentAA.description>
-
-
+  <!--<SadjuukVentAA.label>Steel Ventilation</SadjuukVentAA.label>-->
+  <!--<SadjuukVentAA.description>Very simple ventilation, giving breathable air and transmitting heat between rooms. Have to be placed on a wall.</SadjuukVentAA.description>-->
   <!-- Vent AB -->
-
-  <SadjuukVentAB.label>Filtering Ventilation</SadjuukVentAB.label>
-  <SadjuukVentAB.description>Good quality ventilation increases the comfort of the room. Have to be placed on a wall.</SadjuukVentAB.description>
-
-
+  <!--<SadjuukVentAB.label>Filtering Ventilation</SadjuukVentAB.label>-->
+  <!--<SadjuukVentAB.description>Good quality ventilation increases the comfort of the room. Have to be placed on a wall.</SadjuukVentAB.description>-->
   <!-- Vent AC -->
-
-  <SadjuukVentAC.label>Cozy Ventilation</SadjuukVentAC.label>
-  <SadjuukVentAC.description>Filter ventilation of very good quality, greatly increasing the comfort of the room. Have to be placed on a wall.</SadjuukVentAC.description>
-
-
+  <!--<SadjuukVentAC.label>Cozy Ventilation</SadjuukVentAC.label>-->
+  <!--<SadjuukVentAC.description>Filter ventilation of very good quality, greatly increasing the comfort of the room. Have to be placed on a wall.</SadjuukVentAC.description>-->
   <!-- Banner AA -->
-
-  <SadjuukHighBannerAA.label>UNSC Banner</SadjuukHighBannerAA.label>
-  <SadjuukHighBannerAA.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAA.description>
-  <SadjuukHighBannerAA_Blueprint.label>UNSC Banner (blueprint)</SadjuukHighBannerAA_Blueprint.label>
-  <SadjuukHighBannerAA_Blueprint_Install.label>UNSC Banner (blueprint)</SadjuukHighBannerAA_Blueprint_Install.label>
-  <SadjuukHighBannerAA_Frame.label>UNSC Banner (building)</SadjuukHighBannerAA_Frame.label>
-  <SadjuukHighBannerAA_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAA_Frame.description>
-
-
+  <!--<SadjuukHighBannerAA.label>UNSC Banner</SadjuukHighBannerAA.label>-->
+  <!--<SadjuukHighBannerAA.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAA.description>-->
+  <!--<SadjuukHighBannerAA_Blueprint.label>UNSC Banner (blueprint)</SadjuukHighBannerAA_Blueprint.label>-->
+  <!--<SadjuukHighBannerAA_Blueprint_Install.label>UNSC Banner (blueprint)</SadjuukHighBannerAA_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAA_Frame.label>UNSC Banner (building)</SadjuukHighBannerAA_Frame.label>-->
+  <!--<SadjuukHighBannerAA_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAA_Frame.description>-->
   <!-- Banner AB -->
-
-  <SadjuukHighBannerAB.label>Gallia Banner</SadjuukHighBannerAB.label>
-  <SadjuukHighBannerAB.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAB.description>
-  <SadjuukHighBannerAB_Blueprint.label>Gallia Banner (blueprint)</SadjuukHighBannerAB_Blueprint.label>
-  <SadjuukHighBannerAB_Blueprint_Install.label>Gallia Banner (blueprint)</SadjuukHighBannerAB_Blueprint_Install.label>
-  <SadjuukHighBannerAB_Frame.label>Gallia Banner (building)</SadjuukHighBannerAB_Frame.label>
-  <SadjuukHighBannerAB_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAB_Frame.description>
-
-
+  <!--<SadjuukHighBannerAB.label>Gallia Banner</SadjuukHighBannerAB.label>-->
+  <!--<SadjuukHighBannerAB.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAB.description>-->
+  <!--<SadjuukHighBannerAB_Blueprint.label>Gallia Banner (blueprint)</SadjuukHighBannerAB_Blueprint.label>-->
+  <!--<SadjuukHighBannerAB_Blueprint_Install.label>Gallia Banner (blueprint)</SadjuukHighBannerAB_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAB_Frame.label>Gallia Banner (building)</SadjuukHighBannerAB_Frame.label>-->
+  <!--<SadjuukHighBannerAB_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAB_Frame.description>-->
   <!-- Banner AR -->
-
-  <SadjuukHighBannerAR.label>Lys Banner</SadjuukHighBannerAR.label>
-  <SadjuukHighBannerAR.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAR.description>
-  <SadjuukHighBannerAR_Blueprint.label>Lys Banner (blueprint)</SadjuukHighBannerAR_Blueprint.label>
-  <SadjuukHighBannerAR_Blueprint_Install.label>Lys Banner (blueprint)</SadjuukHighBannerAR_Blueprint_Install.label>
-  <SadjuukHighBannerAR_Frame.label>Lys Banner (building)</SadjuukHighBannerAR_Frame.label>
-  <SadjuukHighBannerAR_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAR_Frame.description>
-
-
+  <!--<SadjuukHighBannerAR.label>Lys Banner</SadjuukHighBannerAR.label>-->
+  <!--<SadjuukHighBannerAR.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAR.description>-->
+  <!--<SadjuukHighBannerAR_Blueprint.label>Lys Banner (blueprint)</SadjuukHighBannerAR_Blueprint.label>-->
+  <!--<SadjuukHighBannerAR_Blueprint_Install.label>Lys Banner (blueprint)</SadjuukHighBannerAR_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAR_Frame.label>Lys Banner (building)</SadjuukHighBannerAR_Frame.label>-->
+  <!--<SadjuukHighBannerAR_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAR_Frame.description>-->
   <!-- Banner AC -->
-
-  <SadjuukHighBannerAC.label>Imperial Banner</SadjuukHighBannerAC.label>
-  <SadjuukHighBannerAC.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAC.description>
-  <SadjuukHighBannerAC_Blueprint.label>Imperial Banner (blueprint)</SadjuukHighBannerAC_Blueprint.label>
-  <SadjuukHighBannerAC_Blueprint_Install.label>Imperial Banner (blueprint)</SadjuukHighBannerAC_Blueprint_Install.label>
-  <SadjuukHighBannerAC_Frame.label>Imperial Banner (building)</SadjuukHighBannerAC_Frame.label>
-  <SadjuukHighBannerAC_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAC_Frame.description>
-
-
+  <!--<SadjuukHighBannerAC.label>Imperial Banner</SadjuukHighBannerAC.label>-->
+  <!--<SadjuukHighBannerAC.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAC.description>-->
+  <!--<SadjuukHighBannerAC_Blueprint.label>Imperial Banner (blueprint)</SadjuukHighBannerAC_Blueprint.label>-->
+  <!--<SadjuukHighBannerAC_Blueprint_Install.label>Imperial Banner (blueprint)</SadjuukHighBannerAC_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAC_Frame.label>Imperial Banner (building)</SadjuukHighBannerAC_Frame.label>-->
+  <!--<SadjuukHighBannerAC_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAC_Frame.description>-->
   <!-- Banner AD -->
-
-  <SadjuukHighBannerAD.label>Diktat Banner</SadjuukHighBannerAD.label>
-  <SadjuukHighBannerAD.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAD.description>
-  <SadjuukHighBannerAD_Blueprint.label>Diktat Banner (blueprint)</SadjuukHighBannerAD_Blueprint.label>
-  <SadjuukHighBannerAD_Blueprint_Install.label>Diktat Banner (blueprint)</SadjuukHighBannerAD_Blueprint_Install.label>
-  <SadjuukHighBannerAD_Frame.label>Diktat Banner (building)</SadjuukHighBannerAD_Frame.label>
-  <SadjuukHighBannerAD_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAD_Frame.description>
-
-
+  <!--<SadjuukHighBannerAD.label>Diktat Banner</SadjuukHighBannerAD.label>-->
+  <!--<SadjuukHighBannerAD.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAD.description>-->
+  <!--<SadjuukHighBannerAD_Blueprint.label>Diktat Banner (blueprint)</SadjuukHighBannerAD_Blueprint.label>-->
+  <!--<SadjuukHighBannerAD_Blueprint_Install.label>Diktat Banner (blueprint)</SadjuukHighBannerAD_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAD_Frame.label>Diktat Banner (building)</SadjuukHighBannerAD_Frame.label>-->
+  <!--<SadjuukHighBannerAD_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAD_Frame.description>-->
   <!-- Banner AE -->
-
-  <SadjuukHighBannerAE.label>Bolshvev Banner</SadjuukHighBannerAE.label>
-  <SadjuukHighBannerAE.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAE.description>
-  <SadjuukHighBannerAE_Blueprint.label>Bolshvev Banner (blueprint)</SadjuukHighBannerAE_Blueprint.label>
-  <SadjuukHighBannerAE_Blueprint_Install.label>Bolshvev Banner (blueprint)</SadjuukHighBannerAE_Blueprint_Install.label>
-  <SadjuukHighBannerAE_Frame.label>Bolshvev Banner (building)</SadjuukHighBannerAE_Frame.label>
-  <SadjuukHighBannerAE_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAE_Frame.description>
-
-
+  <!--<SadjuukHighBannerAE.label>Bolshvev Banner</SadjuukHighBannerAE.label>-->
+  <!--<SadjuukHighBannerAE.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAE.description>-->
+  <!--<SadjuukHighBannerAE_Blueprint.label>Bolshvev Banner (blueprint)</SadjuukHighBannerAE_Blueprint.label>-->
+  <!--<SadjuukHighBannerAE_Blueprint_Install.label>Bolshvev Banner (blueprint)</SadjuukHighBannerAE_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAE_Frame.label>Bolshvev Banner (building)</SadjuukHighBannerAE_Frame.label>-->
+  <!--<SadjuukHighBannerAE_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAE_Frame.description>-->
   <!-- Banner AF -->
-
-  <SadjuukHighBannerAF.label>NOD Banner</SadjuukHighBannerAF.label>
-  <SadjuukHighBannerAF.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAF.description>
-  <SadjuukHighBannerAF_Blueprint.label>NOD Banner (blueprint)</SadjuukHighBannerAF_Blueprint.label>
-  <SadjuukHighBannerAF_Blueprint_Install.label>NOD Banner (blueprint)</SadjuukHighBannerAF_Blueprint_Install.label>
-  <SadjuukHighBannerAF_Frame.label>NOD Banner (building)</SadjuukHighBannerAF_Frame.label>
-  <SadjuukHighBannerAF_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAF_Frame.description>
-
-
+  <!--<SadjuukHighBannerAF.label>NOD Banner</SadjuukHighBannerAF.label>-->
+  <!--<SadjuukHighBannerAF.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAF.description>-->
+  <!--<SadjuukHighBannerAF_Blueprint.label>NOD Banner (blueprint)</SadjuukHighBannerAF_Blueprint.label>-->
+  <!--<SadjuukHighBannerAF_Blueprint_Install.label>NOD Banner (blueprint)</SadjuukHighBannerAF_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAF_Frame.label>NOD Banner (building)</SadjuukHighBannerAF_Frame.label>-->
+  <!--<SadjuukHighBannerAF_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAF_Frame.description>-->
   <!-- Banner AO -->
-
-  <SadjuukHighBannerAO.label>GDI Banner</SadjuukHighBannerAO.label>
-  <SadjuukHighBannerAO.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAO.description>
-  <SadjuukHighBannerAO_Blueprint.label>GDI Banner (blueprint)</SadjuukHighBannerAO_Blueprint.label>
-  <SadjuukHighBannerAO_Blueprint_Install.label>GDI Banner (blueprint)</SadjuukHighBannerAO_Blueprint_Install.label>
-  <SadjuukHighBannerAO_Frame.label>GDI Banner (building)</SadjuukHighBannerAO_Frame.label>
-  <SadjuukHighBannerAO_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAO_Frame.description>
-
-
+  <!--<SadjuukHighBannerAO.label>GDI Banner</SadjuukHighBannerAO.label>-->
+  <!--<SadjuukHighBannerAO.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAO.description>-->
+  <!--<SadjuukHighBannerAO_Blueprint.label>GDI Banner (blueprint)</SadjuukHighBannerAO_Blueprint.label>-->
+  <!--<SadjuukHighBannerAO_Blueprint_Install.label>GDI Banner (blueprint)</SadjuukHighBannerAO_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAO_Frame.label>GDI Banner (building)</SadjuukHighBannerAO_Frame.label>-->
+  <!--<SadjuukHighBannerAO_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAO_Frame.description>-->
   <!-- Banner AM -->
-
-  <SadjuukHighBannerAM.label>Templar Banner</SadjuukHighBannerAM.label>
-  <SadjuukHighBannerAM.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAM.description>
-  <SadjuukHighBannerAM_Blueprint.label>Templar Banner (blueprint)</SadjuukHighBannerAM_Blueprint.label>
-  <SadjuukHighBannerAM_Blueprint_Install.label>Templar Banner (blueprint)</SadjuukHighBannerAM_Blueprint_Install.label>
-  <SadjuukHighBannerAM_Frame.label>Templar Banner (building)</SadjuukHighBannerAM_Frame.label>
-  <SadjuukHighBannerAM_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAM_Frame.description>
-
-
+  <!--<SadjuukHighBannerAM.label>Templar Banner</SadjuukHighBannerAM.label>-->
+  <!--<SadjuukHighBannerAM.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAM.description>-->
+  <!--<SadjuukHighBannerAM_Blueprint.label>Templar Banner (blueprint)</SadjuukHighBannerAM_Blueprint.label>-->
+  <!--<SadjuukHighBannerAM_Blueprint_Install.label>Templar Banner (blueprint)</SadjuukHighBannerAM_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAM_Frame.label>Templar Banner (building)</SadjuukHighBannerAM_Frame.label>-->
+  <!--<SadjuukHighBannerAM_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAM_Frame.description>-->
   <!-- Banner AS -->
-
-  <SadjuukHighBannerAS.label>Cross Banner</SadjuukHighBannerAS.label>
-  <SadjuukHighBannerAS.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAS.description>
-  <SadjuukHighBannerAS_Blueprint.label>Cross Banner (blueprint)</SadjuukHighBannerAS_Blueprint.label>
-  <SadjuukHighBannerAS_Blueprint_Install.label>Cross Banner (blueprint)</SadjuukHighBannerAS_Blueprint_Install.label>
-  <SadjuukHighBannerAS_Frame.label>Cross Banner (building)</SadjuukHighBannerAS_Frame.label>
-  <SadjuukHighBannerAS_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAS_Frame.description>
-
-
+  <!--<SadjuukHighBannerAS.label>Cross Banner</SadjuukHighBannerAS.label>-->
+  <!--<SadjuukHighBannerAS.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAS.description>-->
+  <!--<SadjuukHighBannerAS_Blueprint.label>Cross Banner (blueprint)</SadjuukHighBannerAS_Blueprint.label>-->
+  <!--<SadjuukHighBannerAS_Blueprint_Install.label>Cross Banner (blueprint)</SadjuukHighBannerAS_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAS_Frame.label>Cross Banner (building)</SadjuukHighBannerAS_Frame.label>-->
+  <!--<SadjuukHighBannerAS_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAS_Frame.description>-->
   <!-- Banner AN -->
-
-  <SadjuukHighBannerAN.label>Lech Banner</SadjuukHighBannerAN.label>
-  <SadjuukHighBannerAN.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAN.description>
-  <SadjuukHighBannerAN_Blueprint.label>Lech Banner (blueprint)</SadjuukHighBannerAN_Blueprint.label>
-  <SadjuukHighBannerAN_Blueprint_Install.label>Lech Banner (blueprint)</SadjuukHighBannerAN_Blueprint_Install.label>
-  <SadjuukHighBannerAN_Frame.label>Lech Banner (building)</SadjuukHighBannerAN_Frame.label>
-  <SadjuukHighBannerAN_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAN_Frame.description>
-
-
+  <!--<SadjuukHighBannerAN.label>Lech Banner</SadjuukHighBannerAN.label>-->
+  <!--<SadjuukHighBannerAN.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAN.description>-->
+  <!--<SadjuukHighBannerAN_Blueprint.label>Lech Banner (blueprint)</SadjuukHighBannerAN_Blueprint.label>-->
+  <!--<SadjuukHighBannerAN_Blueprint_Install.label>Lech Banner (blueprint)</SadjuukHighBannerAN_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAN_Frame.label>Lech Banner (building)</SadjuukHighBannerAN_Frame.label>-->
+  <!--<SadjuukHighBannerAN_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAN_Frame.description>-->
   <!-- Banner AP -->
-
-  <SadjuukHighBannerAP.label>RUS Banner</SadjuukHighBannerAP.label>
-  <SadjuukHighBannerAP.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAP.description>
-  <SadjuukHighBannerAP_Blueprint.label>RUS Banner (blueprint)</SadjuukHighBannerAP_Blueprint.label>
-  <SadjuukHighBannerAP_Blueprint_Install.label>RUS Banner (blueprint)</SadjuukHighBannerAP_Blueprint_Install.label>
-  <SadjuukHighBannerAP_Frame.label>RUS Banner (building)</SadjuukHighBannerAP_Frame.label>
-  <SadjuukHighBannerAP_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAP_Frame.description>
-
-
+  <!--<SadjuukHighBannerAP.label>RUS Banner</SadjuukHighBannerAP.label>-->
+  <!--<SadjuukHighBannerAP.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAP.description>-->
+  <!--<SadjuukHighBannerAP_Blueprint.label>RUS Banner (blueprint)</SadjuukHighBannerAP_Blueprint.label>-->
+  <!--<SadjuukHighBannerAP_Blueprint_Install.label>RUS Banner (blueprint)</SadjuukHighBannerAP_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAP_Frame.label>RUS Banner (building)</SadjuukHighBannerAP_Frame.label>-->
+  <!--<SadjuukHighBannerAP_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAP_Frame.description>-->
   <!-- Banner AQ -->
-
-  <SadjuukHighBannerAQ.label>States Banner</SadjuukHighBannerAQ.label>
-  <SadjuukHighBannerAQ.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAQ.description>
-  <SadjuukHighBannerAQ_Blueprint.label>States Banner (blueprint)</SadjuukHighBannerAQ_Blueprint.label>
-  <SadjuukHighBannerAQ_Blueprint_Install.label>States Banner (blueprint)</SadjuukHighBannerAQ_Blueprint_Install.label>
-  <SadjuukHighBannerAQ_Frame.label>States Banner (building)</SadjuukHighBannerAQ_Frame.label>
-  <SadjuukHighBannerAQ_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAQ_Frame.description>
-
-
+  <!--<SadjuukHighBannerAQ.label>States Banner</SadjuukHighBannerAQ.label>-->
+  <!--<SadjuukHighBannerAQ.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAQ.description>-->
+  <!--<SadjuukHighBannerAQ_Blueprint.label>States Banner (blueprint)</SadjuukHighBannerAQ_Blueprint.label>-->
+  <!--<SadjuukHighBannerAQ_Blueprint_Install.label>States Banner (blueprint)</SadjuukHighBannerAQ_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAQ_Frame.label>States Banner (building)</SadjuukHighBannerAQ_Frame.label>-->
+  <!--<SadjuukHighBannerAQ_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAQ_Frame.description>-->
   <!-- Banner AG -->
-
-  <SadjuukHighBannerAG.label>Red Banner</SadjuukHighBannerAG.label>
-  <SadjuukHighBannerAG.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAG.description>
-  <SadjuukHighBannerAG_Blueprint.label>Red Banner (blueprint)</SadjuukHighBannerAG_Blueprint.label>
-  <SadjuukHighBannerAG_Blueprint_Install.label>Red Banner (blueprint)</SadjuukHighBannerAG_Blueprint_Install.label>
-  <SadjuukHighBannerAG_Frame.label>Red Banner (building)</SadjuukHighBannerAG_Frame.label>
-  <SadjuukHighBannerAG_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAG_Frame.description>
-
-
+  <!--<SadjuukHighBannerAG.label>Red Banner</SadjuukHighBannerAG.label>-->
+  <!--<SadjuukHighBannerAG.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAG.description>-->
+  <!--<SadjuukHighBannerAG_Blueprint.label>Red Banner (blueprint)</SadjuukHighBannerAG_Blueprint.label>-->
+  <!--<SadjuukHighBannerAG_Blueprint_Install.label>Red Banner (blueprint)</SadjuukHighBannerAG_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAG_Frame.label>Red Banner (building)</SadjuukHighBannerAG_Frame.label>-->
+  <!--<SadjuukHighBannerAG_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAG_Frame.description>-->
   <!-- Banner AH -->
-
-  <SadjuukHighBannerAH.label>Royal Blue Banner</SadjuukHighBannerAH.label>
-  <SadjuukHighBannerAH.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAH.description>
-  <SadjuukHighBannerAH_Blueprint.label>Royal Blue Banner (blueprint)</SadjuukHighBannerAH_Blueprint.label>
-  <SadjuukHighBannerAH_Blueprint_Install.label>Royal Blue Banner (blueprint)</SadjuukHighBannerAH_Blueprint_Install.label>
-  <SadjuukHighBannerAH_Frame.label>Royal Blue Banner (building)</SadjuukHighBannerAH_Frame.label>
-  <SadjuukHighBannerAH_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAH_Frame.description>
-
-
+  <!--<SadjuukHighBannerAH.label>Royal Blue Banner</SadjuukHighBannerAH.label>-->
+  <!--<SadjuukHighBannerAH.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAH.description>-->
+  <!--<SadjuukHighBannerAH_Blueprint.label>Royal Blue Banner (blueprint)</SadjuukHighBannerAH_Blueprint.label>-->
+  <!--<SadjuukHighBannerAH_Blueprint_Install.label>Royal Blue Banner (blueprint)</SadjuukHighBannerAH_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAH_Frame.label>Royal Blue Banner (building)</SadjuukHighBannerAH_Frame.label>-->
+  <!--<SadjuukHighBannerAH_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAH_Frame.description>-->
   <!-- Banner AI -->
-
-  <SadjuukHighBannerAI.label>Sky Blue Banner</SadjuukHighBannerAI.label>
-  <SadjuukHighBannerAI.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAI.description>
-  <SadjuukHighBannerAI_Blueprint.label>Sky Blue Banner (blueprint)</SadjuukHighBannerAI_Blueprint.label>
-  <SadjuukHighBannerAI_Blueprint_Install.label>Sky Blue Banner (blueprint)</SadjuukHighBannerAI_Blueprint_Install.label>
-  <SadjuukHighBannerAI_Frame.label>Sky Blue Banner (building)</SadjuukHighBannerAI_Frame.label>
-  <SadjuukHighBannerAI_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAI_Frame.description>
-
-
+  <!--<SadjuukHighBannerAI.label>Sky Blue Banner</SadjuukHighBannerAI.label>-->
+  <!--<SadjuukHighBannerAI.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAI.description>-->
+  <!--<SadjuukHighBannerAI_Blueprint.label>Sky Blue Banner (blueprint)</SadjuukHighBannerAI_Blueprint.label>-->
+  <!--<SadjuukHighBannerAI_Blueprint_Install.label>Sky Blue Banner (blueprint)</SadjuukHighBannerAI_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAI_Frame.label>Sky Blue Banner (building)</SadjuukHighBannerAI_Frame.label>-->
+  <!--<SadjuukHighBannerAI_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAI_Frame.description>-->
   <!-- Banner AJ -->
-
-  <SadjuukHighBannerAJ.label>Yellow Banner</SadjuukHighBannerAJ.label>
-  <SadjuukHighBannerAJ.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAJ.description>
-  <SadjuukHighBannerAJ_Blueprint.label>Yellow Banner (blueprint)</SadjuukHighBannerAJ_Blueprint.label>
-  <SadjuukHighBannerAJ_Blueprint_Install.label>Yellow Banner (blueprint)</SadjuukHighBannerAJ_Blueprint_Install.label>
-  <SadjuukHighBannerAJ_Frame.label>Yellow Banner (building)</SadjuukHighBannerAJ_Frame.label>
-  <SadjuukHighBannerAJ_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAJ_Frame.description>
-
-
+  <!--<SadjuukHighBannerAJ.label>Yellow Banner</SadjuukHighBannerAJ.label>-->
+  <!--<SadjuukHighBannerAJ.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAJ.description>-->
+  <!--<SadjuukHighBannerAJ_Blueprint.label>Yellow Banner (blueprint)</SadjuukHighBannerAJ_Blueprint.label>-->
+  <!--<SadjuukHighBannerAJ_Blueprint_Install.label>Yellow Banner (blueprint)</SadjuukHighBannerAJ_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAJ_Frame.label>Yellow Banner (building)</SadjuukHighBannerAJ_Frame.label>-->
+  <!--<SadjuukHighBannerAJ_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAJ_Frame.description>-->
   <!-- Banner AK -->
-
-  <SadjuukHighBannerAK.label>Black Banner</SadjuukHighBannerAK.label>
-  <SadjuukHighBannerAK.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAK.description>
-  <SadjuukHighBannerAK_Blueprint.label>Black Banner (blueprint)</SadjuukHighBannerAK_Blueprint.label>
-  <SadjuukHighBannerAK_Blueprint_Install.label>Black Banner (blueprint)</SadjuukHighBannerAK_Blueprint_Install.label>
-  <SadjuukHighBannerAK_Frame.label>Black Banner (building)</SadjuukHighBannerAK_Frame.label>
-  <SadjuukHighBannerAK_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAK_Frame.description>
-
-
+  <!--<SadjuukHighBannerAK.label>Black Banner</SadjuukHighBannerAK.label>-->
+  <!--<SadjuukHighBannerAK.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAK.description>-->
+  <!--<SadjuukHighBannerAK_Blueprint.label>Black Banner (blueprint)</SadjuukHighBannerAK_Blueprint.label>-->
+  <!--<SadjuukHighBannerAK_Blueprint_Install.label>Black Banner (blueprint)</SadjuukHighBannerAK_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAK_Frame.label>Black Banner (building)</SadjuukHighBannerAK_Frame.label>-->
+  <!--<SadjuukHighBannerAK_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAK_Frame.description>-->
   <!-- Banner AL -->
-
-  <SadjuukHighBannerAL.label>White Banner</SadjuukHighBannerAL.label>
-  <SadjuukHighBannerAL.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAL.description>
-  <SadjuukHighBannerAL_Blueprint.label>White Banner (blueprint)</SadjuukHighBannerAL_Blueprint.label>
-  <SadjuukHighBannerAL_Blueprint_Install.label>White Banner (blueprint)</SadjuukHighBannerAL_Blueprint_Install.label>
-  <SadjuukHighBannerAL_Frame.label>White Banner (building)</SadjuukHighBannerAL_Frame.label>
-  <SadjuukHighBannerAL_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAL_Frame.description>
-
-
+  <!--<SadjuukHighBannerAL.label>White Banner</SadjuukHighBannerAL.label>-->
+  <!--<SadjuukHighBannerAL.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAL.description>-->
+  <!--<SadjuukHighBannerAL_Blueprint.label>White Banner (blueprint)</SadjuukHighBannerAL_Blueprint.label>-->
+  <!--<SadjuukHighBannerAL_Blueprint_Install.label>White Banner (blueprint)</SadjuukHighBannerAL_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerAL_Frame.label>White Banner (building)</SadjuukHighBannerAL_Frame.label>-->
+  <!--<SadjuukHighBannerAL_Frame.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAL_Frame.description>-->
   <!-- Banner BA -->
-
-  <SadjuukHighBannerBA.label>UNSC Flag</SadjuukHighBannerBA.label>
-  <SadjuukHighBannerBA.description>A High Flag, marking your territory.</SadjuukHighBannerBA.description>
-  <SadjuukHighBannerBA_Blueprint.label>UNSC Flag (blueprint)</SadjuukHighBannerBA_Blueprint.label>
-  <SadjuukHighBannerBA_Blueprint_Install.label>UNSC Flag (blueprint)</SadjuukHighBannerBA_Blueprint_Install.label>
-  <SadjuukHighBannerBA_Frame.label>UNSC Flag (building)</SadjuukHighBannerBA_Frame.label>
-  <SadjuukHighBannerBA_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBA_Frame.description>
-
-
+  <!--<SadjuukHighBannerBA.label>UNSC Flag</SadjuukHighBannerBA.label>-->
+  <!--<SadjuukHighBannerBA.description>A High Flag, marking your territory.</SadjuukHighBannerBA.description>-->
+  <!--<SadjuukHighBannerBA_Blueprint.label>UNSC Flag (blueprint)</SadjuukHighBannerBA_Blueprint.label>-->
+  <!--<SadjuukHighBannerBA_Blueprint_Install.label>UNSC Flag (blueprint)</SadjuukHighBannerBA_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBA_Frame.label>UNSC Flag (building)</SadjuukHighBannerBA_Frame.label>-->
+  <!--<SadjuukHighBannerBA_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBA_Frame.description>-->
   <!-- Banner BB -->
-
-  <SadjuukHighBannerBB.label>Gallia Flag</SadjuukHighBannerBB.label>
-  <SadjuukHighBannerBB.description>A High Flag, marking your territory.</SadjuukHighBannerBB.description>
-  <SadjuukHighBannerBB_Blueprint.label>Gallia Flag (blueprint)</SadjuukHighBannerBB_Blueprint.label>
-  <SadjuukHighBannerBB_Blueprint_Install.label>Gallia Flag (blueprint)</SadjuukHighBannerBB_Blueprint_Install.label>
-  <SadjuukHighBannerBB_Frame.label>Gallia Flag (building)</SadjuukHighBannerBB_Frame.label>
-  <SadjuukHighBannerBB_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBB_Frame.description>
-
-
+  <!--<SadjuukHighBannerBB.label>Gallia Flag</SadjuukHighBannerBB.label>-->
+  <!--<SadjuukHighBannerBB.description>A High Flag, marking your territory.</SadjuukHighBannerBB.description>-->
+  <!--<SadjuukHighBannerBB_Blueprint.label>Gallia Flag (blueprint)</SadjuukHighBannerBB_Blueprint.label>-->
+  <!--<SadjuukHighBannerBB_Blueprint_Install.label>Gallia Flag (blueprint)</SadjuukHighBannerBB_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBB_Frame.label>Gallia Flag (building)</SadjuukHighBannerBB_Frame.label>-->
+  <!--<SadjuukHighBannerBB_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBB_Frame.description>-->
   <!-- Banner BR -->
-
-  <SadjuukHighBannerBR.label>Lys Flag</SadjuukHighBannerBR.label>
-  <SadjuukHighBannerBR.description>A High Flag, marking your territory.</SadjuukHighBannerBR.description>
-  <SadjuukHighBannerBR_Blueprint.label>Lys Flag (blueprint)</SadjuukHighBannerBR_Blueprint.label>
-  <SadjuukHighBannerBR_Blueprint_Install.label>Lys Flag (blueprint)</SadjuukHighBannerBR_Blueprint_Install.label>
-  <SadjuukHighBannerBR_Frame.label>Lys Flag (building)</SadjuukHighBannerBR_Frame.label>
-  <SadjuukHighBannerBR_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBR_Frame.description>
-
-
+  <!--<SadjuukHighBannerBR.label>Lys Flag</SadjuukHighBannerBR.label>-->
+  <!--<SadjuukHighBannerBR.description>A High Flag, marking your territory.</SadjuukHighBannerBR.description>-->
+  <!--<SadjuukHighBannerBR_Blueprint.label>Lys Flag (blueprint)</SadjuukHighBannerBR_Blueprint.label>-->
+  <!--<SadjuukHighBannerBR_Blueprint_Install.label>Lys Flag (blueprint)</SadjuukHighBannerBR_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBR_Frame.label>Lys Flag (building)</SadjuukHighBannerBR_Frame.label>-->
+  <!--<SadjuukHighBannerBR_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBR_Frame.description>-->
   <!-- Banner BC -->
-
-  <SadjuukHighBannerBC.label>Imperial Flag</SadjuukHighBannerBC.label>
-  <SadjuukHighBannerBC.description>A High Flag, marking your territory.</SadjuukHighBannerBC.description>
-  <SadjuukHighBannerBC_Blueprint.label>Imperial Flag (blueprint)</SadjuukHighBannerBC_Blueprint.label>
-  <SadjuukHighBannerBC_Blueprint_Install.label>Imperial Flag (blueprint)</SadjuukHighBannerBC_Blueprint_Install.label>
-  <SadjuukHighBannerBC_Frame.label>Imperial Flag (building)</SadjuukHighBannerBC_Frame.label>
-  <SadjuukHighBannerBC_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBC_Frame.description>
-
-
+  <!--<SadjuukHighBannerBC.label>Imperial Flag</SadjuukHighBannerBC.label>-->
+  <!--<SadjuukHighBannerBC.description>A High Flag, marking your territory.</SadjuukHighBannerBC.description>-->
+  <!--<SadjuukHighBannerBC_Blueprint.label>Imperial Flag (blueprint)</SadjuukHighBannerBC_Blueprint.label>-->
+  <!--<SadjuukHighBannerBC_Blueprint_Install.label>Imperial Flag (blueprint)</SadjuukHighBannerBC_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBC_Frame.label>Imperial Flag (building)</SadjuukHighBannerBC_Frame.label>-->
+  <!--<SadjuukHighBannerBC_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBC_Frame.description>-->
   <!-- Banner BD -->
-
-  <SadjuukHighBannerBD.label>Diktat Flag</SadjuukHighBannerBD.label>
-  <SadjuukHighBannerBD.description>A High Flag, marking your territory.</SadjuukHighBannerBD.description>
-  <SadjuukHighBannerBD_Blueprint.label>Diktat Flag (blueprint)</SadjuukHighBannerBD_Blueprint.label>
-  <SadjuukHighBannerBD_Blueprint_Install.label>Diktat Flag (blueprint)</SadjuukHighBannerBD_Blueprint_Install.label>
-  <SadjuukHighBannerBD_Frame.label>Diktat Flag (building)</SadjuukHighBannerBD_Frame.label>
-  <SadjuukHighBannerBD_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBD_Frame.description>
-
-
+  <!--<SadjuukHighBannerBD.label>Diktat Flag</SadjuukHighBannerBD.label>-->
+  <!--<SadjuukHighBannerBD.description>A High Flag, marking your territory.</SadjuukHighBannerBD.description>-->
+  <!--<SadjuukHighBannerBD_Blueprint.label>Diktat Flag (blueprint)</SadjuukHighBannerBD_Blueprint.label>-->
+  <!--<SadjuukHighBannerBD_Blueprint_Install.label>Diktat Flag (blueprint)</SadjuukHighBannerBD_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBD_Frame.label>Diktat Flag (building)</SadjuukHighBannerBD_Frame.label>-->
+  <!--<SadjuukHighBannerBD_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBD_Frame.description>-->
   <!-- Banner BE -->
-
-  <SadjuukHighBannerBE.label>Bolshvev Flag</SadjuukHighBannerBE.label>
-  <SadjuukHighBannerBE.description>A High Flag, marking your territory.</SadjuukHighBannerBE.description>
-  <SadjuukHighBannerBE_Blueprint.label>Bolshvev Flag (blueprint)</SadjuukHighBannerBE_Blueprint.label>
-  <SadjuukHighBannerBE_Blueprint_Install.label>Bolshvev Flag (blueprint)</SadjuukHighBannerBE_Blueprint_Install.label>
-  <SadjuukHighBannerBE_Frame.label>Bolshvev Flag (building)</SadjuukHighBannerBE_Frame.label>
-  <SadjuukHighBannerBE_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBE_Frame.description>
-
-
+  <!--<SadjuukHighBannerBE.label>Bolshvev Flag</SadjuukHighBannerBE.label>-->
+  <!--<SadjuukHighBannerBE.description>A High Flag, marking your territory.</SadjuukHighBannerBE.description>-->
+  <!--<SadjuukHighBannerBE_Blueprint.label>Bolshvev Flag (blueprint)</SadjuukHighBannerBE_Blueprint.label>-->
+  <!--<SadjuukHighBannerBE_Blueprint_Install.label>Bolshvev Flag (blueprint)</SadjuukHighBannerBE_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBE_Frame.label>Bolshvev Flag (building)</SadjuukHighBannerBE_Frame.label>-->
+  <!--<SadjuukHighBannerBE_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBE_Frame.description>-->
   <!-- Banner BF -->
-
-  <SadjuukHighBannerBF.label>NOD Flag</SadjuukHighBannerBF.label>
-  <SadjuukHighBannerBF.description>A High Flag, marking your territory.</SadjuukHighBannerBF.description>
-  <SadjuukHighBannerBF_Blueprint.label>NOD Flag (blueprint)</SadjuukHighBannerBF_Blueprint.label>
-  <SadjuukHighBannerBF_Blueprint_Install.label>NOD Flag (blueprint)</SadjuukHighBannerBF_Blueprint_Install.label>
-  <SadjuukHighBannerBF_Frame.label>NOD Flag (building)</SadjuukHighBannerBF_Frame.label>
-  <SadjuukHighBannerBF_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBF_Frame.description>
-
-
+  <!--<SadjuukHighBannerBF.label>NOD Flag</SadjuukHighBannerBF.label>-->
+  <!--<SadjuukHighBannerBF.description>A High Flag, marking your territory.</SadjuukHighBannerBF.description>-->
+  <!--<SadjuukHighBannerBF_Blueprint.label>NOD Flag (blueprint)</SadjuukHighBannerBF_Blueprint.label>-->
+  <!--<SadjuukHighBannerBF_Blueprint_Install.label>NOD Flag (blueprint)</SadjuukHighBannerBF_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBF_Frame.label>NOD Flag (building)</SadjuukHighBannerBF_Frame.label>-->
+  <!--<SadjuukHighBannerBF_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBF_Frame.description>-->
   <!-- Banner BO -->
-
-  <SadjuukHighBannerBO.label>GDI Flag</SadjuukHighBannerBO.label>
-  <SadjuukHighBannerBO.description>A High Flag, marking your territory.</SadjuukHighBannerBO.description>
-  <SadjuukHighBannerBO_Blueprint.label>GDI Flag (blueprint)</SadjuukHighBannerBO_Blueprint.label>
-  <SadjuukHighBannerBO_Blueprint_Install.label>GDI Flag (blueprint)</SadjuukHighBannerBO_Blueprint_Install.label>
-  <SadjuukHighBannerBO_Frame.label>GDI Flag (building)</SadjuukHighBannerBO_Frame.label>
-  <SadjuukHighBannerBO_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBO_Frame.description>
-
-
+  <!--<SadjuukHighBannerBO.label>GDI Flag</SadjuukHighBannerBO.label>-->
+  <!--<SadjuukHighBannerBO.description>A High Flag, marking your territory.</SadjuukHighBannerBO.description>-->
+  <!--<SadjuukHighBannerBO_Blueprint.label>GDI Flag (blueprint)</SadjuukHighBannerBO_Blueprint.label>-->
+  <!--<SadjuukHighBannerBO_Blueprint_Install.label>GDI Flag (blueprint)</SadjuukHighBannerBO_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBO_Frame.label>GDI Flag (building)</SadjuukHighBannerBO_Frame.label>-->
+  <!--<SadjuukHighBannerBO_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBO_Frame.description>-->
   <!-- Banner BM -->
-
-  <SadjuukHighBannerBM.label>Templar Flag</SadjuukHighBannerBM.label>
-  <SadjuukHighBannerBM.description>A High Flag, marking your territory.</SadjuukHighBannerBM.description>
-  <SadjuukHighBannerBM_Blueprint.label>Templar Flag (blueprint)</SadjuukHighBannerBM_Blueprint.label>
-  <SadjuukHighBannerBM_Blueprint_Install.label>Templar Flag (blueprint)</SadjuukHighBannerBM_Blueprint_Install.label>
-  <SadjuukHighBannerBM_Frame.label>Templar Flag (building)</SadjuukHighBannerBM_Frame.label>
-  <SadjuukHighBannerBM_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBM_Frame.description>
-
-
+  <!--<SadjuukHighBannerBM.label>Templar Flag</SadjuukHighBannerBM.label>-->
+  <!--<SadjuukHighBannerBM.description>A High Flag, marking your territory.</SadjuukHighBannerBM.description>-->
+  <!--<SadjuukHighBannerBM_Blueprint.label>Templar Flag (blueprint)</SadjuukHighBannerBM_Blueprint.label>-->
+  <!--<SadjuukHighBannerBM_Blueprint_Install.label>Templar Flag (blueprint)</SadjuukHighBannerBM_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBM_Frame.label>Templar Flag (building)</SadjuukHighBannerBM_Frame.label>-->
+  <!--<SadjuukHighBannerBM_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBM_Frame.description>-->
   <!-- Banner BS -->
-
-  <SadjuukHighBannerBS.label>Cross Flag</SadjuukHighBannerBS.label>
-  <SadjuukHighBannerBS.description>A High Flag, marking your territory.</SadjuukHighBannerBS.description>
-  <SadjuukHighBannerBS_Blueprint.label>Cross Flag (blueprint)</SadjuukHighBannerBS_Blueprint.label>
-  <SadjuukHighBannerBS_Blueprint_Install.label>Cross Flag (blueprint)</SadjuukHighBannerBS_Blueprint_Install.label>
-  <SadjuukHighBannerBS_Frame.label>Cross Flag (building)</SadjuukHighBannerBS_Frame.label>
-  <SadjuukHighBannerBS_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBS_Frame.description>
-
-
+  <!--<SadjuukHighBannerBS.label>Cross Flag</SadjuukHighBannerBS.label>-->
+  <!--<SadjuukHighBannerBS.description>A High Flag, marking your territory.</SadjuukHighBannerBS.description>-->
+  <!--<SadjuukHighBannerBS_Blueprint.label>Cross Flag (blueprint)</SadjuukHighBannerBS_Blueprint.label>-->
+  <!--<SadjuukHighBannerBS_Blueprint_Install.label>Cross Flag (blueprint)</SadjuukHighBannerBS_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBS_Frame.label>Cross Flag (building)</SadjuukHighBannerBS_Frame.label>-->
+  <!--<SadjuukHighBannerBS_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBS_Frame.description>-->
   <!-- Banner BN -->
-
-  <SadjuukHighBannerBN.label>Lech Flag</SadjuukHighBannerBN.label>
-  <SadjuukHighBannerBN.description>A High Flag, marking your territory.</SadjuukHighBannerBN.description>
-  <SadjuukHighBannerBN_Blueprint.label>Lech Flag (blueprint)</SadjuukHighBannerBN_Blueprint.label>
-  <SadjuukHighBannerBN_Blueprint_Install.label>Lech Flag (blueprint)</SadjuukHighBannerBN_Blueprint_Install.label>
-  <SadjuukHighBannerBN_Frame.label>Lech Flag (building)</SadjuukHighBannerBN_Frame.label>
-  <SadjuukHighBannerBN_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBN_Frame.description>
-
-
+  <!--<SadjuukHighBannerBN.label>Lech Flag</SadjuukHighBannerBN.label>-->
+  <!--<SadjuukHighBannerBN.description>A High Flag, marking your territory.</SadjuukHighBannerBN.description>-->
+  <!--<SadjuukHighBannerBN_Blueprint.label>Lech Flag (blueprint)</SadjuukHighBannerBN_Blueprint.label>-->
+  <!--<SadjuukHighBannerBN_Blueprint_Install.label>Lech Flag (blueprint)</SadjuukHighBannerBN_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBN_Frame.label>Lech Flag (building)</SadjuukHighBannerBN_Frame.label>-->
+  <!--<SadjuukHighBannerBN_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBN_Frame.description>-->
   <!-- Banner BP -->
-
-  <SadjuukHighBannerBP.label>RUS Flag</SadjuukHighBannerBP.label>
-  <SadjuukHighBannerBP.description>A High Flag, marking your territory.</SadjuukHighBannerBP.description>
-  <SadjuukHighBannerBP_Blueprint.label>RUS Flag (blueprint)</SadjuukHighBannerBP_Blueprint.label>
-  <SadjuukHighBannerBP_Blueprint_Install.label>RUS Flag (blueprint)</SadjuukHighBannerBP_Blueprint_Install.label>
-  <SadjuukHighBannerBP_Frame.label>RUS Flag (building)</SadjuukHighBannerBP_Frame.label>
-  <SadjuukHighBannerBP_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBP_Frame.description>
-
-
+  <!--<SadjuukHighBannerBP.label>RUS Flag</SadjuukHighBannerBP.label>-->
+  <!--<SadjuukHighBannerBP.description>A High Flag, marking your territory.</SadjuukHighBannerBP.description>-->
+  <!--<SadjuukHighBannerBP_Blueprint.label>RUS Flag (blueprint)</SadjuukHighBannerBP_Blueprint.label>-->
+  <!--<SadjuukHighBannerBP_Blueprint_Install.label>RUS Flag (blueprint)</SadjuukHighBannerBP_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBP_Frame.label>RUS Flag (building)</SadjuukHighBannerBP_Frame.label>-->
+  <!--<SadjuukHighBannerBP_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBP_Frame.description>-->
   <!-- Banner BQ -->
-
-  <SadjuukHighBannerBQ.label>States Flag</SadjuukHighBannerBQ.label>
-  <SadjuukHighBannerBQ.description>A High Flag, marking your territory.</SadjuukHighBannerBQ.description>
-  <SadjuukHighBannerBQ_Blueprint.label>States Flag (blueprint)</SadjuukHighBannerBQ_Blueprint.label>
-  <SadjuukHighBannerBQ_Blueprint_Install.label>States Flag (blueprint)</SadjuukHighBannerBQ_Blueprint_Install.label>
-  <SadjuukHighBannerBQ_Frame.label>States Flag (building)</SadjuukHighBannerBQ_Frame.label>
-  <SadjuukHighBannerBQ_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBQ_Frame.description>
-
-
+  <!--<SadjuukHighBannerBQ.label>States Flag</SadjuukHighBannerBQ.label>-->
+  <!--<SadjuukHighBannerBQ.description>A High Flag, marking your territory.</SadjuukHighBannerBQ.description>-->
+  <!--<SadjuukHighBannerBQ_Blueprint.label>States Flag (blueprint)</SadjuukHighBannerBQ_Blueprint.label>-->
+  <!--<SadjuukHighBannerBQ_Blueprint_Install.label>States Flag (blueprint)</SadjuukHighBannerBQ_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBQ_Frame.label>States Flag (building)</SadjuukHighBannerBQ_Frame.label>-->
+  <!--<SadjuukHighBannerBQ_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBQ_Frame.description>-->
   <!-- Banner BG -->
-
-  <SadjuukHighBannerBG.label>Red Flag</SadjuukHighBannerBG.label>
-  <SadjuukHighBannerBG.description>A High Flag, marking your territory.</SadjuukHighBannerBG.description>
-  <SadjuukHighBannerBG_Blueprint.label>Red Flag (blueprint)</SadjuukHighBannerBG_Blueprint.label>
-  <SadjuukHighBannerBG_Blueprint_Install.label>Red Flag (blueprint)</SadjuukHighBannerBG_Blueprint_Install.label>
-  <SadjuukHighBannerBG_Frame.label>Red Flag (building)</SadjuukHighBannerBG_Frame.label>
-  <SadjuukHighBannerBG_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBG_Frame.description>
-
-
+  <!--<SadjuukHighBannerBG.label>Red Flag</SadjuukHighBannerBG.label>-->
+  <!--<SadjuukHighBannerBG.description>A High Flag, marking your territory.</SadjuukHighBannerBG.description>-->
+  <!--<SadjuukHighBannerBG_Blueprint.label>Red Flag (blueprint)</SadjuukHighBannerBG_Blueprint.label>-->
+  <!--<SadjuukHighBannerBG_Blueprint_Install.label>Red Flag (blueprint)</SadjuukHighBannerBG_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBG_Frame.label>Red Flag (building)</SadjuukHighBannerBG_Frame.label>-->
+  <!--<SadjuukHighBannerBG_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBG_Frame.description>-->
   <!-- Banner BH -->
-
-  <SadjuukHighBannerBH.label>Royal Blue Flag</SadjuukHighBannerBH.label>
-  <SadjuukHighBannerBH.description>A High Flag, marking your territory.</SadjuukHighBannerBH.description>
-  <SadjuukHighBannerBH_Blueprint.label>Royal Blue Flag (blueprint)</SadjuukHighBannerBH_Blueprint.label>
-  <SadjuukHighBannerBH_Blueprint_Install.label>Royal Blue Flag (blueprint)</SadjuukHighBannerBH_Blueprint_Install.label>
-  <SadjuukHighBannerBH_Frame.label>Royal Blue Flag (building)</SadjuukHighBannerBH_Frame.label>
-  <SadjuukHighBannerBH_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBH_Frame.description>
-
-
+  <!--<SadjuukHighBannerBH.label>Royal Blue Flag</SadjuukHighBannerBH.label>-->
+  <!--<SadjuukHighBannerBH.description>A High Flag, marking your territory.</SadjuukHighBannerBH.description>-->
+  <!--<SadjuukHighBannerBH_Blueprint.label>Royal Blue Flag (blueprint)</SadjuukHighBannerBH_Blueprint.label>-->
+  <!--<SadjuukHighBannerBH_Blueprint_Install.label>Royal Blue Flag (blueprint)</SadjuukHighBannerBH_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBH_Frame.label>Royal Blue Flag (building)</SadjuukHighBannerBH_Frame.label>-->
+  <!--<SadjuukHighBannerBH_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBH_Frame.description>-->
   <!-- Banner BI -->
-
-  <SadjuukHighBannerBI.label>Sky Blue Flag</SadjuukHighBannerBI.label>
-  <SadjuukHighBannerBI.description>A High Flag, marking your territory.</SadjuukHighBannerBI.description>
-  <SadjuukHighBannerBI_Blueprint.label>Sky Blue Flag (blueprint)</SadjuukHighBannerBI_Blueprint.label>
-  <SadjuukHighBannerBI_Blueprint_Install.label>Sky Blue Flag (blueprint)</SadjuukHighBannerBI_Blueprint_Install.label>
-  <SadjuukHighBannerBI_Frame.label>Sky Blue Flag (building)</SadjuukHighBannerBI_Frame.label>
-  <SadjuukHighBannerBI_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBI_Frame.description>
-
-
+  <!--<SadjuukHighBannerBI.label>Sky Blue Flag</SadjuukHighBannerBI.label>-->
+  <!--<SadjuukHighBannerBI.description>A High Flag, marking your territory.</SadjuukHighBannerBI.description>-->
+  <!--<SadjuukHighBannerBI_Blueprint.label>Sky Blue Flag (blueprint)</SadjuukHighBannerBI_Blueprint.label>-->
+  <!--<SadjuukHighBannerBI_Blueprint_Install.label>Sky Blue Flag (blueprint)</SadjuukHighBannerBI_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBI_Frame.label>Sky Blue Flag (building)</SadjuukHighBannerBI_Frame.label>-->
+  <!--<SadjuukHighBannerBI_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBI_Frame.description>-->
   <!-- Banner BJ -->
-
-  <SadjuukHighBannerBJ.label>Yellow Flag</SadjuukHighBannerBJ.label>
-  <SadjuukHighBannerBJ.description>A High Flag, marking your territory.</SadjuukHighBannerBJ.description>
-  <SadjuukHighBannerBJ_Blueprint.label>Yellow Flag (blueprint)</SadjuukHighBannerBJ_Blueprint.label>
-  <SadjuukHighBannerBJ_Blueprint_Install.label>Yellow Flag (blueprint)</SadjuukHighBannerBJ_Blueprint_Install.label>
-  <SadjuukHighBannerBJ_Frame.label>Yellow Flag (building)</SadjuukHighBannerBJ_Frame.label>
-  <SadjuukHighBannerBJ_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBJ_Frame.description>
-
-
+  <!--<SadjuukHighBannerBJ.label>Yellow Flag</SadjuukHighBannerBJ.label>-->
+  <!--<SadjuukHighBannerBJ.description>A High Flag, marking your territory.</SadjuukHighBannerBJ.description>-->
+  <!--<SadjuukHighBannerBJ_Blueprint.label>Yellow Flag (blueprint)</SadjuukHighBannerBJ_Blueprint.label>-->
+  <!--<SadjuukHighBannerBJ_Blueprint_Install.label>Yellow Flag (blueprint)</SadjuukHighBannerBJ_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBJ_Frame.label>Yellow Flag (building)</SadjuukHighBannerBJ_Frame.label>-->
+  <!--<SadjuukHighBannerBJ_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBJ_Frame.description>-->
   <!-- Banner BK -->
-
-  <SadjuukHighBannerBK.label>Black Flag</SadjuukHighBannerBK.label>
-  <SadjuukHighBannerBK.description>A High Flag, marking your territory.</SadjuukHighBannerBK.description>
-  <SadjuukHighBannerBK_Blueprint.label>Black Flag (blueprint)</SadjuukHighBannerBK_Blueprint.label>
-  <SadjuukHighBannerBK_Blueprint_Install.label>Black Flag (blueprint)</SadjuukHighBannerBK_Blueprint_Install.label>
-  <SadjuukHighBannerBK_Frame.label>Black Flag (building)</SadjuukHighBannerBK_Frame.label>
-  <SadjuukHighBannerBK_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBK_Frame.description>
-
-
+  <!--<SadjuukHighBannerBK.label>Black Flag</SadjuukHighBannerBK.label>-->
+  <!--<SadjuukHighBannerBK.description>A High Flag, marking your territory.</SadjuukHighBannerBK.description>-->
+  <!--<SadjuukHighBannerBK_Blueprint.label>Black Flag (blueprint)</SadjuukHighBannerBK_Blueprint.label>-->
+  <!--<SadjuukHighBannerBK_Blueprint_Install.label>Black Flag (blueprint)</SadjuukHighBannerBK_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBK_Frame.label>Black Flag (building)</SadjuukHighBannerBK_Frame.label>-->
+  <!--<SadjuukHighBannerBK_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBK_Frame.description>-->
   <!-- Banner BL -->
-
-  <SadjuukHighBannerBL.label>White Flag</SadjuukHighBannerBL.label>
-  <SadjuukHighBannerBL.description>A High Flag, marking your territory.</SadjuukHighBannerBL.description>
-  <SadjuukHighBannerBL_Blueprint.label>White Flag (blueprint)</SadjuukHighBannerBL_Blueprint.label>
-  <SadjuukHighBannerBL_Blueprint_Install.label>White Flag (blueprint)</SadjuukHighBannerBL_Blueprint_Install.label>
-  <SadjuukHighBannerBL_Frame.label>White Flag (building)</SadjuukHighBannerBL_Frame.label>
-  <SadjuukHighBannerBL_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBL_Frame.description>
-
-
+  <!--<SadjuukHighBannerBL.label>White Flag</SadjuukHighBannerBL.label>-->
+  <!--<SadjuukHighBannerBL.description>A High Flag, marking your territory.</SadjuukHighBannerBL.description>-->
+  <!--<SadjuukHighBannerBL_Blueprint.label>White Flag (blueprint)</SadjuukHighBannerBL_Blueprint.label>-->
+  <!--<SadjuukHighBannerBL_Blueprint_Install.label>White Flag (blueprint)</SadjuukHighBannerBL_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerBL_Frame.label>White Flag (building)</SadjuukHighBannerBL_Frame.label>-->
+  <!--<SadjuukHighBannerBL_Frame.description>A High Flag, marking your territory.</SadjuukHighBannerBL_Frame.description>-->
   <!-- Banner CA -->
-
-  <SadjuukHighBannerCA.label>Fire Danger Sign</SadjuukHighBannerCA.label>
-  <SadjuukHighBannerCA.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCA.description>
-  <SadjuukHighBannerCA_Blueprint.label>Fire Danger Sign (blueprint)</SadjuukHighBannerCA_Blueprint.label>
-  <SadjuukHighBannerCA_Blueprint_Install.label>Fire Danger Sign (blueprint)</SadjuukHighBannerCA_Blueprint_Install.label>
-  <SadjuukHighBannerCA_Frame.label>Fire Danger Sign (building)</SadjuukHighBannerCA_Frame.label>
-  <SadjuukHighBannerCA_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCA_Frame.description>
-
-
+  <!--<SadjuukHighBannerCA.label>Fire Danger Sign</SadjuukHighBannerCA.label>-->
+  <!--<SadjuukHighBannerCA.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCA.description>-->
+  <!--<SadjuukHighBannerCA_Blueprint.label>Fire Danger Sign (blueprint)</SadjuukHighBannerCA_Blueprint.label>-->
+  <!--<SadjuukHighBannerCA_Blueprint_Install.label>Fire Danger Sign (blueprint)</SadjuukHighBannerCA_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerCA_Frame.label>Fire Danger Sign (building)</SadjuukHighBannerCA_Frame.label>-->
+  <!--<SadjuukHighBannerCA_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCA_Frame.description>-->
   <!-- Banner CB -->
-
-  <SadjuukHighBannerCB.label>Death Danger Sign</SadjuukHighBannerCB.label>
-  <SadjuukHighBannerCB.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCB.description>
-  <SadjuukHighBannerCB_Blueprint.label>Death Danger Sign (blueprint)</SadjuukHighBannerCB_Blueprint.label>
-  <SadjuukHighBannerCB_Blueprint_Install.label>Death Danger Sign (blueprint)</SadjuukHighBannerCB_Blueprint_Install.label>
-  <SadjuukHighBannerCB_Frame.label>Death Danger Sign (building)</SadjuukHighBannerCB_Frame.label>
-  <SadjuukHighBannerCB_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCB_Frame.description>
-
-
+  <!--<SadjuukHighBannerCB.label>Death Danger Sign</SadjuukHighBannerCB.label>-->
+  <!--<SadjuukHighBannerCB.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCB.description>-->
+  <!--<SadjuukHighBannerCB_Blueprint.label>Death Danger Sign (blueprint)</SadjuukHighBannerCB_Blueprint.label>-->
+  <!--<SadjuukHighBannerCB_Blueprint_Install.label>Death Danger Sign (blueprint)</SadjuukHighBannerCB_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerCB_Frame.label>Death Danger Sign (building)</SadjuukHighBannerCB_Frame.label>-->
+  <!--<SadjuukHighBannerCB_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCB_Frame.description>-->
   <!-- Banner CC -->
-
-  <SadjuukHighBannerCC.label>Radiation Warning Sign</SadjuukHighBannerCC.label>
-  <SadjuukHighBannerCC.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCC.description>
-  <SadjuukHighBannerCC_Blueprint.label>Radiation Warning Sign (blueprint)</SadjuukHighBannerCC_Blueprint.label>
-  <SadjuukHighBannerCC_Blueprint_Install.label>Radiation Warning Sign (blueprint)</SadjuukHighBannerCC_Blueprint_Install.label>
-  <SadjuukHighBannerCC_Frame.label>Radiation Warning Sign (building)</SadjuukHighBannerCC_Frame.label>
-  <SadjuukHighBannerCC_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCC_Frame.description>
-
-
+  <!--<SadjuukHighBannerCC.label>Radiation Warning Sign</SadjuukHighBannerCC.label>-->
+  <!--<SadjuukHighBannerCC.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCC.description>-->
+  <!--<SadjuukHighBannerCC_Blueprint.label>Radiation Warning Sign (blueprint)</SadjuukHighBannerCC_Blueprint.label>-->
+  <!--<SadjuukHighBannerCC_Blueprint_Install.label>Radiation Warning Sign (blueprint)</SadjuukHighBannerCC_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerCC_Frame.label>Radiation Warning Sign (building)</SadjuukHighBannerCC_Frame.label>-->
+  <!--<SadjuukHighBannerCC_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCC_Frame.description>-->
   <!-- Banner CD -->
-
-  <SadjuukHighBannerCD.label>Biohazard Sign</SadjuukHighBannerCD.label>
-  <SadjuukHighBannerCD.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCD.description>
-  <SadjuukHighBannerCD_Blueprint.label>Biohazard Sign (blueprint)</SadjuukHighBannerCD_Blueprint.label>
-  <SadjuukHighBannerCD_Blueprint_Install.label>Biohazard Sign (blueprint)</SadjuukHighBannerCD_Blueprint_Install.label>
-  <SadjuukHighBannerCD_Frame.label>Biohazard Sign (building)</SadjuukHighBannerCD_Frame.label>
-  <SadjuukHighBannerCD_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCD_Frame.description>
-
-
+  <!--<SadjuukHighBannerCD.label>Biohazard Sign</SadjuukHighBannerCD.label>-->
+  <!--<SadjuukHighBannerCD.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCD.description>-->
+  <!--<SadjuukHighBannerCD_Blueprint.label>Biohazard Sign (blueprint)</SadjuukHighBannerCD_Blueprint.label>-->
+  <!--<SadjuukHighBannerCD_Blueprint_Install.label>Biohazard Sign (blueprint)</SadjuukHighBannerCD_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerCD_Frame.label>Biohazard Sign (building)</SadjuukHighBannerCD_Frame.label>-->
+  <!--<SadjuukHighBannerCD_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCD_Frame.description>-->
   <!-- Banner CE -->
-
-  <SadjuukHighBannerCE.label>Electric Danger Sign</SadjuukHighBannerCE.label>
-  <SadjuukHighBannerCE.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCE.description>
-  <SadjuukHighBannerCE_Blueprint.label>Electric Danger Sign (blueprint)</SadjuukHighBannerCE_Blueprint.label>
-  <SadjuukHighBannerCE_Blueprint_Install.label>Electric Danger Sign (blueprint)</SadjuukHighBannerCE_Blueprint_Install.label>
-  <SadjuukHighBannerCE_Frame.label>Electric Danger Sign (building)</SadjuukHighBannerCE_Frame.label>
-  <SadjuukHighBannerCE_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCE_Frame.description>
-
-
+  <!--<SadjuukHighBannerCE.label>Electric Danger Sign</SadjuukHighBannerCE.label>-->
+  <!--<SadjuukHighBannerCE.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCE.description>-->
+  <!--<SadjuukHighBannerCE_Blueprint.label>Electric Danger Sign (blueprint)</SadjuukHighBannerCE_Blueprint.label>-->
+  <!--<SadjuukHighBannerCE_Blueprint_Install.label>Electric Danger Sign (blueprint)</SadjuukHighBannerCE_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerCE_Frame.label>Electric Danger Sign (building)</SadjuukHighBannerCE_Frame.label>-->
+  <!--<SadjuukHighBannerCE_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCE_Frame.description>-->
   <!-- Banner CF -->
-
-  <SadjuukHighBannerCF.label>Forklift Warning Sign</SadjuukHighBannerCF.label>
-  <SadjuukHighBannerCF.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCF.description>
-  <SadjuukHighBannerCF_Blueprint.label>Forklift Warning Sign (blueprint)</SadjuukHighBannerCF_Blueprint.label>
-  <SadjuukHighBannerCF_Blueprint_Install.label>Forklift Warning Sign (blueprint)</SadjuukHighBannerCF_Blueprint_Install.label>
-  <SadjuukHighBannerCF_Frame.label>Forklift Warning Sign (building)</SadjuukHighBannerCF_Frame.label>
-  <SadjuukHighBannerCF_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCF_Frame.description>
-
+  <!--<SadjuukHighBannerCF.label>Forklift Warning Sign</SadjuukHighBannerCF.label>-->
+  <!--<SadjuukHighBannerCF.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCF.description>-->
+  <!--<SadjuukHighBannerCF_Blueprint.label>Forklift Warning Sign (blueprint)</SadjuukHighBannerCF_Blueprint.label>-->
+  <!--<SadjuukHighBannerCF_Blueprint_Install.label>Forklift Warning Sign (blueprint)</SadjuukHighBannerCF_Blueprint_Install.label>-->
+  <!--<SadjuukHighBannerCF_Frame.label>Forklift Warning Sign (building)</SadjuukHighBannerCF_Frame.label>-->
+  <!--<SadjuukHighBannerCF_Frame.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCF_Frame.description>-->
 
 </LanguageData>
