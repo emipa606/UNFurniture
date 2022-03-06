@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_Thing" and thingDef="EndTable"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_Thing" and thingDef="EndTable"]</xpath>
+      <value>
+        <li Class="RoomRequirement_ThingAnyOf">
+          <things>
+            <li>EndTable</li>
+          </things>
+        </li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_Thing" and thingDef="Dresser"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationReplace">
+      <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_Thing" and thingDef="Dresser"]</xpath>
+      <value>
+        <li Class="RoomRequirement_ThingAnyOf">
+          <things>
+            <li>Dresser</li>
+          </things>
+        </li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_ThingAnyOf"]/things[li="DoubleBed"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_ThingAnyOf"]/things[li="DoubleBed"]</xpath>
+      <value>
+        <li>SadjuukBedBA</li>
+        <li>SadjuukBedBB</li>
+        <li>SadjuukBedBC</li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_ThingAnyOf"]/things[li="EndTable"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_ThingAnyOf"]/things[li="EndTable"]</xpath>
+      <value>
+        <li>SadjuukFurnitureAA</li>
+        <li>SadjuukFurnitureAB</li>
+        <li>SadjuukFurnitureAC</li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_ThingAnyOf"]/things[li="Dresser"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/RoyalTitleDef/bedroomRequirements/li[@Class="RoomRequirement_ThingAnyOf"]/things[li="Dresser"]</xpath>
+      <value>
+        <li>SadjuukFurnitureBA</li>
+        <li>SadjuukFurnitureBB</li>
+        <li>SadjuukFurnitureBC</li>
+      </value>
+    </match>
+  </Operation>
+</Patch>
