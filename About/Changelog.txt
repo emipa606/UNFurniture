@@ -1,5 +1,8 @@
 # Changelog for UNFurniture
 
+1.4.1 - Mod updated for 1.4 and passed autotests
+
+
 1.3.1 - Updated Royalty patch. Double-beds, lockers and chests should now be counted in all applicable title requirements
 
 
