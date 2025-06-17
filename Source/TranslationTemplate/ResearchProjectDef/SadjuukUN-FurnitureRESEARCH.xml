@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Steel Furniture -->
+  <SadjuukFurnitureA.label>Steel Furniture</SadjuukFurnitureA.label>
+  <!-- EN: Furniture mainly using steel. -->
+  <SadjuukFurnitureA.description>Furniture mainly using steel.</SadjuukFurnitureA.description>
+  <!-- EN: Glass Furniture -->
+  <SadjuukFurnitureB.label>Glass Furniture</SadjuukFurnitureB.label>
+  <!-- EN: Furniture using hard-to-use materials like glass or ceramic plate. -->
+  <SadjuukFurnitureB.description>Furniture using hard-to-use materials like glass or ceramic plate.</SadjuukFurnitureB.description>
+  <!-- EN: Advanced Furniture -->
+  <SadjuukFurnitureC.label>Advanced Furniture</SadjuukFurnitureC.label>
+  <!-- EN: Furniture using advanced design and advanced materials. -->
+  <SadjuukFurnitureC.description>Furniture using advanced design and advanced materials.</SadjuukFurnitureC.description>
+  <!-- EN: LED Lighting -->
+  <SadjuukLightA.label>LED Lighting</SadjuukLightA.label>
+  <!-- EN: Efficient lighting based on LED technology. -->
+  <SadjuukLightA.description>Efficient lighting based on LED technology.</SadjuukLightA.description>
+  <!-- EN: Street Lighting -->
+  <SadjuukLightB.label>Street Lighting</SadjuukLightB.label>
+  <!-- EN: Industrial outdoor Lighting. -->
+  <SadjuukLightB.description>Industrial outdoor Lighting.</SadjuukLightB.description>
+  <!-- EN: Advanced Lighting -->
+  <SadjuukLightC.label>Advanced Lighting</SadjuukLightC.label>
+  <!-- EN: Advanced and armored lighting. -->
+  <SadjuukLightC.description>Advanced and armored lighting.</SadjuukLightC.description>
+  <!-- EN: Medical Equipement -->
+  <SadjuukSurgeryA.label>Medical Equipement</SadjuukSurgeryA.label>
+  <!-- EN: Medical bed and equipment to practice correctly surgery. -->
+  <SadjuukSurgeryA.description>Medical bed and equipment to practice correctly surgery.</SadjuukSurgeryA.description>
+  <!-- EN: Surgery Equipement -->
+  <SadjuukSurgeryB.label>Surgery Equipement</SadjuukSurgeryB.label>
+  <!-- EN: Operating Table and Surgery Lighting to improve the surgery quality. -->
+  <SadjuukSurgeryB.description>Operating Table and Surgery Lighting to improve the surgery quality.</SadjuukSurgeryB.description>
+  <!-- EN: Temperature Devices -->
+  <SadjuukTemperatureA.label>Temperature Devices</SadjuukTemperatureA.label>
+  <!-- EN: Temperature Regulation based on ceramic technology. -->
+  <SadjuukTemperatureA.description>Temperature Regulation based on ceramic technology.</SadjuukTemperatureA.description>
+  <!-- EN: Advanced Regulation -->
+  <SadjuukTemperatureB.label>Advanced Regulation</SadjuukTemperatureB.label>
+  <!-- EN: Advanced Temperature Regulation. -->
+  <SadjuukTemperatureB.description>Advanced Temperature Regulation.</SadjuukTemperatureB.description>
+</LanguageData>

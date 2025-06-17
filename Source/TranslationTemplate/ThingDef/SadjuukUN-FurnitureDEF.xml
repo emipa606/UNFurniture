@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Wood Logs bed -->
+  <SadjuukBedAA.label>Wood Logs bed</SadjuukBedAA.label>
+  <!-- EN: A very rustic wooden table to sleep on it. -->
+  <SadjuukBedAA.description>A very rustic wooden table to sleep on it.</SadjuukBedAA.description>
+  <!-- EN: Wooden Bed -->
+  <SadjuukBedAB.label>Wooden Bed</SadjuukBedAB.label>
+  <!-- EN: A confortable wooden bed. -->
+  <SadjuukBedAB.description>A confortable wooden bed.</SadjuukBedAB.description>
+  <!-- EN: Steel Bed -->
+  <SadjuukBedAC.label>Steel Bed</SadjuukBedAC.label>
+  <!-- EN: A Standard steel bed. -->
+  <SadjuukBedAC.description>A Standard steel bed.</SadjuukBedAC.description>
+  <!-- EN: Double Logs bed -->
+  <SadjuukBedBA.label>Double Logs bed</SadjuukBedBA.label>
+  <!-- EN: A very rustic wooden table to sleep on it. -->
+  <SadjuukBedBA.description>A very rustic wooden table to sleep on it.</SadjuukBedBA.description>
+  <!-- EN: Double Wooden Bed -->
+  <SadjuukBedBB.label>Double Wooden Bed</SadjuukBedBB.label>
+  <!-- EN: A confortable wooden double bed. -->
+  <SadjuukBedBB.description>A confortable wooden double bed.</SadjuukBedBB.description>
+  <!-- EN: Double Steel Bed -->
+  <SadjuukBedBC.label>Double Steel Bed</SadjuukBedBC.label>
+  <!-- EN: A Standard steel bed. -->
+  <SadjuukBedBC.description>A Standard steel bed.</SadjuukBedBC.description>
+  <!-- EN: Hay Carpet 2X1 -->
+  <SadjuukCarpetAA.label>Hay Carpet 2X1</SadjuukCarpetAA.label>
+  <!-- EN: A very simple carpet made of braided straw. -->
+  <SadjuukCarpetAA.description>A very simple carpet made of braided straw.</SadjuukCarpetAA.description>
+  <!-- EN: Tribal Carpet 2X1 -->
+  <SadjuukCarpetAB.label>Tribal Carpet 2X1</SadjuukCarpetAB.label>
+  <!-- EN: A tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetAB.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAB.description>
+  <!-- EN: Tribal Carpet 2X1 -->
+  <SadjuukCarpetAC.label>Tribal Carpet 2X1</SadjuukCarpetAC.label>
+  <!-- EN: A tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetAC.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetAC.description>
+  <!-- EN: Ancient Carpet 2X1 -->
+  <SadjuukCarpetAD.label>Ancient Carpet 2X1</SadjuukCarpetAD.label>
+  <!-- EN: A well-made artisanal carpet. -->
+  <SadjuukCarpetAD.description>A well-made artisanal carpet.</SadjuukCarpetAD.description>
+  <!-- EN: Ancient Carpet 2X1 -->
+  <SadjuukCarpetAE.label>Ancient Carpet 2X1</SadjuukCarpetAE.label>
+  <!-- EN: A well-made artisanal carpet. -->
+  <SadjuukCarpetAE.description>A well-made artisanal carpet.</SadjuukCarpetAE.description>
+  <!-- EN: Royal Carpet 2X1 -->
+  <SadjuukCarpetAF.label>Royal Carpet 2X1</SadjuukCarpetAF.label>
+  <!-- EN: A carpet of very good clothes, reserved for the most luxurious places. -->
+  <SadjuukCarpetAF.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetAF.description>
+  <!-- EN: Modern Carpet 2X1 -->
+  <SadjuukCarpetAG.label>Modern Carpet 2X1</SadjuukCarpetAG.label>
+  <!-- EN: A modern carpet made of synthetic material. -->
+  <SadjuukCarpetAG.description>A modern carpet made of synthetic material.</SadjuukCarpetAG.description>
+  <!-- EN: Modern Carpet 2X1 -->
+  <SadjuukCarpetAH.label>Modern Carpet 2X1</SadjuukCarpetAH.label>
+  <!-- EN: A modern carpet made of synthetic material. -->
+  <SadjuukCarpetAH.description>A modern carpet made of synthetic material.</SadjuukCarpetAH.description>
+  <!-- EN: Modern Carpet 2X1 -->
+  <SadjuukCarpetAI.label>Modern Carpet 2X1</SadjuukCarpetAI.label>
+  <!-- EN: A modern carpet made of synthetic material. -->
+  <SadjuukCarpetAI.description>A modern carpet made of synthetic material.</SadjuukCarpetAI.description>
+  <!-- EN: Hay Carpet 2X2 -->
+  <SadjuukCarpetBA.label>Hay Carpet 2X2</SadjuukCarpetBA.label>
+  <!-- EN: A very simple carpet made of braided straw. -->
+  <SadjuukCarpetBA.description>A very simple carpet made of braided straw.</SadjuukCarpetBA.description>
+  <!-- EN: Tribal Carpet 2X2 -->
+  <SadjuukCarpetBB.label>Tribal Carpet 2X2</SadjuukCarpetBB.label>
+  <!-- EN: A tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetBB.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBB.description>
+  <!-- EN: Tribal Carpet 2X2 -->
+  <SadjuukCarpetBC.label>Tribal Carpet 2X2</SadjuukCarpetBC.label>
+  <!-- EN: A tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetBC.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetBC.description>
+  <!-- EN: Ancient Carpet 2X2 -->
+  <SadjuukCarpetBD.label>Ancient Carpet 2X2</SadjuukCarpetBD.label>
+  <!-- EN: A well-made artisanal carpet. -->
+  <SadjuukCarpetBD.description>A well-made artisanal carpet.</SadjuukCarpetBD.description>
+  <!-- EN: Ancient Carpet 2X2 -->
+  <SadjuukCarpetBE.label>Ancient Carpet 2X2</SadjuukCarpetBE.label>
+  <!-- EN: A well-made artisanal carpet. -->
+  <SadjuukCarpetBE.description>A well-made artisanal carpet.</SadjuukCarpetBE.description>
+  <!-- EN: Royal Carpet 2X2 -->
+  <SadjuukCarpetBF.label>Royal Carpet 2X2</SadjuukCarpetBF.label>
+  <!-- EN: A carpet of very good clothes, reserved for the most luxurious places. -->
+  <SadjuukCarpetBF.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetBF.description>
+  <!-- EN: Modern Carpet 2X2 -->
+  <SadjuukCarpetBG.label>Modern Carpet 2X2</SadjuukCarpetBG.label>
+  <!-- EN: A modern carpet made of synthetic material. -->
+  <SadjuukCarpetBG.description>A modern carpet made of synthetic material.</SadjuukCarpetBG.description>
+  <!-- EN: Modern Carpet 2X2 -->
+  <SadjuukCarpetBH.label>Modern Carpet 2X2</SadjuukCarpetBH.label>
+  <!-- EN: A modern carpet made of synthetic material. -->
+  <SadjuukCarpetBH.description>A modern carpet made of synthetic material.</SadjuukCarpetBH.description>
+  <!-- EN: Modern Carpet 2X2 -->
+  <SadjuukCarpetBI.label>Modern Carpet 2X2</SadjuukCarpetBI.label>
+  <!-- EN: A modern carpet made of synthetic material. -->
+  <SadjuukCarpetBI.description>A modern carpet made of synthetic material.</SadjuukCarpetBI.description>
+  <!-- EN: Hay Carpet 3X3 -->
+  <SadjuukCarpetCA.label>Hay Carpet 3X3</SadjuukCarpetCA.label>
+  <!-- EN: A very simple carpet made of braided straw. -->
+  <SadjuukCarpetCA.description>A very simple carpet made of braided straw.</SadjuukCarpetCA.description>
+  <!-- EN: Tribal Carpet 3X3 -->
+  <SadjuukCarpetCB.label>Tribal Carpet 3X3</SadjuukCarpetCB.label>
+  <!-- EN: A tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetCB.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCB.description>
+  <!-- EN: Tribal Carpet 3X3 -->
+  <SadjuukCarpetCC.label>Tribal Carpet 3X3</SadjuukCarpetCC.label>
+  <!-- EN: A tribal carpet, a sign of a rich culture. -->
+  <SadjuukCarpetCC.description>A tribal carpet, a sign of a rich culture.</SadjuukCarpetCC.description>
+  <!-- EN: Ancient Carpet 3X3 -->
+  <SadjuukCarpetCD.label>Ancient Carpet 3X3</SadjuukCarpetCD.label>
+  <!-- EN: A well-made artisanal carpet. -->
+  <SadjuukCarpetCD.description>A well-made artisanal carpet.</SadjuukCarpetCD.description>
+  <!-- EN: Ancient Carpet 3X3 -->
+  <SadjuukCarpetCE.label>Ancient Carpet 3X3</SadjuukCarpetCE.label>
+  <!-- EN: A well-made artisanal carpet. -->
+  <SadjuukCarpetCE.description>A well-made artisanal carpet.</SadjuukCarpetCE.description>
+  <!-- EN: Royal Carpet 3X3 -->
+  <SadjuukCarpetCF.label>Royal Carpet 3X3</SadjuukCarpetCF.label>
+  <!-- EN: A carpet of very good clothes, reserved for the most luxurious places. -->
+  <SadjuukCarpetCF.description>A carpet of very good clothes, reserved for the most luxurious places.</SadjuukCarpetCF.description>
+  <!-- EN: Modern Carpet 3X3 -->
+  <SadjuukCarpetCG.label>Modern Carpet 3X3</SadjuukCarpetCG.label>
+  <!-- EN: A modern carpet made of synthetic material. -->
+  <SadjuukCarpetCG.description>A modern carpet made of synthetic material.</SadjuukCarpetCG.description>
+  <!-- EN: Modern Carpet 3X3 -->
+  <SadjuukCarpetCH.label>Modern Carpet 3X3</SadjuukCarpetCH.label>
+  <!-- EN: A modern carpet made of synthetic material. -->
+  <SadjuukCarpetCH.description>A modern carpet made of synthetic material.</SadjuukCarpetCH.description>
+  <!-- EN: Modern Carpet 3X3 -->
+  <SadjuukCarpetCI.label>Modern Carpet 3X3</SadjuukCarpetCI.label>
+  <!-- EN: A modern carpet made of synthetic material. -->
+  <SadjuukCarpetCI.description>A modern carpet made of synthetic material.</SadjuukCarpetCI.description>
+  <!-- EN: Wood Logs Chair -->
+  <SadjuukChairAA.label>Wood Logs Chair</SadjuukChairAA.label>
+  <!-- EN: A chair, an essential element for creating a living space. -->
+  <SadjuukChairAA.description>A chair, an essential element for creating a living space.</SadjuukChairAA.description>
+  <!-- EN: Wood Plank Chair -->
+  <SadjuukChairAB.label>Wood Plank Chair</SadjuukChairAB.label>
+  <!-- EN: A chair, an essential element for creating a living space. -->
+  <SadjuukChairAB.description>A chair, an essential element for creating a living space.</SadjuukChairAB.description>
+  <!-- EN: Steel Chair -->
+  <SadjuukChairAC.label>Steel Chair</SadjuukChairAC.label>
+  <!-- EN: A chair, an essential element for creating a living space. -->
+  <SadjuukChairAC.description>A chair, an essential element for creating a living space.</SadjuukChairAC.description>
+  <!-- EN: Wood Logs Stool -->
+  <SadjuukChairBA.label>Wood Logs Stool</SadjuukChairBA.label>
+  <!-- EN: A stool, ideal for a workstation. -->
+  <SadjuukChairBA.description>A stool, ideal for a workstation.</SadjuukChairBA.description>
+  <!-- EN: Wood Plank Stool -->
+  <SadjuukChairBB.label>Wood Plank Stool</SadjuukChairBB.label>
+  <!-- EN: A stool, ideal for a workstation. -->
+  <SadjuukChairBB.description>A stool, ideal for a workstation.</SadjuukChairBB.description>
+  <!-- EN: Steel Work Stool -->
+  <SadjuukChairBC.label>Steel Work Stool</SadjuukChairBC.label>
+  <!-- EN: A stool, ideal for a workstation. -->
+  <SadjuukChairBC.description>A stool, ideal for a workstation.</SadjuukChairBC.description>
+  <!-- EN: Wood Logs Armchair -->
+  <SadjuukChairCA.label>Wood Logs Armchair</SadjuukChairCA.label>
+  <!-- EN: A chair of good design to create a space for reflection or discussion. -->
+  <SadjuukChairCA.description>A chair of good design to create a space for reflection or discussion.</SadjuukChairCA.description>
+  <!-- EN: Wood Plank Armchair -->
+  <SadjuukChairCB.label>Wood Plank Armchair</SadjuukChairCB.label>
+  <!-- EN: A chair of good design to create a space for reflection or discussion. -->
+  <SadjuukChairCB.description>A chair of good design to create a space for reflection or discussion.</SadjuukChairCB.description>
+  <!-- EN: Steel Office Chair -->
+  <SadjuukChairCC.label>Steel Office Chair</SadjuukChairCC.label>
+  <!-- EN: A chair of good design to create a space for reflection or discussion. -->
+  <SadjuukChairCC.description>A chair of good design to create a space for reflection or discussion.</SadjuukChairCC.description>
+  <!-- EN: Electric Fan -->
+  <SadjuukCoolerAA.label>Electric Fan</SadjuukCoolerAA.label>
+  <!-- EN: P : 40W, T min : 24°C\nAn Electric Fan reducing a little excess temperature in a room. -->
+  <SadjuukCoolerAA.description>P : 40W, T min : 24°C
+An Electric Fan reducing a little excess temperature in a room.</SadjuukCoolerAA.description>
+  <!-- EN: Steel Air Cooler -->
+  <SadjuukCoolerAB.label>Steel Air Cooler</SadjuukCoolerAB.label>
+  <!-- EN: P : 200W, T/s : -21\nAn electric Air Cooler. Have to be placed on a wall. -->
+  <SadjuukCoolerAB.description>P : 200W, T/s : -21
+An electric Air Cooler. Have to be placed on a wall.</SadjuukCoolerAB.description>
+  <!-- EN: Ceramic Air Cooler -->
+  <SadjuukCoolerAC.label>Ceramic Air Cooler</SadjuukCoolerAC.label>
+  <!-- EN: P : 400W, T/s : -63\nCeramic Air Cooler with good performance. Have to be placed on a wall. -->
+  <SadjuukCoolerAC.description>P : 400W, T/s : -63
+Ceramic Air Cooler with good performance. Have to be placed on a wall.</SadjuukCoolerAC.description>
+  <!-- EN: Wooden Chest -->
+  <SadjuukFurnitureAA.label>Wooden Chest</SadjuukFurnitureAA.label>
+  <!-- EN: A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. -->
+  <SadjuukFurnitureAA.description>A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed.</SadjuukFurnitureAA.description>
+  <!-- EN: Wooden Nightstand -->
+  <SadjuukFurnitureAB.label>Wooden Nightstand</SadjuukFurnitureAB.label>
+  <!-- EN: A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. -->
+  <SadjuukFurnitureAB.description>A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed.</SadjuukFurnitureAB.description>
+  <!-- EN: Steel Chest -->
+  <SadjuukFurnitureAC.label>Steel Chest</SadjuukFurnitureAC.label>
+  <!-- EN: A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. -->
+  <SadjuukFurnitureAC.description>A small furnishing making nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed.</SadjuukFurnitureAC.description>
+  <!-- EN: Wooden Storage -->
+  <SadjuukFurnitureBA.label>Wooden Storage</SadjuukFurnitureBA.label>
+  <!-- EN: A medium-sized furniture improving the comfort of a bedroom or a barrack. -->
+  <SadjuukFurnitureBA.description>A medium-sized furniture improving the comfort of a bedroom or a barrack.</SadjuukFurnitureBA.description>
+  <!-- EN: Wooden Wardrobe -->
+  <SadjuukFurnitureBB.label>Wooden Wardrobe</SadjuukFurnitureBB.label>
+  <!-- EN: A medium-sized furniture improving the comfort of a bedroom or a barrack. -->
+  <SadjuukFurnitureBB.description>A medium-sized furniture improving the comfort of a bedroom or a barrack.</SadjuukFurnitureBB.description>
+  <!-- EN: Steel Lockers -->
+  <SadjuukFurnitureBC.label>Steel Lockers</SadjuukFurnitureBC.label>
+  <!-- EN: A medium-sized furniture improving the comfort of a bedroom or a barrack. -->
+  <SadjuukFurnitureBC.description>A medium-sized furniture improving the comfort of a bedroom or a barrack.</SadjuukFurnitureBC.description>
+  <!-- EN: Electric Heater -->
+  <SadjuukHeaterAA.label>Electric Heater</SadjuukHeaterAA.label>
+  <!-- EN: P : 175W, T/s : 21\nElectric Heater, with a low energy efficiency. -->
+  <SadjuukHeaterAA.description>P : 175W, T/s : 21
+Electric Heater, with a low energy efficiency.</SadjuukHeaterAA.description>
+  <!-- EN: Ceramic Heater -->
+  <SadjuukHeaterAB.label>Ceramic Heater</SadjuukHeaterAB.label>
+  <!-- EN: P : 100W, T/s : 25\nA Ceramic Heater, with a good energy efficiency. -->
+  <SadjuukHeaterAB.description>P : 100W, T/s : 25
+A Ceramic Heater, with a good energy efficiency.</SadjuukHeaterAB.description>
+  <!-- EN: Central Heating -->
+  <SadjuukHeaterAC.label>Central Heating</SadjuukHeaterAC.label>
+  <!-- EN: P : 1000W, T/s : 300\nA Central Heating capables of heating large volumes. -->
+  <SadjuukHeaterAC.description>P : 1000W, T/s : 300
+A Central Heating capables of heating large volumes.</SadjuukHeaterAC.description>
+  <!-- EN: UNSC Banner -->
+  <SadjuukHighBannerAA.label>UNSC Banner</SadjuukHighBannerAA.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAA.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAA.description>
+  <!-- EN: Gallia Banner -->
+  <SadjuukHighBannerAB.label>Gallia Banner</SadjuukHighBannerAB.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAB.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAB.description>
+  <!-- EN: Imperial Banner -->
+  <SadjuukHighBannerAC.label>Imperial Banner</SadjuukHighBannerAC.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAC.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAC.description>
+  <!-- EN: Diktat Banner -->
+  <SadjuukHighBannerAD.label>Diktat Banner</SadjuukHighBannerAD.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAD.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAD.description>
+  <!-- EN: Bolshvev Banner -->
+  <SadjuukHighBannerAE.label>Bolshvev Banner</SadjuukHighBannerAE.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAE.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAE.description>
+  <!-- EN: NOD Banner -->
+  <SadjuukHighBannerAF.label>NOD Banner</SadjuukHighBannerAF.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAF.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAF.description>
+  <!-- EN: Red Banner -->
+  <SadjuukHighBannerAG.label>Red Banner</SadjuukHighBannerAG.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAG.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAG.description>
+  <!-- EN: Royal Blue Banner -->
+  <SadjuukHighBannerAH.label>Royal Blue Banner</SadjuukHighBannerAH.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAH.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAH.description>
+  <!-- EN: Sky Blue Banner -->
+  <SadjuukHighBannerAI.label>Sky Blue Banner</SadjuukHighBannerAI.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAI.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAI.description>
+  <!-- EN: Yellow Banner -->
+  <SadjuukHighBannerAJ.label>Yellow Banner</SadjuukHighBannerAJ.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAJ.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAJ.description>
+  <!-- EN: Black Banner -->
+  <SadjuukHighBannerAK.label>Black Banner</SadjuukHighBannerAK.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAK.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAK.description>
+  <!-- EN: White Banner -->
+  <SadjuukHighBannerAL.label>White Banner</SadjuukHighBannerAL.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAL.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAL.description>
+  <!-- EN: Templar Banner -->
+  <SadjuukHighBannerAM.label>Templar Banner</SadjuukHighBannerAM.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAM.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAM.description>
+  <!-- EN: Lech Banner -->
+  <SadjuukHighBannerAN.label>Lech Banner</SadjuukHighBannerAN.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAN.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAN.description>
+  <!-- EN: GDI Banner -->
+  <SadjuukHighBannerAO.label>GDI Banner</SadjuukHighBannerAO.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAO.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAO.description>
+  <!-- EN: RUS Banner -->
+  <SadjuukHighBannerAP.label>RUS Banner</SadjuukHighBannerAP.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAP.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAP.description>
+  <!-- EN: States Banner -->
+  <SadjuukHighBannerAQ.label>States Banner</SadjuukHighBannerAQ.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAQ.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAQ.description>
+  <!-- EN: Lys Banner -->
+  <SadjuukHighBannerAR.label>Lys Banner</SadjuukHighBannerAR.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAR.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAR.description>
+  <!-- EN: Cross Banner -->
+  <SadjuukHighBannerAS.label>Cross Banner</SadjuukHighBannerAS.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAS.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAS.description>
+  <!-- EN: Green Banner -->
+  <SadjuukHighBannerAT.label>Green Banner</SadjuukHighBannerAT.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAT.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAT.description>
+  <!-- EN: Badger Banner -->
+  <SadjuukHighBannerAU.label>Badger Banner</SadjuukHighBannerAU.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAU.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAU.description>
+  <!-- EN: Snake Banner -->
+  <SadjuukHighBannerAV.label>Snake Banner</SadjuukHighBannerAV.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAV.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAV.description>
+  <!-- EN: Gryffon Banner -->
+  <SadjuukHighBannerAW.label>Gryffon Banner</SadjuukHighBannerAW.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAW.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAW.description>
+  <!-- EN: Raven Banner -->
+  <SadjuukHighBannerAX.label>Raven Banner</SadjuukHighBannerAX.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAX.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAX.description>
+  <!-- EN: Union Jack -->
+  <SadjuukHighBannerAY.label>Union Jack</SadjuukHighBannerAY.label>
+  <!-- EN: A high Banner, symbol of your ambitions and sovereignty. -->
+  <SadjuukHighBannerAY.description>A high Banner, symbol of your ambitions and sovereignty.</SadjuukHighBannerAY.description>
+  <!-- EN: UNSC Flag -->
+  <SadjuukHighBannerBA.label>UNSC Flag</SadjuukHighBannerBA.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBA.description>A High Flag, marking your territory.</SadjuukHighBannerBA.description>
+  <!-- EN: Gallia Flag -->
+  <SadjuukHighBannerBB.label>Gallia Flag</SadjuukHighBannerBB.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBB.description>A High Flag, marking your territory.</SadjuukHighBannerBB.description>
+  <!-- EN: Imperial Flag -->
+  <SadjuukHighBannerBC.label>Imperial Flag</SadjuukHighBannerBC.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBC.description>A High Flag, marking your territory.</SadjuukHighBannerBC.description>
+  <!-- EN: Diktat Flag -->
+  <SadjuukHighBannerBD.label>Diktat Flag</SadjuukHighBannerBD.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBD.description>A High Flag, marking your territory.</SadjuukHighBannerBD.description>
+  <!-- EN: Bolshvev Flag -->
+  <SadjuukHighBannerBE.label>Bolshvev Flag</SadjuukHighBannerBE.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBE.description>A High Flag, marking your territory.</SadjuukHighBannerBE.description>
+  <!-- EN: NOD Flag -->
+  <SadjuukHighBannerBF.label>NOD Flag</SadjuukHighBannerBF.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBF.description>A High Flag, marking your territory.</SadjuukHighBannerBF.description>
+  <!-- EN: Red Flag -->
+  <SadjuukHighBannerBG.label>Red Flag</SadjuukHighBannerBG.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBG.description>A High Flag, marking your territory.</SadjuukHighBannerBG.description>
+  <!-- EN: Royal Blue Flag -->
+  <SadjuukHighBannerBH.label>Royal Blue Flag</SadjuukHighBannerBH.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBH.description>A High Flag, marking your territory.</SadjuukHighBannerBH.description>
+  <!-- EN: Sky Blue Flag -->
+  <SadjuukHighBannerBI.label>Sky Blue Flag</SadjuukHighBannerBI.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBI.description>A High Flag, marking your territory.</SadjuukHighBannerBI.description>
+  <!-- EN: Yellow Flag -->
+  <SadjuukHighBannerBJ.label>Yellow Flag</SadjuukHighBannerBJ.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBJ.description>A High Flag, marking your territory.</SadjuukHighBannerBJ.description>
+  <!-- EN: Black Flag -->
+  <SadjuukHighBannerBK.label>Black Flag</SadjuukHighBannerBK.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBK.description>A High Flag, marking your territory.</SadjuukHighBannerBK.description>
+  <!-- EN: White Flag -->
+  <SadjuukHighBannerBL.label>White Flag</SadjuukHighBannerBL.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBL.description>A High Flag, marking your territory.</SadjuukHighBannerBL.description>
+  <!-- EN: Templar Flag -->
+  <SadjuukHighBannerBM.label>Templar Flag</SadjuukHighBannerBM.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBM.description>A High Flag, marking your territory.</SadjuukHighBannerBM.description>
+  <!-- EN: Lech Flag -->
+  <SadjuukHighBannerBN.label>Lech Flag</SadjuukHighBannerBN.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBN.description>A High Flag, marking your territory.</SadjuukHighBannerBN.description>
+  <!-- EN: GDI Flag -->
+  <SadjuukHighBannerBO.label>GDI Flag</SadjuukHighBannerBO.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBO.description>A High Flag, marking your territory.</SadjuukHighBannerBO.description>
+  <!-- EN: RUS Flag -->
+  <SadjuukHighBannerBP.label>RUS Flag</SadjuukHighBannerBP.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBP.description>A High Flag, marking your territory.</SadjuukHighBannerBP.description>
+  <!-- EN: States Flag -->
+  <SadjuukHighBannerBQ.label>States Flag</SadjuukHighBannerBQ.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBQ.description>A High Flag, marking your territory.</SadjuukHighBannerBQ.description>
+  <!-- EN: Lys Flag -->
+  <SadjuukHighBannerBR.label>Lys Flag</SadjuukHighBannerBR.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBR.description>A High Flag, marking your territory.</SadjuukHighBannerBR.description>
+  <!-- EN: Cross Flag -->
+  <SadjuukHighBannerBS.label>Cross Flag</SadjuukHighBannerBS.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBS.description>A High Flag, marking your territory.</SadjuukHighBannerBS.description>
+  <!-- EN: Green Flag -->
+  <SadjuukHighBannerBT.label>Green Flag</SadjuukHighBannerBT.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBT.description>A High Flag, marking your territory.</SadjuukHighBannerBT.description>
+  <!-- EN: Badger Flag -->
+  <SadjuukHighBannerBU.label>Badger Flag</SadjuukHighBannerBU.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBU.description>A High Flag, marking your territory.</SadjuukHighBannerBU.description>
+  <!-- EN: Snake Flag -->
+  <SadjuukHighBannerBV.label>Snake Flag</SadjuukHighBannerBV.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBV.description>A High Flag, marking your territory.</SadjuukHighBannerBV.description>
+  <!-- EN: Gryffon Flag -->
+  <SadjuukHighBannerBW.label>Gryffon Flag</SadjuukHighBannerBW.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBW.description>A High Flag, marking your territory.</SadjuukHighBannerBW.description>
+  <!-- EN: Raven Flag -->
+  <SadjuukHighBannerBX.label>Raven Flag</SadjuukHighBannerBX.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBX.description>A High Flag, marking your territory.</SadjuukHighBannerBX.description>
+  <!-- EN: Union Jack -->
+  <SadjuukHighBannerBY.label>Union Jack</SadjuukHighBannerBY.label>
+  <!-- EN: A High Flag, marking your territory. -->
+  <SadjuukHighBannerBY.description>A High Flag, marking your territory.</SadjuukHighBannerBY.description>
+  <!-- EN: Fire Danger Sign -->
+  <SadjuukHighBannerCA.label>Fire Danger Sign</SadjuukHighBannerCA.label>
+  <!-- EN: A Warning Sign, warning of a hazard or restricted area. -->
+  <SadjuukHighBannerCA.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCA.description>
+  <!-- EN: Death Danger Sign -->
+  <SadjuukHighBannerCB.label>Death Danger Sign</SadjuukHighBannerCB.label>
+  <!-- EN: A Warning Sign, warning of a hazard or restricted area. -->
+  <SadjuukHighBannerCB.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCB.description>
+  <!-- EN: Radiation Warning Sign -->
+  <SadjuukHighBannerCC.label>Radiation Warning Sign</SadjuukHighBannerCC.label>
+  <!-- EN: A Warning Sign, warning of a hazard or restricted area. -->
+  <SadjuukHighBannerCC.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCC.description>
+  <!-- EN: Biohazard Sign -->
+  <SadjuukHighBannerCD.label>Biohazard Sign</SadjuukHighBannerCD.label>
+  <!-- EN: A Warning Sign, warning of a hazard or restricted area. -->
+  <SadjuukHighBannerCD.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCD.description>
+  <!-- EN: Electric Danger Sign -->
+  <SadjuukHighBannerCE.label>Electric Danger Sign</SadjuukHighBannerCE.label>
+  <!-- EN: A Warning Sign, warning of a hazard or restricted area. -->
+  <SadjuukHighBannerCE.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCE.description>
+  <!-- EN: Forklift Warning Sign -->
+  <SadjuukHighBannerCF.label>Forklift Warning Sign</SadjuukHighBannerCF.label>
+  <!-- EN: A Warning Sign, warning of a hazard or restricted area. -->
+  <SadjuukHighBannerCF.description>A Warning Sign, warning of a hazard or restricted area.</SadjuukHighBannerCF.description>
+  <!-- EN: Blue Torch -->
+  <SadjuukLightAB.label>Blue Torch</SadjuukLightAB.label>
+  <!-- EN: P : 30W, L : 12\nA basic Torch Light -->
+  <SadjuukLightAB.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAB.description>
+  <!-- EN: Green Torch -->
+  <SadjuukLightAG.label>Green Torch</SadjuukLightAG.label>
+  <!-- EN: P : 30W, L : 12\nA basic Torch Light -->
+  <SadjuukLightAG.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAG.description>
+  <!-- EN: Red Torch -->
+  <SadjuukLightAR.label>Red Torch</SadjuukLightAR.label>
+  <!-- EN: P : 30W, L : 12\nA basic Torch Light -->
+  <SadjuukLightAR.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAR.description>
+  <!-- EN: White Torch -->
+  <SadjuukLightAW.label>White Torch</SadjuukLightAW.label>
+  <!-- EN: P : 30W, L : 12\nA basic Torch Light -->
+  <SadjuukLightAW.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAW.description>
+  <!-- EN: Yellow Torch -->
+  <SadjuukLightAY.label>Yellow Torch</SadjuukLightAY.label>
+  <!-- EN: P : 30W, L : 12\nA basic Torch Light -->
+  <SadjuukLightAY.description>P : 30W, L : 12
+A basic Torch Light</SadjuukLightAY.description>
+  <!-- EN: Blue Light -->
+  <SadjuukLightBB.label>Blue Light</SadjuukLightBB.label>
+  <!-- EN: P : 10W, L : 8\nAn industrial LED Light -->
+  <SadjuukLightBB.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBB.description>
+  <!-- EN: Green Light -->
+  <SadjuukLightBG.label>Green Light</SadjuukLightBG.label>
+  <!-- EN: P : 10W, L : 8\nAn industrial LED Light -->
+  <SadjuukLightBG.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBG.description>
+  <!-- EN: Red Light -->
+  <SadjuukLightBR.label>Red Light</SadjuukLightBR.label>
+  <!-- EN: P : 10W, L : 8\nAn industrial LED Light -->
+  <SadjuukLightBR.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBR.description>
+  <!-- EN: White Light -->
+  <SadjuukLightBW.label>White Light</SadjuukLightBW.label>
+  <!-- EN: P : 10W, L : 8\nAn industrial LED Light -->
+  <SadjuukLightBW.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBW.description>
+  <!-- EN: Yellow Light -->
+  <SadjuukLightBY.label>Yellow Light</SadjuukLightBY.label>
+  <!-- EN: P : 10W, L : 8\nAn industrial LED Light -->
+  <SadjuukLightBY.description>P : 10W, L : 8
+An industrial LED Light</SadjuukLightBY.description>
+  <!-- EN: Blue Light -->
+  <SadjuukLightCB.label>Blue Light</SadjuukLightCB.label>
+  <!-- EN: P : 15W, L : 12\nA powerful but very efficient industrial LED Light -->
+  <SadjuukLightCB.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCB.description>
+  <!-- EN: Green Light -->
+  <SadjuukLightCG.label>Green Light</SadjuukLightCG.label>
+  <!-- EN: P : 15W, L : 12\nA powerful but very efficient industrial LED Light -->
+  <SadjuukLightCG.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCG.description>
+  <!-- EN: Red Light -->
+  <SadjuukLightCR.label>Red Light</SadjuukLightCR.label>
+  <!-- EN: P : 15W, L : 12\nA powerful but very efficient industrial LED Light -->
+  <SadjuukLightCR.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCR.description>
+  <!-- EN: White Light -->
+  <SadjuukLightCW.label>White Light</SadjuukLightCW.label>
+  <!-- EN: P : 15W, L : 12\nA powerful but very efficient industrial LED Light -->
+  <SadjuukLightCW.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCW.description>
+  <!-- EN: Yellow Light -->
+  <SadjuukLightCY.label>Yellow Light</SadjuukLightCY.label>
+  <!-- EN: P : 15W, L : 12\nA powerful but very efficient industrial LED Light -->
+  <SadjuukLightCY.description>P : 15W, L : 12
+A powerful but very efficient industrial LED Light</SadjuukLightCY.description>
+  <!-- EN: Blue Torch -->
+  <SadjuukLightDB.label>Blue Torch</SadjuukLightDB.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightDB.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDB.description>
+  <!-- EN: Green Torch -->
+  <SadjuukLightDG.label>Green Torch</SadjuukLightDG.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightDG.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDG.description>
+  <!-- EN: Red Torch -->
+  <SadjuukLightDR.label>Red Torch</SadjuukLightDR.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightDR.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDR.description>
+  <!-- EN: White Torch -->
+  <SadjuukLightDW.label>White Torch</SadjuukLightDW.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightDW.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDW.description>
+  <!-- EN: Yellow Torch -->
+  <SadjuukLightDY.label>Yellow Torch</SadjuukLightDY.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightDY.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightDY.description>
+  <!-- EN: Blue Torch -->
+  <SadjuukLightEB.label>Blue Torch</SadjuukLightEB.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightEB.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEB.description>
+  <!-- EN: Green Torch -->
+  <SadjuukLightEG.label>Green Torch</SadjuukLightEG.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightEG.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEG.description>
+  <!-- EN: Red Torch -->
+  <SadjuukLightER.label>Red Torch</SadjuukLightER.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightER.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightER.description>
+  <!-- EN: White Torch -->
+  <SadjuukLightEW.label>White Torch</SadjuukLightEW.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightEW.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEW.description>
+  <!-- EN: Yellow Torch -->
+  <SadjuukLightEY.label>Yellow Torch</SadjuukLightEY.label>
+  <!-- EN: P : 20W, L : 16\nA powerful advanced Torch Light. -->
+  <SadjuukLightEY.description>P : 20W, L : 16
+A powerful advanced Torch Light.</SadjuukLightEY.description>
+  <!-- EN: Blue Light -->
+  <SadjuukLightFB.label>Blue Light</SadjuukLightFB.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightFB.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFB.description>
+  <!-- EN: Green Light -->
+  <SadjuukLightFG.label>Green Light</SadjuukLightFG.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightFG.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFG.description>
+  <!-- EN: Red Light -->
+  <SadjuukLightFR.label>Red Light</SadjuukLightFR.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightFR.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFR.description>
+  <!-- EN: White Light -->
+  <SadjuukLightFW.label>White Light</SadjuukLightFW.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightFW.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFW.description>
+  <!-- EN: Yellow Light -->
+  <SadjuukLightFY.label>Yellow Light</SadjuukLightFY.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightFY.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightFY.description>
+  <!-- EN: Blue Light -->
+  <SadjuukLightGB.label>Blue Light</SadjuukLightGB.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightGB.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGB.description>
+  <!-- EN: Green Light -->
+  <SadjuukLightGG.label>Green Light</SadjuukLightGG.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightGG.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGG.description>
+  <!-- EN: Red Light -->
+  <SadjuukLightGR.label>Red Light</SadjuukLightGR.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightGR.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGR.description>
+  <!-- EN: White Light -->
+  <SadjuukLightGW.label>White Light</SadjuukLightGW.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightGW.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGW.description>
+  <!-- EN: Yellow Light -->
+  <SadjuukLightGY.label>Yellow Light</SadjuukLightGY.label>
+  <!-- EN: P : 15W, L : 12\nAn aesthetic advanced Light. -->
+  <SadjuukLightGY.description>P : 15W, L : 12
+An aesthetic advanced Light.</SadjuukLightGY.description>
+  <!-- EN: Research Spot -->
+  <SadjuukResearchAA.label>Research Spot</SadjuukResearchAA.label>
+  <!-- EN: A place where primitive experiences can be conducted. -->
+  <SadjuukResearchAA.description>A place where primitive experiences can be conducted.</SadjuukResearchAA.description>
+  <!-- EN: Research Desk -->
+  <SadjuukResearchAB.label>Research Desk</SadjuukResearchAB.label>
+  <!-- EN: A wooden desk to study with serenity. -->
+  <SadjuukResearchAB.description>A wooden desk to study with serenity.</SadjuukResearchAB.description>
+  <!-- EN: Research Table -->
+  <SadjuukResearchAC.label>Research Table</SadjuukResearchAC.label>
+  <!-- EN: A research table completed by measuring equipment. -->
+  <SadjuukResearchAC.description>A research table completed by measuring equipment.</SadjuukResearchAC.description>
+  <!-- EN: Tribal Calendar -->
+  <SadjuukResearchBA.label>Tribal Calendar</SadjuukResearchBA.label>
+  <!-- EN: A primitive calendar, giving the position of the stars and seasons. -->
+  <SadjuukResearchBA.description>A primitive calendar, giving the position of the stars and seasons.</SadjuukResearchBA.description>
+  <!-- EN: Research Library -->
+  <SadjuukResearchBB.label>Research Library</SadjuukResearchBB.label>
+  <!-- EN: A library keeping the researches and plans made. -->
+  <SadjuukResearchBB.description>A library keeping the researches and plans made.</SadjuukResearchBB.description>
+  <!-- EN: Blueprint Table -->
+  <SadjuukResearchBC.label>Blueprint Table</SadjuukResearchBC.label>
+  <!-- EN: A plane table, to design machines with great precision. -->
+  <SadjuukResearchBC.description>A plane table, to design machines with great precision.</SadjuukResearchBC.description>
+  <!-- EN: Archival Cabinet -->
+  <SadjuukResearchBD.label>Archival Cabinet</SadjuukResearchBD.label>
+  <!-- EN: A storage cabinet for the files and plans resulting from the research carried out. -->
+  <SadjuukResearchBD.description>A storage cabinet for the files and plans resulting from the research carried out.</SadjuukResearchBD.description>
+  <!-- EN: White Street Light -->
+  <SadjuukStreetLightAW.label>White Street Light</SadjuukStreetLightAW.label>
+  <!-- EN: P : 40W, L : 16\nAn industrial outdoor Street Light -->
+  <SadjuukStreetLightAW.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightAW.description>
+  <!-- EN: Yellow Street Light -->
+  <SadjuukStreetLightAY.label>Yellow Street Light</SadjuukStreetLightAY.label>
+  <!-- EN: P : 40W, L : 16\nAn industrial outdoor Street Light -->
+  <SadjuukStreetLightAY.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightAY.description>
+  <!-- EN: White Street Light -->
+  <SadjuukStreetLightBW.label>White Street Light</SadjuukStreetLightBW.label>
+  <!-- EN: P : 40W, L : 16\nAn industrial outdoor Street Light -->
+  <SadjuukStreetLightBW.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightBW.description>
+  <!-- EN: Yellow Street Light -->
+  <SadjuukStreetLightBY.label>Yellow Street Light</SadjuukStreetLightBY.label>
+  <!-- EN: P : 40W, L : 16\nAn industrial outdoor Street Light -->
+  <SadjuukStreetLightBY.description>P : 40W, L : 16
+An industrial outdoor Street Light</SadjuukStreetLightBY.description>
+  <!-- EN: Rustic Surgery Tools -->
+  <SadjuukSurgeryAA.label>Rustic Surgery Tools</SadjuukSurgeryAA.label>
+  <!-- EN: Very rustic surgery tools increasing medical tend quality.\nTending : 2%, Infection : 2%, Surgery : 2% -->
+  <SadjuukSurgeryAA.description>Very rustic surgery tools increasing medical tend quality.
+Tending : 2%, Infection : 2%, Surgery : 2%</SadjuukSurgeryAA.description>
+  <!-- EN: Basic Surgery Tools -->
+  <SadjuukSurgeryAB.label>Basic Surgery Tools</SadjuukSurgeryAB.label>
+  <!-- EN: Basic surgery tools made of silver and wood, increasing medical tend quality.\nTending : 2%, Infection : 2%, Surgery : 2% -->
+  <SadjuukSurgeryAB.description>Basic surgery tools made of silver and wood, increasing medical tend quality.
+Tending : 2%, Infection : 2%, Surgery : 2%</SadjuukSurgeryAB.description>
+  <!-- EN: Steel Surgery Tools -->
+  <SadjuukSurgeryAC.label>Steel Surgery Tools</SadjuukSurgeryAC.label>
+  <!-- EN: Standard medical tools.\nTending : 5%, Infection : 2%, Surgery : 5% -->
+  <SadjuukSurgeryAC.description>Standard medical tools.
+Tending : 5%, Infection : 2%, Surgery : 5%</SadjuukSurgeryAC.description>
+  <!-- EN: Surgery Lights. -->
+  <SadjuukSurgeryAD.label>Surgery Lights.</SadjuukSurgeryAD.label>
+  <!-- EN: A surgical lamp to help during delicate operations.\nTending : 5%, Infection : 0%, Surgery : 5% -->
+  <SadjuukSurgeryAD.description>A surgical lamp to help during delicate operations.
+Tending : 5%, Infection : 0%, Surgery : 5%</SadjuukSurgeryAD.description>
+  <!-- EN: Medecine Table -->
+  <SadjuukSurgeryBA.label>Medecine Table</SadjuukSurgeryBA.label>
+  <!-- EN: A Wooden table allowing poor medical care. -->
+  <SadjuukSurgeryBA.description>A Wooden table allowing poor medical care.</SadjuukSurgeryBA.description>
+  <!-- EN: Wooden Medical Bed -->
+  <SadjuukSurgeryBB.label>Wooden Medical Bed</SadjuukSurgeryBB.label>
+  <!-- EN: A Wooden bed, good for recovery. -->
+  <SadjuukSurgeryBB.description>A Wooden bed, good for recovery.</SadjuukSurgeryBB.description>
+  <!-- EN: Steel Medical Bed -->
+  <SadjuukSurgeryBC.label>Steel Medical Bed</SadjuukSurgeryBC.label>
+  <!-- EN: A Standard hospital bed, good for recovery. -->
+  <SadjuukSurgeryBC.description>A Standard hospital bed, good for recovery.</SadjuukSurgeryBC.description>
+  <!-- EN: Operating Table -->
+  <SadjuukSurgeryBD.label>Operating Table</SadjuukSurgeryBD.label>
+  <!-- EN: A Surgery bed allowing complex operations. -->
+  <SadjuukSurgeryBD.description>A Surgery bed allowing complex operations.</SadjuukSurgeryBD.description>
+  <!-- EN: Wood Logs Table -->
+  <SadjuukTableAA.label>Wood Logs Table</SadjuukTableAA.label>
+  <!-- EN: Size : 1X1\nA small table for social or work organization. -->
+  <SadjuukTableAA.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAA.description>
+  <!-- EN: Wood Plank Table -->
+  <SadjuukTableAB.label>Wood Plank Table</SadjuukTableAB.label>
+  <!-- EN: Size : 1X1\nA small table for social or work organization. -->
+  <SadjuukTableAB.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAB.description>
+  <!-- EN: Steel Table -->
+  <SadjuukTableAC.label>Steel Table</SadjuukTableAC.label>
+  <!-- EN: Size : 1X1\nA small table for social or work organization. -->
+  <SadjuukTableAC.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAC.description>
+  <!-- EN: Glass Table -->
+  <SadjuukTableAD.label>Glass Table</SadjuukTableAD.label>
+  <!-- EN: Size : 1X1\nA small table for social or work organization. -->
+  <SadjuukTableAD.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAD.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableAE.label>Plasteel Table</SadjuukTableAE.label>
+  <!-- EN: Size : 1X1\nA small table for social or work organization. -->
+  <SadjuukTableAE.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAE.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableAF.label>Plasteel Table</SadjuukTableAF.label>
+  <!-- EN: Size : 1X1\nA small table for social or work organization. -->
+  <SadjuukTableAF.description>Size : 1X1
+A small table for social or work organization.</SadjuukTableAF.description>
+  <!-- EN: Wood Logs Table -->
+  <SadjuukTableBA.label>Wood Logs Table</SadjuukTableBA.label>
+  <!-- EN: Size : 2X1\nA table for social or work organization. -->
+  <SadjuukTableBA.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBA.description>
+  <!-- EN: Wood Plank Table -->
+  <SadjuukTableBB.label>Wood Plank Table</SadjuukTableBB.label>
+  <!-- EN: Size : 2X1\nA table for social or work organization. -->
+  <SadjuukTableBB.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBB.description>
+  <!-- EN: Steel Table -->
+  <SadjuukTableBC.label>Steel Table</SadjuukTableBC.label>
+  <!-- EN: Size : 2X1\nA table for social or work organization. -->
+  <SadjuukTableBC.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBC.description>
+  <!-- EN: Glass Table -->
+  <SadjuukTableBD.label>Glass Table</SadjuukTableBD.label>
+  <!-- EN: Size : 2X1\nA table for social or work organization. -->
+  <SadjuukTableBD.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBD.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableBE.label>Plasteel Table</SadjuukTableBE.label>
+  <!-- EN: Size : 2X1\nA table for social or work organization. -->
+  <SadjuukTableBE.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBE.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableBF.label>Plasteel Table</SadjuukTableBF.label>
+  <!-- EN: Size : 2X1\nA table for social or work organization. -->
+  <SadjuukTableBF.description>Size : 2X1
+A table for social or work organization.</SadjuukTableBF.description>
+  <!-- EN: Wood Logs Table -->
+  <SadjuukTableCA.label>Wood Logs Table</SadjuukTableCA.label>
+  <!-- EN: Size : 3X1\nA long table for social or work organization. -->
+  <SadjuukTableCA.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCA.description>
+  <!-- EN: Wood Plank Table -->
+  <SadjuukTableCB.label>Wood Plank Table</SadjuukTableCB.label>
+  <!-- EN: Size : 3X1\nA long table for social or work organization. -->
+  <SadjuukTableCB.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCB.description>
+  <!-- EN: Steel Table -->
+  <SadjuukTableCC.label>Steel Table</SadjuukTableCC.label>
+  <!-- EN: Size : 3X1\nA long table for social or work organization. -->
+  <SadjuukTableCC.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCC.description>
+  <!-- EN: Glass Table -->
+  <SadjuukTableCD.label>Glass Table</SadjuukTableCD.label>
+  <!-- EN: Size : 3X1\nA long table for social or work organization. -->
+  <SadjuukTableCD.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCD.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableCE.label>Plasteel Table</SadjuukTableCE.label>
+  <!-- EN: Size : 3X1\nA long table for social or work organization. -->
+  <SadjuukTableCE.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCE.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableCF.label>Plasteel Table</SadjuukTableCF.label>
+  <!-- EN: Size : 3X1\nA long table for social or work organization. -->
+  <SadjuukTableCF.description>Size : 3X1
+A long table for social or work organization.</SadjuukTableCF.description>
+  <!-- EN: Wood Logs Table -->
+  <SadjuukTableDA.label>Wood Logs Table</SadjuukTableDA.label>
+  <!-- EN: Size : 2X2\nA large square table for social or work organization. -->
+  <SadjuukTableDA.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDA.description>
+  <!-- EN: Wood Plank Table -->
+  <SadjuukTableDB.label>Wood Plank Table</SadjuukTableDB.label>
+  <!-- EN: Size : 2X2\nA large square table for social or work organization. -->
+  <SadjuukTableDB.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDB.description>
+  <!-- EN: Steel Table -->
+  <SadjuukTableDC.label>Steel Table</SadjuukTableDC.label>
+  <!-- EN: Size : 2X2\nA large square table for social or work organization. -->
+  <SadjuukTableDC.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDC.description>
+  <!-- EN: Glass Table -->
+  <SadjuukTableDD.label>Glass Table</SadjuukTableDD.label>
+  <!-- EN: Size : 2X2\nA large square table for social or work organization. -->
+  <SadjuukTableDD.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDD.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableDE.label>Plasteel Table</SadjuukTableDE.label>
+  <!-- EN: Size : 2X2\nA large square table for social or work organization. -->
+  <SadjuukTableDE.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDE.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableDF.label>Plasteel Table</SadjuukTableDF.label>
+  <!-- EN: Size : 2X2\nA large square table for social or work organization. -->
+  <SadjuukTableDF.description>Size : 2X2
+A large square table for social or work organization.</SadjuukTableDF.description>
+  <!-- EN: Wood Logs Table -->
+  <SadjuukTableEA.label>Wood Logs Table</SadjuukTableEA.label>
+  <!-- EN: Size : 3X2\nA large table for social or work organization. -->
+  <SadjuukTableEA.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEA.description>
+  <!-- EN: Wood Plank Table -->
+  <SadjuukTableEB.label>Wood Plank Table</SadjuukTableEB.label>
+  <!-- EN: Size : 3X2\nA large table for social or work organization. -->
+  <SadjuukTableEB.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEB.description>
+  <!-- EN: Steel Table -->
+  <SadjuukTableEC.label>Steel Table</SadjuukTableEC.label>
+  <!-- EN: Size : 3X2\nA large table for social or work organization. -->
+  <SadjuukTableEC.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEC.description>
+  <!-- EN: Glass Table -->
+  <SadjuukTableED.label>Glass Table</SadjuukTableED.label>
+  <!-- EN: Size : 3X2\nA large table for social or work organization. -->
+  <SadjuukTableED.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableED.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableEE.label>Plasteel Table</SadjuukTableEE.label>
+  <!-- EN: Size : 3X2\nA large table for social or work organization. -->
+  <SadjuukTableEE.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEE.description>
+  <!-- EN: Plasteel Table -->
+  <SadjuukTableEF.label>Plasteel Table</SadjuukTableEF.label>
+  <!-- EN: Size : 3X2\nA large table for social or work organization. -->
+  <SadjuukTableEF.description>Size : 3X2
+A large table for social or work organization.</SadjuukTableEF.description>
+  <!-- EN: Wood Logs Meeting Table -->
+  <SadjuukTableFA.label>Wood Logs Meeting Table</SadjuukTableFA.label>
+  <!-- EN: Size : 3X1\nA Meeting Table for social or diplomatic meetings. -->
+  <SadjuukTableFA.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFA.description>
+  <!-- EN: Wood Plank Meeting Table -->
+  <SadjuukTableFB.label>Wood Plank Meeting Table</SadjuukTableFB.label>
+  <!-- EN: Size : 3X1\nA Meeting Table for social or diplomatic meetings. -->
+  <SadjuukTableFB.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFB.description>
+  <!-- EN: Steel Meeting Table -->
+  <SadjuukTableFC.label>Steel Meeting Table</SadjuukTableFC.label>
+  <!-- EN: Size : 3X1\nA Meeting Table for social or diplomatic meetings. -->
+  <SadjuukTableFC.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFC.description>
+  <!-- EN: Glass Meeting Table -->
+  <SadjuukTableFD.label>Glass Meeting Table</SadjuukTableFD.label>
+  <!-- EN: Size : 3X1\nA Meeting Table for social or diplomatic meetings. -->
+  <SadjuukTableFD.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFD.description>
+  <!-- EN: Plasteel Meeting Table -->
+  <SadjuukTableFE.label>Plasteel Meeting Table</SadjuukTableFE.label>
+  <!-- EN: Size : 3X1\nA Meeting Table for social or diplomatic meetings. -->
+  <SadjuukTableFE.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFE.description>
+  <!-- EN: Plasteel Meeting Table -->
+  <SadjuukTableFF.label>Plasteel Meeting Table</SadjuukTableFF.label>
+  <!-- EN: Size : 3X1\nA Meeting Table for social or diplomatic meetings. -->
+  <SadjuukTableFF.description>Size : 3X1
+A Meeting Table for social or diplomatic meetings.</SadjuukTableFF.description>
+  <!-- EN: Small Table -->
+  <SadjuukTableGA.label>Small Table</SadjuukTableGA.label>
+  <!-- EN: Size : 1X1\nA small table for bedroom furniture. -->
+  <SadjuukTableGA.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGA.description>
+  <!-- EN: Small Plank Table -->
+  <SadjuukTableGB.label>Small Plank Table</SadjuukTableGB.label>
+  <!-- EN: Size : 1X1\nA small table for bedroom furniture. -->
+  <SadjuukTableGB.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGB.description>
+  <!-- EN: Small Steel Table -->
+  <SadjuukTableGC.label>Small Steel Table</SadjuukTableGC.label>
+  <!-- EN: Size : 1X1\nA small table for bedroom furniture. -->
+  <SadjuukTableGC.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGC.description>
+  <!-- EN: Small Glass Table -->
+  <SadjuukTableGD.label>Small Glass Table</SadjuukTableGD.label>
+  <!-- EN: Size : 1X1\nA small table for bedroom furniture. -->
+  <SadjuukTableGD.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGD.description>
+  <!-- EN: Small Plasteel Table -->
+  <SadjuukTableGE.label>Small Plasteel Table</SadjuukTableGE.label>
+  <!-- EN: Size : 1X1\nA small table for bedroom furniture. -->
+  <SadjuukTableGE.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGE.description>
+  <!-- EN: Small Plasteel Table -->
+  <SadjuukTableGF.label>Small Plasteel Table</SadjuukTableGF.label>
+  <!-- EN: Size : 1X1\nA small table for bedroom furniture. -->
+  <SadjuukTableGF.description>Size : 1X1
+A small table for bedroom furniture.</SadjuukTableGF.description>
+  <!-- EN: Steel Ventilation -->
+  <SadjuukVentAA.label>Steel Ventilation</SadjuukVentAA.label>
+  <!-- EN: Very simple ventilation, giving breathable air and transmitting heat between rooms. Have to be placed on a wall. -->
+  <SadjuukVentAA.description>Very simple ventilation, giving breathable air and transmitting heat between rooms. Have to be placed on a wall.</SadjuukVentAA.description>
+  <!-- EN: Filtering Ventilation -->
+  <SadjuukVentAB.label>Filtering Ventilation</SadjuukVentAB.label>
+  <!-- EN: Good quality ventilation increases the comfort of the room. Have to be placed on a wall. -->
+  <SadjuukVentAB.description>Good quality ventilation increases the comfort of the room. Have to be placed on a wall.</SadjuukVentAB.description>
+  <!-- EN: Cozy Ventilation -->
+  <SadjuukVentAC.label>Cozy Ventilation</SadjuukVentAC.label>
+  <!-- EN: Filter ventilation of very good quality, greatly increasing the comfort of the room. Have to be placed on a wall. -->
+  <SadjuukVentAC.description>Filter ventilation of very good quality, greatly increasing the comfort of the room. Have to be placed on a wall.</SadjuukVentAC.description>
+  <!-- EN: Blue Wall Light -->
+  <SadjuukWallLightAB.label>Blue Wall Light</SadjuukWallLightAB.label>
+  <!-- EN: P : 20W, L : 8\nA basic Wall Light. -->
+  <SadjuukWallLightAB.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAB.description>
+  <!-- EN: Green Wall Light -->
+  <SadjuukWallLightAG.label>Green Wall Light</SadjuukWallLightAG.label>
+  <!-- EN: P : 20W, L : 8\nA basic Wall Light. -->
+  <SadjuukWallLightAG.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAG.description>
+  <!-- EN: Red Wall Light -->
+  <SadjuukWallLightAR.label>Red Wall Light</SadjuukWallLightAR.label>
+  <!-- EN: P : 20W, L : 8\nA basic Wall Light. -->
+  <SadjuukWallLightAR.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAR.description>
+  <!-- EN: White Wall Light -->
+  <SadjuukWallLightAW.label>White Wall Light</SadjuukWallLightAW.label>
+  <!-- EN: P : 20W, L : 8\nA basic Wall Light. -->
+  <SadjuukWallLightAW.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAW.description>
+  <!-- EN: Yellow Wall Light -->
+  <SadjuukWallLightAY.label>Yellow Wall Light</SadjuukWallLightAY.label>
+  <!-- EN: P : 20W, L : 8\nA basic Wall Light. -->
+  <SadjuukWallLightAY.description>P : 20W, L : 8
+A basic Wall Light.</SadjuukWallLightAY.description>
+  <!-- EN: Blue Wall Light -->
+  <SadjuukWallLightBB.label>Blue Wall Light</SadjuukWallLightBB.label>
+  <!-- EN: P : 10W, L : 8\nLED Wall Light. -->
+  <SadjuukWallLightBB.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBB.description>
+  <!-- EN: Green Wall Light -->
+  <SadjuukWallLightBG.label>Green Wall Light</SadjuukWallLightBG.label>
+  <!-- EN: P : 10W, L : 8\nLED Wall Light. -->
+  <SadjuukWallLightBG.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBG.description>
+  <!-- EN: Red Wall Light -->
+  <SadjuukWallLightBR.label>Red Wall Light</SadjuukWallLightBR.label>
+  <!-- EN: P : 10W, L : 8\nLED Wall Light. -->
+  <SadjuukWallLightBR.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBR.description>
+  <!-- EN: White Wall Light -->
+  <SadjuukWallLightBW.label>White Wall Light</SadjuukWallLightBW.label>
+  <!-- EN: P : 10W, L : 8\nLED Wall Light. -->
+  <SadjuukWallLightBW.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBW.description>
+  <!-- EN: Yellow Wall Light -->
+  <SadjuukWallLightBY.label>Yellow Wall Light</SadjuukWallLightBY.label>
+  <!-- EN: P : 10W, L : 8\nLED Wall Light. -->
+  <SadjuukWallLightBY.description>P : 10W, L : 8
+LED Wall Light.</SadjuukWallLightBY.description>
+  <!-- EN: Blue Wall Light -->
+  <SadjuukWallLightCB.label>Blue Wall Light</SadjuukWallLightCB.label>
+  <!-- EN: P : 20W, L : 12\nA Heavy industrial LED Wall Light. -->
+  <SadjuukWallLightCB.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCB.description>
+  <!-- EN: Green Wall Light -->
+  <SadjuukWallLightCG.label>Green Wall Light</SadjuukWallLightCG.label>
+  <!-- EN: P : 20W, L : 12\nA Heavy industrial LED Wall Light. -->
+  <SadjuukWallLightCG.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCG.description>
+  <!-- EN: Red Wall Light -->
+  <SadjuukWallLightCR.label>Red Wall Light</SadjuukWallLightCR.label>
+  <!-- EN: P : 20W, L : 12\nA Heavy industrial LED Wall Light. -->
+  <SadjuukWallLightCR.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCR.description>
+  <!-- EN: White Wall Light -->
+  <SadjuukWallLightCW.label>White Wall Light</SadjuukWallLightCW.label>
+  <!-- EN: P : 20W, L : 12\nA Heavy industrial LED Wall Light. -->
+  <SadjuukWallLightCW.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCW.description>
+  <!-- EN: Yellow Wall Light -->
+  <SadjuukWallLightCY.label>Yellow Wall Light</SadjuukWallLightCY.label>
+  <!-- EN: P : 20W, L : 12\nA Heavy industrial LED Wall Light. -->
+  <SadjuukWallLightCY.description>P : 20W, L : 12
+A Heavy industrial LED Wall Light.</SadjuukWallLightCY.description>
+</LanguageData>
