@@ -1,5 +1,8 @@
 # Changelog for UNFurniture
 
+1.6.2 - Fixed wrong author name
+
+
 1.6.1 - Added missing vent off-textures
 
 
