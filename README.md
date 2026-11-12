@@ -84,4 +84,4 @@ Hope you will enjoy !
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/UNFurniture?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2019774854) | tags: colony expansion
+[![Image](https://img.shields.io/github/v/release/emipa606/UNFurniture?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2019774854) | colony expansion
